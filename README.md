@@ -14,6 +14,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | Datum | Manual | Sprachen |
 |-------|--------|----------|
 | 20.09 | **Arms Race** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_ES.md) |
+| 20.09 | **Region Duel (SvS)** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_ES.md) |
 | 20.09 | **Storm Rescue** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_ES.md) |
 | 10.01 | **World Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
 | 20.09 | **Alliance Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_ES.md) |
@@ -28,6 +29,16 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 - Truhen bei 6.250 / 12.500 / 30.000 Punkten; Ranking 1–15 in zugeloster Gegnergruppe
 - Tage 1/4, 2/6 und 3/7 sind identisch
 - **SvS-relevant:** große Ausgaben mit SvS-Zielen synchronisieren
+
+---
+
+## Inhalt: Region Duel / SvS (Kurzfassung)
+
+- 1v1 zwischen Regionen über 2–3 Wochen; Sieg = Central City der Gegner besetzen
+- Mo–Fr Punkte-Wettstreit → mehr Punkte = Angreifer; ab Sa Central City Clash
+- Größte Punktquelle: **World Boss** (+250.000 Region-Sieg, +150.000 Einzelschaden-Platz-1)
+- Sa: 50.000 persönliche Punkte für die Win-Streak-Belohnung; Kills an Central City/Giant Battery zählen 6× (+54 statt +9)
+- Eigene Region = Verbündete (außer Basis-Angriffe) — Einigkeit entscheidet
 
 ---
 
@@ -93,6 +104,11 @@ GTs/
     │   ├── frenzied-boss_DE.md
     │   ├── frenzied-boss_FR.md
     │   └── frenzied-boss_ES.md
+    ├── region-duel/
+    │   ├── region-duel_EN.md
+    │   ├── region-duel_DE.md
+    │   ├── region-duel_FR.md
+    │   └── region-duel_ES.md
     ├── storm-rescue/
     │   ├── storm-rescue_EN.md
     │   ├── storm-rescue_DE.md
