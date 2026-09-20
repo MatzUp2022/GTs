@@ -22,6 +22,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | 20.09 | **3V3 Arena** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_ES.md) |
 | 20.09 | **Faction Trial** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/faction-trial/faction-trial_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/faction-trial/faction-trial_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/faction-trial/faction-trial_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/faction-trial/faction-trial_ES.md) |
 | 20.09 | **Peak Arena** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_ES.md) |
+| 20.09 | **Vehicle / Armored Warmachine** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/vehicle/vehicle_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/vehicle/vehicle_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/vehicle/vehicle_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/vehicle/vehicle_ES.md) |
 | 20.09 | **VIP-System** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/vip/vip_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/vip/vip_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/vip/vip_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/vip/vip_ES.md) |
 | 10.01 | **World Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
 | 20.09 | **Alliance Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_ES.md) |
@@ -148,6 +149,16 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 ---
 
+## Inhalt: Vehicle / Armored Warmachine (Kurzfassung)
+
+- Fahrzeug greift durchgehend an, ist selbst unangreifbar; Werte gehen zu 15 % auf die Team-Helden über
+- **EXP-Crit:** unter 80 % Leiste 50 % Chance auf doppelte EXP — EXP-Items dort füttern
+- Skill Global Strike (426 % ATK auf 2 Ziele); Skill-Stufen bei Lv. 30/50/70/90/110
+- 6 Module (ab Basis 15): Turret (Hero ATK + Skill-DMG) und Radar (Hero HP) priorisieren; 3 gleiche = Merge
+- Skins geben passive Boni, auch unbenutzt; ab Server-Tag 82: Battle Advancement + Skill Core
+
+---
+
 ## Inhalt: VIP-System (Kurzfassung)
 
 - VIP-EXP über täglichen Login-Streak (+ kaufbare EXP/Pakete); Privilegien kumulativ
@@ -251,6 +262,11 @@ GTs/
     │   ├── storm-rescue_DE.md
     │   ├── storm-rescue_FR.md
     │   └── storm-rescue_ES.md
+    ├── vehicle/
+    │   ├── vehicle_EN.md
+    │   ├── vehicle_DE.md
+    │   ├── vehicle_FR.md
+    │   └── vehicle_ES.md
     ├── vip/
     │   ├── vip_EN.md
     │   ├── vip_DE.md
