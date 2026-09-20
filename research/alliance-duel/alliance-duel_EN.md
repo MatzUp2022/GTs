@@ -23,6 +23,7 @@
 | 5 | +25 % | 11,996 | 10 | +50 % | 42,152 |
 
 - Example research times: roughly **2.5–3 days per level** (complete now 7,198–8,898 diamonds).
+- **Lighter incentives** (Radar, Acceleration, Recruitment — points from radar missions, speedups and recruitment): also **+5 → +50 %** over 10 levels, but much cheaper — **CP 606 → 16,700**.
 
 ## 3. Priorities & Links
 

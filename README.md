@@ -39,7 +39,9 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | 20.09 | **Economy** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/economy/economy_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/economy/economy_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/economy/economy_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/economy/economy_ES.md) |
 | 20.09 | **Hero** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/hero/hero_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/hero/hero_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/hero/hero_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/hero/hero_ES.md) |
 | 20.09 | **Soldier** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/soldier/soldier_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/soldier/soldier_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/soldier/soldier_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/soldier/soldier_ES.md) |
+| 20.09 | **Super Soldier** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/super-soldier/super-soldier_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/super-soldier/super-soldier_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/super-soldier/super-soldier_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/super-soldier/super-soldier_ES.md) |
 | 20.09 | **Team** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/team/team_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/team/team_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/team/team_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/team/team_ES.md) |
+| 20.09 | **Trade Truck** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/trade-truck/trade-truck_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/trade-truck/trade-truck_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/trade-truck/trade-truck_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/trade-truck/trade-truck_ES.md) |
 
 ---
 
@@ -82,6 +84,21 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 - Blöcke: Soldaten-ATK + DEF → HP → Tragelast, je 5 Level; Kampf-Kette vor Tragelast
 - Stärkt Region Duel (Lv.-8-Kills) und alle Rally-Events
+
+---
+
+## Inhalt: Forschung — Super Soldier (Kurzfassung)
+
+- 10-Level-Techs: flache HP/ATK/DEF-Werte **je Soldat** (skalieren mit der Armeegröße) + Premium Protection (+1,5→15 %)
+- Fortschritt ≥ 40 % schaltet mit Lab 21 die Siege-/Defense-Specializations frei
+- Abschlüsse in die Research-Tech-Phase legen
+
+---
+
+## Inhalt: Forschung — Trade Truck (Kurzfassung)
+
+- Economy Rec.: Ressourcen-Boost → Eskorten → Truck-Tempo → Fracht +1 → +1 Truck (Meilensteine)
+- Region Duel: gegnerische Trucks plündern = +100 Punkte — eigene Trucks per Eskorte schützen
 
 ---
 
@@ -329,11 +346,21 @@ GTs/
     │   ├── soldier_DE.md
     │   ├── soldier_FR.md
     │   └── soldier_ES.md
-    └── team/
-        ├── team_EN.md
-        ├── team_DE.md
-        ├── team_FR.md
-        └── team_ES.md
+    ├── super-soldier/
+    │   ├── super-soldier_EN.md
+    │   ├── super-soldier_DE.md
+    │   ├── super-soldier_FR.md
+    │   └── super-soldier_ES.md
+    ├── team/
+    │   ├── team_EN.md
+    │   ├── team_DE.md
+    │   ├── team_FR.md
+    │   └── team_ES.md
+    └── trade-truck/
+        ├── trade-truck_EN.md
+        ├── trade-truck_DE.md
+        ├── trade-truck_FR.md
+        └── trade-truck_ES.md
 ```
 
 **Namenskonvention:** `<event-slug>_<SPRACHCODE>.md` — ein Ordner pro Event unter `events/`.

@@ -4,9 +4,19 @@
 
 - Bloques recurrentes, **5 niveles** por tecnología:
   **ATQ de soldados** (balas) + **DEF de soldados** (escudo) → **PV de soldados** (corazón) → **carga** (mochila) — luego el siguiente nivel con las mismas tecnologías a costes mayores.
-- Los valores exactos están en los popups del juego (no incluidos en las capturas).
+- Los primeros bloques tienen 5 niveles; los posteriores, **10 niveles** por tecnología.
 
-## 2. Orden recomendado
+## 2. Valores (ejemplo nivel 8, 10 niveles cada uno)
+
+| Tecnología | Efecto nv. 1 → 10 | CP nv. 1 → 10 |
+|------------|-------------------|---------------|
+| Offensive Training (ATQ de soldados) | +1,5 → 15 % | 4.645 → 74.042 |
+| Defensive Training (DEF de soldados) | +1,5 → 15 % | 4.645 → 74.042 |
+| Premium Defense (PV de soldados) | +1,5 → 15 % | 4.645 → 74.042 |
+
+*Como complemento, del árbol Development: Training Speed Up 5 (+1 → 10 % de velocidad de entrenamiento, CP 6.159 → 96.275).*
+
+## 3. Orden recomendado
 
 | Paso | Acción |
 |------|--------|
@@ -14,12 +24,12 @@
 | 2 | Seguir con los PV (menos bajas = menos curación) |
 | 3 | La carga al final (más botín por marcha, útil para recolectores y saqueo de camiones) |
 
-## 3. Vínculos
+## 4. Vínculos
 
 - Las finalizaciones cuentan en la fase **«Research Tech» del Arms Race con +1 punto por CP**.
 - Soldados más fuertes cuentan directamente en el **Region Duel** (Central City Clash: las bajas de nv. 8 dan puntos) y en todos los eventos de rally.
 
-## 4. Lista de control
+## 5. Lista de control
 
 - [ ] Bloque actual terminado (ATQ/DEF → PV → carga) antes del siguiente
 - [ ] Finalizaciones colocadas en la fase Research Tech

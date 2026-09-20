@@ -23,6 +23,7 @@
 | 5 | +25 % | 11.996 | 10 | +50 % | 42.152 |
 
 - Forschungszeiten im Beispiel: ca. **2,5–3 Tage pro Level** (Complete Now 7.198–8.898 Diamanten).
+- **Leichtere Incentives** (Radar, Acceleration, Recruitment — Punkte aus Radar-Missionen, Beschleunigungen und Rekrutierung): ebenfalls **+5 → +50 %** über 10 Level, aber deutlich günstiger — **CP 606 → 16.700**.
 
 ## 3. Priorisierung & Kopplung
 

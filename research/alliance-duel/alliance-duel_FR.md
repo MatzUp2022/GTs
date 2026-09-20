@@ -23,6 +23,7 @@
 | 5 | +25 % | 11 996 | 10 | +50 % | 42 152 |
 
 - Durées d'exemple : environ **2,5–3 jours par niveau** (« Complete Now » 7 198–8 898 diamants).
+- **Incentives légères** (Radar, Acceleration, Recruitment — points des missions radar, des accélérations et du recrutement) : aussi **+5 → +50 %** sur 10 niveaux, mais bien moins chères — **CP 606 → 16 700**.
 
 ## 3. Priorités & liens
 
