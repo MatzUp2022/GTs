@@ -9,36 +9,50 @@ Repo: https://github.com/MatzUp2022/GTs
 
 ## Struktur
 
+Die Ordner **spiegeln die Spiel-Oberfläche**: Jedes Top-Level-Verzeichnis entspricht einem Button
+bzw. Bereich im Spiel, darunter liegt ein Ordner je Manual.
+
 ```
 GTs/
-├── README.md                    # Übersicht + Links auf alle Manuals
-├── CLAUDE.md                    # diese Datei
-├── events/
-│   └── <event-slug>/
-│       ├── <event-slug>_EN.md
-│       ├── <event-slug>_DE.md
-│       ├── <event-slug>_FR.md
-│       └── <event-slug>_ES.md
-└── research/                    # Forschungs-/Tech-Manuals, gleiche Konventionen
-    └── <tech-slug>/
-        ├── <tech-slug>_EN.md
-        ├── <tech-slug>_DE.md
-        ├── <tech-slug>_FR.md
-        └── <tech-slug>_ES.md
+├── README.md        # Übersicht, gegliedert wie die Spiel-Navigation
+├── CLAUDE.md        # diese Datei
+├── events/          # Button „Events" (rechte Leiste)
+├── region-duel/     # Button „Region Duel" (SvS)
+├── trial/           # Button „Trial" (untere Leiste)
+├── hero/            # Button „Hero" (untere Leiste)
+├── alliance/        # Button „Alliance" (untere Leiste)
+├── minigames/       # Button „Leave None" (untere Leiste)
+├── base/            # Basis & Gebäude (Radar, Tavern, Vehicle)
+│   └── research/    # Research Lab: ein Ordner je Forschungsbaum
+└── account/         # Profil · Shop · VIP · Hilfe
 ```
+
+Ein Manual liegt immer als Ordner mit vier Sprachdateien vor:
+
+```
+<bereich>/<slug>/
+├── <slug>_EN.md
+├── <slug>_DE.md
+├── <slug>_FR.md
+└── <slug>_ES.md
+```
+
+Bereiche mit nur einem Manual (z. B. `region-duel/`, `minigames/`) enthalten die vier Dateien direkt.
 
 ## Regeln
 
 1. **Vier Sprachen, immer synchron.** Jedes Manual existiert als EN, DE, FR, ES. Wird eine Fassung geändert, werden alle vier angepasst — keine inhaltlichen Abweichungen zwischen den Sprachen.
-2. **Namenskonvention:** `<event-slug>_<SPRACHCODE>.md`, Slug in Kleinbuchstaben mit Bindestrich (`world-boss`, `alliance-duel`).
-3. **README aktuell halten.** Neues Manual → neue Zeile in der Event-Tabelle mit vier Sprachlinks im Format
-   `https://github.com/MatzUp2022/GTs/blob/main/events/<slug>/<slug>_<CODE>.md`
-4. **Stil:** knapp, tabellarisch, keine Fülltexte. Konkrete Zahlen und Punktwerte statt allgemeiner Tipps. Zielumfang pro Manual: eine Bildschirmseite.
-5. **Aufbau eines Manuals:** Grundregeln → Ressourcen-/Versuchsökonomie → empfohlener Ablauf (Tabelle) → Kopplung an übergeordnete Events (SvS etc.) → Checkliste zum Abhaken.
-6. **Spielmechaniken nicht erfinden.** Werte, Boni und Punktzahlen nur übernehmen, wenn sie vom Nutzer genannt oder belegt sind. Unklares markieren statt schätzen.
+2. **Namenskonvention:** `<slug>_<SPRACHCODE>.md`, Slug in Kleinbuchstaben mit Bindestrich (`world-boss`, `alliance-duel`).
+3. **Einsortieren nach Spiel-UI.** Ein neues Manual kommt in den Bereich, über dessen Button oder Gebäude man das Thema im Spiel erreicht. Passt nichts, wird ein neuer Top-Level-Bereich mit dem Namen des UI-Elements angelegt.
+4. **README aktuell halten.** Neues Manual → neue Zeile in der Tabelle des passenden Bereichs mit Kurz-Info und vier Sprachlinks im Format
+   `https://github.com/MatzUp2022/GTs/blob/main/<bereich>/<slug>/<slug>_<CODE>.md`
+5. **Stil:** knapp, tabellarisch, keine Fülltexte. Konkrete Zahlen und Punktwerte statt allgemeiner Tipps. Zielumfang pro Manual: eine Bildschirmseite.
+6. **Aufbau eines Manuals:** Grundregeln → Ressourcen-/Versuchsökonomie → empfohlener Ablauf (Tabelle) → Kopplung an übergeordnete Events (SvS etc.) → Checkliste zum Abhaken.
+7. **Spielmechaniken nicht erfinden.** Werte, Boni und Punktzahlen nur übernehmen, wenn sie vom Nutzer genannt oder belegt sind. Unklares markieren statt schätzen.
 
 ## Typische Aufgaben
 
-- Neues Event-Manual anlegen (alle vier Sprachen + README-Zeile)
+- Neues Manual anlegen (alle vier Sprachen + README-Zeile im passenden Bereich)
 - Bestehendes Manual nach Balance-Änderung aktualisieren (alle vier Sprachen)
 - Sprachfassungen auf Abweichungen prüfen
+- Helden-Datenbank (`hero/hero-db/`) um weitere Helden ergänzen
