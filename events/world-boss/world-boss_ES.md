@@ -5,6 +5,7 @@
 - **Solo el mejor equipo dorado** en los héroes elegidos. Equipar antes del primer golpe, no entre intentos.
 - **Comprobar el buff diario:** qué facción inflige hoy **+50 % de daño** (p. ej. Guardian) → priorizarla.
 - Formación **exclusiva del evento**, no el escuadrón de rally habitual.
+- **Alinear cinco héroes de la misma facción:** el bono de monofacción añade +20 % PV/ATQ/DEF encima — junto con el buff diario, la combinación más fuerte.
 - **Calendario:** lun, jue y dom — aparece a las 0:00, 6:00, 12:00 y 18:00 (hora del servidor), activo **3 horas** cada vez.
 - **Requisito:** base nivel 8+. Ataques **en solitario — sin rallys**.
 

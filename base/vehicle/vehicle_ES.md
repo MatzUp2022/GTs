@@ -15,6 +15,7 @@
 ## 3. Habilidad: Global Strike
 
 - Base: **426 % del ATQ** como daño físico a 2 enemigos.
+- Los efectos de estrella que aumentan el daño recibido por el objetivo valen para **todo el equipo** — eso hace del vehículo el mayor amplificador de daño de la formación. Lanzarlo antes del burst de los carries.
 
 | Estrella | Efecto |
 |----------|--------|

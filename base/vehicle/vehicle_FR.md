@@ -15,6 +15,7 @@
 ## 3. Compétence : Global Strike
 
 - Base : **426 % de l'ATQ** en dégâts physiques sur 2 ennemis.
+- Les effets d'étoile qui augmentent les dégâts subis par la cible valent pour **toute l'équipe** — le véhicule est donc le plus fort amplificateur de dégâts de la composition. À déclencher avant le burst des carries.
 
 | Étoile | Effet |
 |--------|-------|

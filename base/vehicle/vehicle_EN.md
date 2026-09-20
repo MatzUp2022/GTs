@@ -15,6 +15,7 @@
 ## 3. Skill: Global Strike
 
 - Base: **426 % ATK** as physical damage to 2 enemies.
+- The star effects that raise the target's damage taken apply for the **whole team** — that makes the vehicle the strongest damage amplifier in the line-up. Fire it before your carries burst.
 
 | Star | Effect |
 |------|--------|

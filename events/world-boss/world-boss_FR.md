@@ -5,6 +5,7 @@
 - **Uniquement le meilleur équipement doré** sur les héros choisis. Équiper avant la première attaque, pas entre les runs.
 - **Vérifier le buff du jour :** quelle faction inflige **+50 % de dégâts** aujourd'hui (p. ex. Guardian) → la prioriser.
 - Composition **réservée à l'événement**, pas l'escouade de rally standard.
+- **Aligner cinq héros de la même faction :** le bonus mono-faction ajoute +20 % PV/ATQ/DÉF par-dessus — avec le buff du jour, la combinaison la plus forte.
 - **Calendrier :** lun, jeu & dim — apparition à 0h00, 6h00, 12h00 et 18h00 (heure serveur), actif **3 heures** à chaque fois.
 - **Prérequis :** base niveau 8+. Attaques **en solo — pas de rally**.
 

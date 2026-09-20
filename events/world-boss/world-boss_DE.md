@@ -5,6 +5,7 @@
 - **Nur beste goldene Ausrüstung** auf den gewählten Helden. Gear vor dem ersten Hit setzen, nicht zwischendurch.
 - **Tages-Buff prüfen:** Welche Fraktion macht heute **+50 % DMG** (z. B. Guardian) → diese priorisieren.
 - Reine **Event-Aufstellung**, nicht die Standard-Rally-Truppe.
+- **Fünf Helden derselben Fraktion aufstellen:** Der Mono-Fraktions-Bonus gibt +20 % HP/ATK/DEF obendrauf — zusammen mit dem Tages-Buff die stärkste Kombination.
 - **Termine:** Mo, Do & So — Spawn um 0:00, 6:00, 12:00 und 18:00 Serverzeit, jeweils **3 Stunden** aktiv.
 - **Voraussetzung:** Basis-Level 8+. Angriffe **solo — keine Rallys**.
 

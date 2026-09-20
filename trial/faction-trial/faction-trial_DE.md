@@ -6,6 +6,7 @@
 - Fortschritt resettet **jede Woche Di / Do / So**.
 - Schwierigkeit ist frei wählbar, aber: **nur ein Level pro Zyklus, danach nicht mehr änderbar.**
 - **Jeder Held kann nur in einem Trial eingesetzt werden** — das Roster muss auf die drei Trials aufgeteilt werden.
+- **Gratis-Bonus:** Da jedes Trial-Team ohnehin mono-fraktional ist, greift der Aufstellungs-Bonus von **+20 % HP/ATK/DEF** automatisch.
 
 ## 2. Empfohlener Ablauf
 

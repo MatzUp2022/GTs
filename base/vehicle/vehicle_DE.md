@@ -15,6 +15,7 @@
 ## 3. Skill: Global Strike
 
 - Basis: **426 % ATK** als physischer Schaden auf 2 Gegner.
+- Die Sterneffekte mit „Ziel erleidet mehr DMG" wirken für das **ganze Team** — das Fahrzeug ist damit der stärkste Schadensverstärker der Aufstellung. Vor dem Burst der Carries zünden.
 
 | Stern | Effekt |
 |-------|--------|

@@ -24,7 +24,8 @@ GTs/
 ├── minigames/       # Button „Leave None" (untere Leiste)
 ├── base/            # Basis & Gebäude (Radar, Tavern, Vehicle)
 │   └── research/    # Research Lab: ein Ordner je Forschungsbaum
-└── account/         # Profil · Shop · VIP · Hilfe
+├── account/         # Profil · Shop · VIP · Hilfe
+└── strategy/        # übertragene Strategien aus verwandten Spielen (kein UI-Element)
 ```
 
 Ein Manual liegt immer als Ordner mit vier Sprachdateien vor:
@@ -44,6 +45,7 @@ Bereiche mit nur einem Manual (z. B. `region-duel/`, `minigames/`) enthalten die
 1. **Vier Sprachen, immer synchron.** Jedes Manual existiert als EN, DE, FR, ES. Wird eine Fassung geändert, werden alle vier angepasst — keine inhaltlichen Abweichungen zwischen den Sprachen.
 2. **Namenskonvention:** `<slug>_<SPRACHCODE>.md`, Slug in Kleinbuchstaben mit Bindestrich (`world-boss`, `alliance-duel`).
 3. **Einsortieren nach Spiel-UI.** Ein neues Manual kommt in den Bereich, über dessen Button oder Gebäude man das Thema im Spiel erreicht. Passt nichts, wird ein neuer Top-Level-Bereich mit dem Namen des UI-Elements angelegt.
+   Ausnahme: Inhalte ohne UI-Entsprechung (z. B. aus anderen Spielen übertragene Strategien) gehören nach `strategy/` und müssen **als unverifiziert gekennzeichnet** sein.
 4. **README aktuell halten.** Neues Manual → neue Zeile in der Tabelle des passenden Bereichs mit Kurz-Info und vier Sprachlinks im Format
    `https://github.com/MatzUp2022/GTs/blob/main/<bereich>/<slug>/<slug>_<CODE>.md`
 5. **Stil:** knapp, tabellarisch, keine Fülltexte. Konkrete Zahlen und Punktwerte statt allgemeiner Tipps. Zielumfang pro Manual: eine Bildschirmseite.
