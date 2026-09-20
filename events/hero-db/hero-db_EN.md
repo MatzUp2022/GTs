@@ -1,6 +1,6 @@
 # Hero Database (excerpt) — Last Light
 
-*Base skill values scale with skill level (medals); the max level hangs on the stars (4★ = Lv. 20, 5★ = Lv. 30), and the 5th star effect only unlocks by "Awaken to 5-Star". The awakening skill is identical for everyone: **HP/ATK/DEF +20 %, speed +40**. Values = documented state; extended continuously.*
+*Base skill values scale with skill level (medals); the max level hangs on the stars (**3★ = Lv. 10, 4★ = Lv. 20, 5★ = Lv. 30**), and higher star effects unlock via "Awaken to 4-/5-Star". The awakening skill is identical for everyone (**HP/ATK/DEF +20 %, speed +40**) and opens at **4★**. Values = documented state; extended continuously.*
 
 ## Ella — Jungle Phantom (S+ · Guardian · DMG)
 
@@ -42,8 +42,43 @@
 | Undying Creed | Front-row DEF +35 %, 1 turn (stars: **all allies**, 2 turns) |
 | third skill (shield icon) | not documented — check in game |
 
+## Loki — Deadly Rocker
+
+| Skill | Effect |
+|-------|--------|
+| Gunfire Solo | 266 % ATK as energy DMG, single target |
+| Frenzied Beat | **All allies** ATK +11.5 %, 1 turn (stars: +2 % steps, **crit +10 %**, 2 turns) |
+| Rebellious Spirit | Passive: own speed +23; the ally with the highest ATK takes −9 % DMG (per star +2 speed / −1 %) |
+
+## Grace — Bunny Girl (Ranger)
+
+| Skill | Effect |
+|-------|--------|
+| Stealth Assassination | 323 % ATK as energy DMG, single target |
+| All-In Gamble (CS) | 249 % energy, **prioritizes the back row**, 10 % stun chance for 1 turn (stars: up to 3 targets) |
+| Path of Vengeance | Passive: own ATK +30 % (+4 % per star) |
+
+## Valkyra — Speedy Rider
+
+| Skill | Effect |
+|-------|--------|
+| Last-Run Dash | 265 % ATK as physical DMG, single target |
+| Speedy Charge | **Taunts** 2 enemies + their ATK −11.5 % for 2 turns (stars: up to 4 targets) |
+| Momentum | Passive: DMG taken −21 % (−3 % per star) |
+
+## Sagitta — Bow of Tomorrow
+
+| Skill | Effect |
+|-------|--------|
+| Hunting Arrow | 246 % ATK physical to the enemy with the **lowest HP** |
+| Arrow Spray (CS) | 194 % physical to 3 random targets (stars: own ATK +3/+6 % until end of battle) |
+| Hunter Instinct | Passive: crit rate +20 % (+3 % per star) |
+
+- At 3★ still: awakening skill locked, skill cap Lv. 10 — starring up is the top priority here.
+
 ## Usage Notes
 
 - **Team synergy:** Viper/Marcus as front protection (damage reduction/DEF buff), Ella/Jessica as carries, Admira suppresses enemy magic damage.
 - AoE skills (Chainsaw Carnival, Governing Edge) shine in Frenzied Boss/Storm Rescue; single-target nukers in World Boss & the arenas.
 - Stars go to the carries first — the jump to 5★ raises the skill cap (Lv. 30) and the 5th star effect.
+- More roles: **Loki** buffs team ATK (+crit), **Valkyra** tanks via taunt and lowers enemy ATK, **Grace** snipes the back row (stun), **Sagitta** finishes low-HP targets.

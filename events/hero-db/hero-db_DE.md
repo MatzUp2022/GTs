@@ -1,6 +1,6 @@
 # Helden-Datenbank (Auszug) — Last Light
 
-*Skill-Grundwerte skalieren mit dem Skill-Level (Medaillen); das Max-Level hängt an den Sternen (4★ = Lv. 20, 5★ = Lv. 30), der 5. Sterneffekt schaltet erst mit „Awaken to 5-Star" frei. Der Erwachen-Skill ist bei allen gleich: **HP/ATK/DEF +20 %, Speed +40**. Werte = dokumentierter Stand; wird fortlaufend ergänzt.*
+*Skill-Grundwerte skalieren mit dem Skill-Level (Medaillen); das Max-Level hängt an den Sternen (**3★ = Lv. 10, 4★ = Lv. 20, 5★ = Lv. 30**), höhere Sterneffekte schalten per „Awaken to 4-/5-Star" frei. Der Erwachen-Skill ist bei allen gleich (**HP/ATK/DEF +20 %, Speed +40**) und öffnet bei **4★**. Werte = dokumentierter Stand; wird fortlaufend ergänzt.*
 
 ## Ella — Jungle Phantom (S+ · Guardian · DMG)
 
@@ -42,8 +42,43 @@
 | Undying Creed | Frontreihe-DEF +35 %, 1 Runde (Sterne: **alle Verbündeten**, 2 Runden) |
 | dritter Skill (Schild-Symbol) | nicht dokumentiert — im Spiel prüfen |
 
+## Loki — Deadly Rocker
+
+| Skill | Wirkung |
+|-------|---------|
+| Gunfire Solo | 266 % ATK als Energy DMG, Einzelziel |
+| Frenzied Beat | **Alle Verbündeten** ATK +11,5 %, 1 Runde (Sterne: +2 %-Schritte, **Crit +10 %**, 2 Runden) |
+| Rebellious Spirit | Passiv: eigene Speed +23; der Verbündete mit der höchsten ATK erleidet −9 % DMG (je Stern +2 Speed / −1 %) |
+
+## Grace — Bunny Girl (Ranger)
+
+| Skill | Wirkung |
+|-------|---------|
+| Stealth Assassination | 323 % ATK als Energy DMG, Einzelziel |
+| All-In Gamble (CS) | 249 % Energy, **priorisiert die Backrow**, 10 % Stun-Chance 1 Runde (Sterne: bis 3 Ziele) |
+| Path of Vengeance | Passiv: eigene ATK +30 % (je Stern +4 %) |
+
+## Valkyra — Speedy Rider
+
+| Skill | Wirkung |
+|-------|---------|
+| Last-Run Dash | 265 % ATK als Physical DMG, Einzelziel |
+| Speedy Charge | **Taunt** auf 2 Gegner + deren ATK −11,5 % für 2 Runden (Sterne: bis 4 Ziele) |
+| Momentum | Passiv: erlittener DMG −21 % (je Stern −3 %) |
+
+## Sagitta — Bow of Tomorrow
+
+| Skill | Wirkung |
+|-------|---------|
+| Hunting Arrow | 246 % ATK Physical auf den Gegner mit dem **niedrigsten HP** |
+| Arrow Spray (CS) | 194 % Physical auf 3 Zufallsziele (Sterne: eigene ATK +3/+6 % bis Kampfende) |
+| Hunter Instinct | Passiv: Crit-Rate +20 % (je Stern +3 %) |
+
+- Bei 3★ noch: Erwachen-Skill gesperrt, Skill-Cap Lv. 10 — Star-Up hat hier höchste Priorität.
+
 ## Einsatz-Hinweise
 
 - **Team-Synergie:** Viper/Marcus als Front-Schutz (Schadensreduktion/DEF-Buff), Ella/Jessica als Carries, Admira drückt gegnerischen Magic-Schaden.
 - AoE-Skills (Chainsaw Carnival, Governing Edge) glänzen im Frenzied Boss/Storm Rescue; Einzelziel-Nuker im World Boss & den Arenen.
 - Sterne zuerst auf die Carries — der Sprung auf 5★ hebt Skill-Cap (Lv. 30) und 5. Sterneffekt.
+- Weitere Rollen: **Loki** bufft Team-ATK (+Crit), **Valkyra** tankt per Taunt und senkt Gegner-ATK, **Grace** snipet die Backrow (Stun), **Sagitta** finisht Ziele mit wenig HP.

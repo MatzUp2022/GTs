@@ -173,8 +173,8 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 ## Inhalt: Helden-Datenbank (Kurzfassung)
 
-- Skills der dokumentierten Helden: Ella & Jessica (DMG-Carries), Viper & Marcus (Front-Schutz), Admira (Anti-Magie)
-- Skill-Max-Level hängt an Sternen (4★ = 20, 5★ = 30); 5. Sterneffekt erst mit Awaken to 5-Star
+- 9 dokumentierte Helden: Ella & Jessica (DMG), Viper & Marcus (Front-Schutz), Admira (Anti-Magie), Loki (ATK-Buff), Valkyra (Taunt-Tank), Grace (Backrow-Sniper), Sagitta (Finisher)
+- Skill-Max-Level hängt an Sternen (3★ = 10, 4★ = 20, 5★ = 30); Erwachen-Skill öffnet bei 4★
 - Erwachen-Skill bei allen: HP/ATK/DEF +20 %, Speed +40
 - Wird fortlaufend um weitere Helden ergänzt
 

@@ -1,6 +1,6 @@
 # Base de données des héros (extrait) — Last Light
 
-*Les valeurs de base des compétences évoluent avec le niveau de compétence (médailles) ; le niveau max dépend des étoiles (4★ = niv. 20, 5★ = niv. 30), et le 5e effet d'étoile ne se débloque qu'avec « Awaken to 5-Star ». La compétence d'éveil est identique pour tous : **PV/ATQ/DÉF +20 %, vitesse +40**. Valeurs = état documenté ; complété au fil de l'eau.*
+*Les valeurs de base des compétences évoluent avec le niveau de compétence (médailles) ; le niveau max dépend des étoiles (**3★ = niv. 10, 4★ = niv. 20, 5★ = niv. 30**), et les effets d'étoile supérieurs se débloquent via « Awaken to 4-/5-Star ». La compétence d'éveil est identique pour tous (**PV/ATQ/DÉF +20 %, vitesse +40**) et s'ouvre à **4★**. Valeurs = état documenté ; complété au fil de l'eau.*
 
 ## Ella — Jungle Phantom (S+ · Guardian · dégâts)
 
@@ -42,8 +42,43 @@
 | Undying Creed | DÉF de la ligne avant +35 %, 1 tour (étoiles : **tous les alliés**, 2 tours) |
 | troisième compétence (icône bouclier) | non documentée — à vérifier en jeu |
 
+## Loki — Deadly Rocker
+
+| Compétence | Effet |
+|------------|-------|
+| Gunfire Solo | 266 % de l'ATQ en dégâts d'énergie, cible unique |
+| Frenzied Beat | **Tous les alliés** ATQ +11,5 %, 1 tour (étoiles : paliers de +2 %, **crit +10 %**, 2 tours) |
+| Rebellious Spirit | Passif : sa vitesse +23 ; l'allié avec la plus haute ATQ subit −9 % de dégâts (par étoile +2 vitesse / −1 %) |
+
+## Grace — Bunny Girl (Ranger)
+
+| Compétence | Effet |
+|------------|-------|
+| Stealth Assassination | 323 % de l'ATQ en dégâts d'énergie, cible unique |
+| All-In Gamble (CS) | 249 % d'énergie, **priorise la ligne arrière**, 10 % de chance d'étourdir 1 tour (étoiles : jusqu'à 3 cibles) |
+| Path of Vengeance | Passif : sa propre ATQ +30 % (+4 % par étoile) |
+
+## Valkyra — Speedy Rider
+
+| Compétence | Effet |
+|------------|-------|
+| Last-Run Dash | 265 % de l'ATQ en dégâts physiques, cible unique |
+| Speedy Charge | **Provoque** 2 ennemis + leur ATQ −11,5 % pendant 2 tours (étoiles : jusqu'à 4 cibles) |
+| Momentum | Passif : dégâts subis −21 % (−3 % par étoile) |
+
+## Sagitta — Bow of Tomorrow
+
+| Compétence | Effet |
+|------------|-------|
+| Hunting Arrow | 246 % de l'ATQ en physique sur l'ennemi aux **PV les plus bas** |
+| Arrow Spray (CS) | 194 % physiques sur 3 cibles aléatoires (étoiles : sa propre ATQ +3/+6 % jusqu'à la fin du combat) |
+| Hunter Instinct | Passif : taux de critique +20 % (+3 % par étoile) |
+
+- À 3★ encore : compétence d'éveil verrouillée, plafond de compétence niv. 10 — la montée en étoiles est ici la priorité absolue.
+
 ## Notes d'utilisation
 
 - **Synergie d'équipe :** Viper/Marcus en protection avant (réduction de dégâts/buff de DÉF), Ella/Jessica en carries, Admira réduit les dégâts magiques ennemis.
 - Les compétences de zone (Chainsaw Carnival, Governing Edge) brillent au Frenzied Boss/Storm Rescue ; les nukers mono-cible au World Boss et dans les arènes.
 - Les étoiles d'abord aux carries — le passage à 5★ relève le plafond de compétence (niv. 30) et le 5e effet d'étoile.
+- Autres rôles : **Loki** buffe l'ATQ d'équipe (+crit), **Valkyra** tanke par provocation et baisse l'ATQ ennemie, **Grace** snipe la ligne arrière (étourdissement), **Sagitta** achève les cibles à bas PV.
