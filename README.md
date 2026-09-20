@@ -66,6 +66,14 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 ---
 
+## Adventure — stage campaign
+
+| Manual | What matters | Languages |
+|--------|--------------|-----------|
+| **Adventure** | AFK income caps at **14.57 h** — claim twice a day · compare both CP values before a challenge · mono-faction line-up for +20 % | [EN](https://github.com/MatzUp2022/GTs/blob/main/adventure/adventure_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/adventure/adventure_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/adventure/adventure_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/adventure/adventure_ES.md) |
+
+---
+
 ## Base & buildings
 
 | Manual | What matters | Languages |
@@ -96,6 +104,7 @@ Keep both slots busy at all times. **Completions score +1 point per tech CP in t
 
 | Manual | What matters | Languages |
 |--------|--------------|-----------|
+| **Profile, settings & leaderboards** | Bind the account first · exchange codes · the nine leaderboards and their delay · 30 fps for long sessions | [EN](https://github.com/MatzUp2022/GTs/blob/main/account/profile/profile_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/account/profile/profile_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/account/profile/profile_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/account/profile/profile_ES.md) |
 | **VIP system** | Login streak = VIP EXP · claim the daily chest + free pack every day · milestones VIP 4/8/10/12 | [EN](https://github.com/MatzUp2022/GTs/blob/main/account/vip/vip_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/account/vip/vip_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/account/vip/vip_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/account/vip/vip_ES.md) |
 | **Stores / Diamond Store** | Resources at 50 diamonds each · **Alliance Relocation (500) instead of Premium (1,500)** for the SvS move | [EN](https://github.com/MatzUp2022/GTs/blob/main/account/stores/stores_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/account/stores/stores_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/account/stores/stores_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/account/stores/stores_ES.md) |
 | **Help & FAQ** | Missing game data → check you are on the right server · **never switch alliance during an event** · Feedback button | [EN](https://github.com/MatzUp2022/GTs/blob/main/account/help-faq/help-faq_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/account/help-faq/help-faq_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/account/help-faq/help-faq_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/account/help-faq/help-faq_ES.md) |
@@ -121,13 +130,14 @@ GTs/
 ├── alliance/        # "Alliance" button
 │   ├── alliance-boss/ └── top-alliance/
 ├── minigames/       # "Leave None" button
+├── adventure/       # stage campaign & AFK income
 ├── base/            # base & buildings
 │   ├── radar/  ├── tavern/  ├── vehicle/  ├── crafting/
 │   └── research/    # Research Lab
 │       ├── development/ ├── economy/ ├── hero/ ├── soldier/
 │       ├── super-soldier/ ├── team/ ├── alliance-duel/ └── trade-truck/
 └── account/         # profile · store · help
-    ├── vip/  ├── stores/  └── help-faq/
+    ├── profile/  ├── vip/  ├── stores/  └── help-faq/
 ```
 
 **Naming convention:** `<slug>_<LANGUAGE CODE>.md` — one folder per manual, filed under the game menu where you find the topic.
