@@ -14,6 +14,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | Datum | Manual | Sprachen |
 |-------|--------|----------|
 | 20.09 | **Arms Race** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_ES.md) |
+| 20.09 | **Storm Rescue** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_ES.md) |
 | 10.01 | **World Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
 | 20.09 | **Alliance Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_ES.md) |
 | 20.09 | **Frenzied Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_ES.md) |
@@ -27,6 +28,14 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 - Truhen bei 6.250 / 12.500 / 30.000 Punkten; Ranking 1–15 in zugeloster Gegnergruppe
 - Tage 1/4, 2/6 und 3/7 sind identisch
 - **SvS-relevant:** große Ausgaben mit SvS-Zielen synchronisieren
+
+---
+
+## Inhalt: Storm Rescue (Kurzfassung)
+
+- 5 Stages pro Durchlauf; freiwilliger Ausstieg = Neustart bei Stage 1
+- Abrechnung nach 5 geschafften Stages oder erster Niederlage
+- **3 abgeschlossene Stages holen alle Achievement-Rewards** (bis 50 Gems, gesamt u. a. 100 Gems)
 
 ---
 
@@ -84,6 +93,11 @@ GTs/
     │   ├── frenzied-boss_DE.md
     │   ├── frenzied-boss_FR.md
     │   └── frenzied-boss_ES.md
+    ├── storm-rescue/
+    │   ├── storm-rescue_EN.md
+    │   ├── storm-rescue_DE.md
+    │   ├── storm-rescue_FR.md
+    │   └── storm-rescue_ES.md
     └── world-boss/
         ├── world-boss_EN.md
         ├── world-boss_DE.md
