@@ -16,6 +16,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | 20.09 | **Arms Race** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_ES.md) |
 | 20.09 | **Radar** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_ES.md) |
 | 20.09 | **Region Duel (SvS)** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_ES.md) |
+| 20.09 | **Helden-System** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/heroes/heroes_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/heroes/heroes_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/heroes/heroes_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/heroes/heroes_ES.md) |
 | 20.09 | **Help & FAQ** (Support) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/help-faq/help-faq_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/help-faq/help-faq_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/help-faq/help-faq_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/help-faq/help-faq_ES.md) |
 | 20.09 | **Outpost Tavern & Desert Treasure** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_ES.md) |
 | 20.09 | **Storm Rescue** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_ES.md) |
@@ -169,6 +170,15 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 ---
 
+## Inhalt: Helden-System (Kurzfassung)
+
+- Raritäten Gold (S+) > Lila > Blau; drei Fraktionen (Guardian/Ranger/Berserker); Rollen: Krone = DMG, Schild = Tank, Tropfen = Support
+- Level-Cap hängt am Basis-Level; Star-Ups geben flache Stats + Skill-Sterneffekte; 4 Skills je Held (Medaillen in Carries)
+- Equipment: 4 Slots, Enhance (Extra-Attribut je 10 Level) + Promote (Sterne verstärken Extras); Quick Equip
+- Medaillen/Gear zuerst auf die DMG-Carries der drei Fraktionsteams
+
+---
+
 ## Inhalt: Help & FAQ (Kurzfassung)
 
 - Technik: Login-/Update-/Crash-Probleme → App/Netzwerk neu starten, sonst Kundendienst (Feedback-Button)
@@ -319,6 +329,11 @@ GTs/
     │   ├── region-duel_DE.md
     │   ├── region-duel_FR.md
     │   └── region-duel_ES.md
+    ├── heroes/
+    │   ├── heroes_EN.md
+    │   ├── heroes_DE.md
+    │   ├── heroes_FR.md
+    │   └── heroes_ES.md
     ├── help-faq/
     │   ├── help-faq_EN.md
     │   ├── help-faq_DE.md
