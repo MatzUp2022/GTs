@@ -18,9 +18,37 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | 20.09 | **Region Duel (SvS)** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_ES.md) |
 | 20.09 | **Outpost Tavern & Desert Treasure** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_ES.md) |
 | 20.09 | **Storm Rescue** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_ES.md) |
+| 20.09 | **3V3 Arena** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_ES.md) |
+| 20.09 | **Faction Trial** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/faction-trial/faction-trial_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/faction-trial/faction-trial_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/faction-trial/faction-trial_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/faction-trial/faction-trial_ES.md) |
+| 20.09 | **Peak Arena** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_ES.md) |
 | 10.01 | **World Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
 | 20.09 | **Alliance Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_ES.md) |
 | 20.09 | **Frenzied Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_ES.md) |
+
+---
+
+## Inhalt: 3V3 Arena (Kurzfassung)
+
+- Cross-Server, 14 Tage; Top 200 nach Helden-CP, Start mit 1.000 Punkten
+- Best-of-Three: 3 Angriffs-Teams gegen 3 Defense-Teams (Defense separat gespeichert)
+- Punktstärkere Gegner schlagen = mehr Punkte; Niederlagen kosten
+- Täglich Siegestruhen (1/3/5 Siege); Season- und Allianz-Belohnungen (Top 10)
+
+---
+
+## Inhalt: Faction Trial (Kurzfassung)
+
+- Guardian-/Ranger-/Berserker-Trial mit je +50 % Fraktions-DMG; Reset Di/Do/So
+- **Jeder Held nur in einem Trial** — Roster dritteln; Schwierigkeit je Zyklus fix
+- Setups aus dem Frenzied-Boss-Event wiederverwendbar
+
+---
+
+## Inhalt: Peak Arena (Kurzfassung)
+
+- Di–Fr, Offseason Sa–Mo; Top 200 nach Helden-CP, Commander aus 1–4 Regionen
+- Sieg gegen höher Platzierte = Platztausch; Challenges pro Tag begrenzt — hoch angreifen
+- Täglich Siegestruhen (1/3/5 Siege); Season-Rewards am Freitag
 
 ---
 
@@ -110,6 +138,21 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 GTs/
 ├── README.md
 └── events/
+    ├── 3v3-arena/
+    │   ├── 3v3-arena_EN.md
+    │   ├── 3v3-arena_DE.md
+    │   ├── 3v3-arena_FR.md
+    │   └── 3v3-arena_ES.md
+    ├── faction-trial/
+    │   ├── faction-trial_EN.md
+    │   ├── faction-trial_DE.md
+    │   ├── faction-trial_FR.md
+    │   └── faction-trial_ES.md
+    ├── peak-arena/
+    │   ├── peak-arena_EN.md
+    │   ├── peak-arena_DE.md
+    │   ├── peak-arena_FR.md
+    │   └── peak-arena_ES.md
     ├── arms-race/
     │   ├── arms-race_EN.md
     │   ├── arms-race_DE.md
