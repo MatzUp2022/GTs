@@ -48,7 +48,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | Manual | What matters | Languages |
 |--------|--------------|-----------|
 | **Hero system** | Level cap depends on your base level · stars give stats + skill effects · equipment: Enhance (every 10 levels) + Promote | [EN](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-system/hero-system_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-system/hero-system_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-system/hero-system_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-system/hero-system_ES.md) |
-| **Hero database** | 10 skill kits in detail · skill cap 3★=10/4★=20/5★=30 · awakening from 4★ | [EN](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_ES.md) |
+| **Hero database** | 22 skill kits in detail · skill cap 2★=5/3★=10/4★=20/5★=30 · awakening from 4★ | [EN](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_ES.md) |
 
 ## Alliance — **Alliance** button (bottom bar)
 

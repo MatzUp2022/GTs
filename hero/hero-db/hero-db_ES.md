@@ -1,6 +1,14 @@
 # Base de datos de héroes (extracto) — Last Light
 
-*Los valores base de las habilidades escalan con el nivel de habilidad (medallas); el nivel máximo depende de las estrellas (**3★ = nv. 10, 4★ = nv. 20, 5★ = nv. 30**), y los efectos de estrella superiores se desbloquean con «Awaken to 4-/5-Star». La habilidad de despertar es idéntica para todos (**PV/ATQ/DEF +20 %, velocidad +40**) y se abre a **4★**. Valores = estado documentado; se amplía continuamente.*
+*Los valores base de las habilidades escalan con el nivel de habilidad (medallas); el nivel máximo depende de las estrellas (**2★ = nv. 5, 3★ = nv. 10, 4★ = nv. 20, 5★ = nv. 30**), y los efectos de estrella superiores se desbloquean con «Awaken to 4-/5-Star». La habilidad de despertar se abre a **4★**; su nombre y fuerza dependen de la rareza (ver la tabla de abajo). Valores = estado documentado; se amplía continuamente.*
+
+## La rareza de un vistazo
+
+| Rareza | Habilidad de despertar | Efectos de estrella (objetivo único) | Habilidades de combate |
+|--------|------------------------|--------------------------------------|------------------------|
+| **S+** (oro) | Battle Will Awakening: PV/ATQ/DEF +20 %, velocidad +40 | +30 → +270 % | 3 |
+| **S** (morado) | Doomsday Potential: PV/ATQ/DEF +10 % | +20 → +150 % | 3 |
+| **A** (azul) | nombre propio por héroe: PV/ATQ/DEF +5 % | +15 → +100 % | 2 |
 
 ## Ella — Jungle Phantom (S+ · Guardian · daño)
 
@@ -87,9 +95,113 @@
 - Rareza S: escalas más planas (efectos de estrella +20 → 150 % en vez de +30 → 270 %) y el despertar «Doomsday Potential» solo da **PV/ATQ/DEF +10 %** (sin velocidad).
 - **La especialista en purga/caza de monstruos:** para rallys de zombis, misiones élite del radar y farmeo de jefes — daño **y** botín suben a la vez.
 
+## Cassidy — Western Hunter (S)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Quickdraw Duel (CS) | 165 % del ATQ como daño físico, objetivo único |
+| Border Hold | Pasiva: DEF propia +70 % (+10 % por estrella) |
+| Gunfire Verdict | Daño recibido de monstruos −24 % durante 1 turno (−4 % por estrella; 4.ª estrella: 2 turnos) |
+
+## Irena — Federal Policewoman (S)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Bounty Kill (CS) | **476 % del ATQ** físico a un objetivo; **si el objetivo muere, la habilidad se lanza otra vez** (50 % de daño) |
+| Punishing Shot | 185 % del ATQ como daño físico, objetivo único |
+| Absolute Order | Pasiva: los **héroes Guardian aliados de la fila trasera** infligen +13 % de daño a monstruos (+2 % por estrella) |
+
+## Eileen — Azure Watcher (S)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Frontline Strafe (CS) | 177 % físico a **toda una fila enemiga** + su ATQ −6 % durante 1 turno |
+| Flame Blast | 180 % del ATQ como daño físico, objetivo único |
+| Wavebreaker | Pasiva: daño recibido de monstruos −25,5 % (−4 % por estrella) |
+
+## Strike — Unbeaten Boxer (3★, rareza inferior)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Declaration of Invincibility (CS) | DEF de la primera línea +23,5 % durante 1 turno, **no acumulable** (4★: 2 turnos) |
+| Victory Punch | 127 % del ATQ como daño de energía, objetivo único |
+| Steady Steps | Pasiva: daño recibido de monstruos −21,5 % (−4 % por estrella) |
+
+- Tope de habilidad **nv. 10** y despertar bloqueado («Unlocks at 4-Star») — aquí subir estrellas va antes que gastar medallas.
+
+## Bella — Baseball Babe (3★)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Full Swing (CS) | 360 % del ATQ físico, objetivo único (estrellas: +20 % de daño, **10 % de aturdir**, +45 %; 4★ 20 % de aturdir, 5★ +70 %) |
+| Bat Slam | 238 % del ATQ físico, objetivo único |
+| Ignited Courage | Pasiva: daño propio contra monstruos +20,6 % (+4 % por estrella) |
+
+## Noctina — Queen of Night (2★)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Phantom Mirage (CS) | 142 % del ATQ físico a **2 objetivos aleatorios** |
+| Cold Assassination | 117 % del ATQ físico, objetivo único |
+| Nightfall | Pasiva: ATQ propio +15,2 % (+3 % por estrella) |
+
+## Gracie — Doomsday Blademaster (2★)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Duel Moment (CS) | Los **aliados de la fila trasera** +10,2 % de daño contra monstruos durante 1 turno (+1 % por estrella; 4★: 2 turnos) |
+| Precise Slash | 97 % del ATQ físico, objetivo único |
+| Calm Breakthrough | Pasiva: daño recibido de monstruos −16,3 % (−4 % por estrella) |
+
+## Noelle — White Night Killer (2★)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Special Ops Cover (CS) | Los **aliados de la primera línea** reciben −8,2 % de daño de monstruos durante 1 turno (−2 % por estrella; 4★: 2 turnos) |
+| One-Hit Kill | 97 % del ATQ como daño de energía, objetivo único |
+| Killing Instinct | Pasiva: daño recibido de monstruos −16,3 % (−4 % por estrella) |
+
+## Scarlett — Scarlet Vanguard (2★)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Fireline Combo (CS) | **5 ataques** al 48 % físico a objetivos aleatorios (estrellas: +20 % de daño, **7 ataques**; 4★ 9 ataques, 5★ +70 %) |
+| Breakthrough Command | 117 % del ATQ físico, objetivo único |
+| Burning Resolve | Pasiva: daño propio contra monstruos +16,3 % (+4 % por estrella) |
+
+- Héroes 2★/3★: tope de habilidad **nv. 5** o **nv. 10**, despertar bloqueado — aquí subir una estrella rinde más que cualquier medalla.
+
+## Victor — Fearless Warrior (A · 3★)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Cleanup Command (CS) | 108 % físico a **2 objetivos** (estrellas: +15 % de daño, **3 objetivos**, +30 %; 4★ +50 %, 5★ +75 %) |
+| Valiant Charge | 160 % del ATQ físico, objetivo único |
+| Final Mission (despertar) | PV/ATQ/DEF +5 % — desde 4★ |
+
+## Jonah — Battlefield Operative (A · 3★)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Tactical Raid (CS) | 100 % físico a **2 objetivos** (estrellas: +15 % de daño, **3 objetivos**, +30 %) |
+| Aggressive Assault | 105 % del ATQ físico, objetivo único |
+| Battle Instinct (despertar) | PV/ATQ/DEF +5 % — desde 4★ |
+
+## Falken — Falcon Warrior (A · 3★)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Target Elimination (CS) | 97 % físico a **2 objetivos** (estrellas: +15 % de daño, **3 objetivos**, +30 %) |
+| Preemptive Strike | 107 % del ATQ físico, objetivo único |
+| Hawkeye Scout (despertar) | PV/ATQ/DEF +5 % — desde 4★ |
+
+- Los héroes A tienen **solo dos habilidades de combate** y ningún bono contra monstruos; su fuerte es el área sobre 2 objetivos (3 desde la segunda estrella).
+
 ## Notas de uso
 
 - **Sinergia de equipo:** Viper/Marcus como protección frontal (reducción de daño/buff de DEF), Ella/Jessica como carries, Admira reduce el daño mágico enemigo.
 - Las habilidades de área (Chainsaw Carnival, Governing Edge) brillan en el Frenzied Boss/Storm Rescue; los nukers de objetivo único en el World Boss y las arenas.
 - Las estrellas primero a los carries — el salto a 5★ sube el tope de habilidad (nv. 30) y el 5.º efecto de estrella.
 - Más roles: **Loki** bufa el ATQ del equipo (+crítico), **Valkyra** tanquea con provocación y baja el ATQ enemigo, **Grace** caza la fila trasera (aturdimiento), **Sagitta** remata objetivos con pocos PV.
+- **Configuración de caza de monstruos:** Cassidy, Eileen y Strike reducen el daño recibido de monstruos (−21 a −25 %), Irena y Clara aumentan el infligido — el equipo para rallys de zombis, misiones élite del radar y farmeo de jefes.
+- **Casi todo héroe de rareza baja lleva un bono contra monstruos** (más daño infligido o menos recibido) — como relleno en el equipo de caza suele rendir más que un héroe más fuerte sin habilidad antimonstruos.

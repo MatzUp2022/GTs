@@ -1,6 +1,14 @@
 # Base de données des héros (extrait) — Last Light
 
-*Les valeurs de base des compétences évoluent avec le niveau de compétence (médailles) ; le niveau max dépend des étoiles (**3★ = niv. 10, 4★ = niv. 20, 5★ = niv. 30**), et les effets d'étoile supérieurs se débloquent via « Awaken to 4-/5-Star ». La compétence d'éveil est identique pour tous (**PV/ATQ/DÉF +20 %, vitesse +40**) et s'ouvre à **4★**. Valeurs = état documenté ; complété au fil de l'eau.*
+*Les valeurs de base des compétences évoluent avec le niveau de compétence (médailles) ; le niveau max dépend des étoiles (**2★ = niv. 5, 3★ = niv. 10, 4★ = niv. 20, 5★ = niv. 30**), et les effets d'étoile supérieurs se débloquent via « Awaken to 4-/5-Star ». La compétence d'éveil s'ouvre à **4★** ; son nom et sa force dépendent de la rareté (voir le tableau ci-dessous). Valeurs = état documenté ; complété au fil de l'eau.*
+
+## La rareté en un coup d'œil
+
+| Rareté | Compétence d'éveil | Effets d'étoile (cible unique) | Compétences de combat |
+|--------|--------------------|--------------------------------|------------------------|
+| **S+** (or) | Battle Will Awakening : PV/ATQ/DÉF +20 %, vitesse +40 | +30 → +270 % | 3 |
+| **S** (violet) | Doomsday Potential : PV/ATQ/DÉF +10 % | +20 → +150 % | 3 |
+| **A** (bleu) | nom propre à chaque héros : PV/ATQ/DÉF +5 % | +15 → +100 % | 2 |
 
 ## Ella — Jungle Phantom (S+ · Guardian · dégâts)
 
@@ -87,9 +95,113 @@
 - Rareté S : échelles plus plates (effets d'étoile +20 → 150 % au lieu de +30 → 270 %) et l'éveil « Doomsday Potential » ne donne que **PV/ATQ/DÉF +10 %** (sans vitesse).
 - **La spécialiste de la purge/chasse aux monstres :** à placer dans les rallys zombies, les missions élite du radar et le farm de boss — dégâts **et** butin montent en même temps.
 
+## Cassidy — Western Hunter (S)
+
+| Compétence | Effet |
+|------------|-------|
+| Quickdraw Duel (CS) | 165 % de l'ATQ en dégâts physiques, cible unique |
+| Border Hold | Passif : sa propre DÉF +70 % (+10 % par étoile) |
+| Gunfire Verdict | Dégâts subis des monstres −24 % pendant 1 tour (−4 % par étoile ; 4e étoile : 2 tours) |
+
+## Irena — Federal Policewoman (S)
+
+| Compétence | Effet |
+|------------|-------|
+| Bounty Kill (CS) | **476 % de l'ATQ** en physique sur une cible ; **si la cible meurt, la compétence est relancée** (50 % des dégâts) |
+| Punishing Shot | 185 % de l'ATQ en dégâts physiques, cible unique |
+| Absolute Order | Passif : les **héros Guardian alliés de la ligne arrière** infligent +13 % de dégâts aux monstres (+2 % par étoile) |
+
+## Eileen — Azure Watcher (S)
+
+| Compétence | Effet |
+|------------|-------|
+| Frontline Strafe (CS) | 177 % physiques sur **toute une ligne ennemie** + leur ATQ −6 % pendant 1 tour |
+| Flame Blast | 180 % de l'ATQ en dégâts physiques, cible unique |
+| Wavebreaker | Passif : dégâts subis des monstres −25,5 % (−4 % par étoile) |
+
+## Strike — Unbeaten Boxer (3★, rareté inférieure)
+
+| Compétence | Effet |
+|------------|-------|
+| Declaration of Invincibility (CS) | DÉF de la ligne avant +23,5 % pendant 1 tour, **non cumulable** (4★ : 2 tours) |
+| Victory Punch | 127 % de l'ATQ en dégâts d'énergie, cible unique |
+| Steady Steps | Passif : dégâts subis des monstres −21,5 % (−4 % par étoile) |
+
+- Plafond de compétence **niv. 10** et éveil verrouillé (« Unlocks at 4-Star ») — la montée en étoiles prime sur les médailles.
+
+## Bella — Baseball Babe (3★)
+
+| Compétence | Effet |
+|------------|-------|
+| Full Swing (CS) | 360 % de l'ATQ en physique, cible unique (étoiles : +20 % de dégâts, **10 % de chance d'étourdir**, +45 % ; 4★ 20 % d'étourdissement, 5★ +70 %) |
+| Bat Slam | 238 % de l'ATQ en physique, cible unique |
+| Ignited Courage | Passif : ses dégâts contre les monstres +20,6 % (+4 % par étoile) |
+
+## Noctina — Queen of Night (2★)
+
+| Compétence | Effet |
+|------------|-------|
+| Phantom Mirage (CS) | 142 % de l'ATQ en physique sur **2 cibles aléatoires** |
+| Cold Assassination | 117 % de l'ATQ en physique, cible unique |
+| Nightfall | Passif : sa propre ATQ +15,2 % (+3 % par étoile) |
+
+## Gracie — Doomsday Blademaster (2★)
+
+| Compétence | Effet |
+|------------|-------|
+| Duel Moment (CS) | Les **alliés de la ligne arrière** +10,2 % de dégâts contre les monstres pendant 1 tour (+1 % par étoile ; 4★ : 2 tours) |
+| Precise Slash | 97 % de l'ATQ en physique, cible unique |
+| Calm Breakthrough | Passif : dégâts subis des monstres −16,3 % (−4 % par étoile) |
+
+## Noelle — White Night Killer (2★)
+
+| Compétence | Effet |
+|------------|-------|
+| Special Ops Cover (CS) | Les **alliés de la ligne avant** subissent −8,2 % de dégâts des monstres pendant 1 tour (−2 % par étoile ; 4★ : 2 tours) |
+| One-Hit Kill | 97 % de l'ATQ en dégâts d'énergie, cible unique |
+| Killing Instinct | Passif : dégâts subis des monstres −16,3 % (−4 % par étoile) |
+
+## Scarlett — Scarlet Vanguard (2★)
+
+| Compétence | Effet |
+|------------|-------|
+| Fireline Combo (CS) | **5 attaques** à 48 % en physique sur des cibles aléatoires (étoiles : +20 % de dégâts, **7 attaques** ; 4★ 9 attaques, 5★ +70 %) |
+| Breakthrough Command | 117 % de l'ATQ en physique, cible unique |
+| Burning Resolve | Passif : ses dégâts contre les monstres +16,3 % (+4 % par étoile) |
+
+- Héros 2★/3★ : plafond de compétence **niv. 5** resp. **niv. 10**, éveil verrouillé — ici une montée en étoiles vaut mieux que n'importe quelle médaille.
+
+## Victor — Fearless Warrior (A · 3★)
+
+| Compétence | Effet |
+|------------|-------|
+| Cleanup Command (CS) | 108 % physiques sur **2 cibles** (étoiles : +15 % de dégâts, **3 cibles**, +30 % ; 4★ +50 %, 5★ +75 %) |
+| Valiant Charge | 160 % de l'ATQ en physique, cible unique |
+| Final Mission (éveil) | PV/ATQ/DÉF +5 % — dès 4★ |
+
+## Jonah — Battlefield Operative (A · 3★)
+
+| Compétence | Effet |
+|------------|-------|
+| Tactical Raid (CS) | 100 % physiques sur **2 cibles** (étoiles : +15 % de dégâts, **3 cibles**, +30 %) |
+| Aggressive Assault | 105 % de l'ATQ en physique, cible unique |
+| Battle Instinct (éveil) | PV/ATQ/DÉF +5 % — dès 4★ |
+
+## Falken — Falcon Warrior (A · 3★)
+
+| Compétence | Effet |
+|------------|-------|
+| Target Elimination (CS) | 97 % physiques sur **2 cibles** (étoiles : +15 % de dégâts, **3 cibles**, +30 %) |
+| Preemptive Strike | 107 % de l'ATQ en physique, cible unique |
+| Hawkeye Scout (éveil) | PV/ATQ/DÉF +5 % — dès 4★ |
+
+- Les héros A n'ont **que deux compétences de combat** et aucun bonus contre les monstres ; leur atout est la zone sur 2 cibles (3 dès la deuxième étoile).
+
 ## Notes d'utilisation
 
 - **Synergie d'équipe :** Viper/Marcus en protection avant (réduction de dégâts/buff de DÉF), Ella/Jessica en carries, Admira réduit les dégâts magiques ennemis.
 - Les compétences de zone (Chainsaw Carnival, Governing Edge) brillent au Frenzied Boss/Storm Rescue ; les nukers mono-cible au World Boss et dans les arènes.
 - Les étoiles d'abord aux carries — le passage à 5★ relève le plafond de compétence (niv. 30) et le 5e effet d'étoile.
 - Autres rôles : **Loki** buffe l'ATQ d'équipe (+crit), **Valkyra** tanke par provocation et baisse l'ATQ ennemie, **Grace** snipe la ligne arrière (étourdissement), **Sagitta** achève les cibles à bas PV.
+- **Configuration chasse aux monstres :** Cassidy, Eileen et Strike réduisent les dégâts subis des monstres (−21 à −25 %), Irena et Clara augmentent ceux infligés — l'équipe pour les rallys zombies, les missions élite du radar et le farm de boss.
+- **Presque chaque héros de faible rareté porte un bonus contre les monstres** (plus de dégâts infligés ou moins subis) — en remplissage dans l'équipe de chasse, souvent préférable à un héros plus fort sans compétence anti-monstres.

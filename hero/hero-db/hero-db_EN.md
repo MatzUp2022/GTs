@@ -1,6 +1,14 @@
 # Hero Database (excerpt) — Last Light
 
-*Base skill values scale with skill level (medals); the max level hangs on the stars (**3★ = Lv. 10, 4★ = Lv. 20, 5★ = Lv. 30**), and higher star effects unlock via "Awaken to 4-/5-Star". The awakening skill is identical for everyone (**HP/ATK/DEF +20 %, speed +40**) and opens at **4★**. Values = documented state; extended continuously.*
+*Base skill values scale with skill level (medals); the max level hangs on the stars (**2★ = Lv. 5, 3★ = Lv. 10, 4★ = Lv. 20, 5★ = Lv. 30**), and higher star effects unlock via "Awaken to 4-/5-Star". The awakening skill opens at **4★**; its name and strength depend on rarity (see the table below). Values = documented state; extended continuously.*
+
+## Rarity at a Glance
+
+| Rarity | Awakening skill | Star effects (single target) | Combat skills |
+|--------|-----------------|------------------------------|---------------|
+| **S+** (gold) | Battle Will Awakening: HP/ATK/DEF +20 %, speed +40 | +30 → +270 % | 3 |
+| **S** (purple) | Doomsday Potential: HP/ATK/DEF +10 % | +20 → +150 % | 3 |
+| **A** (blue) | individually named: HP/ATK/DEF +5 % | +15 → +100 % | 2 |
 
 ## Ella — Jungle Phantom (S+ · Guardian · DMG)
 
@@ -87,9 +95,113 @@
 - S rarity: flatter scales (star effects +20 → 150 % instead of +30 → 270 %) and the awakening "Doomsday Potential" is only **HP/ATK/DEF +10 %** (no speed).
 - **The purge/monster-hunt specialist:** slot her into zombie rallies, radar elite missions and boss farming — damage **and** loot rise at once.
 
+## Cassidy — Western Hunter (S)
+
+| Skill | Effect |
+|-------|--------|
+| Quickdraw Duel (CS) | 165 % ATK as physical DMG, single target |
+| Border Hold | Passive: own DEF +70 % (+10 % per star) |
+| Gunfire Verdict | Monster DMG taken −24 % for 1 turn (−4 % per star; 4th star: 2 turns) |
+
+## Irena — Federal Policewoman (S)
+
+| Skill | Effect |
+|-------|--------|
+| Bounty Kill (CS) | **476 % ATK** physical to one target; **if the target dies the skill is cast again** (50 % DMG) |
+| Punishing Shot | 185 % ATK as physical DMG, single target |
+| Absolute Order | Passive: allied **back-row Guardian heroes** deal +13 % DMG to monsters (+2 % per star) |
+
+## Eileen — Azure Watcher (S)
+
+| Skill | Effect |
+|-------|--------|
+| Frontline Strafe (CS) | 177 % physical to **a whole enemy row** + their ATK −6 % for 1 turn |
+| Flame Blast | 180 % ATK as physical DMG, single target |
+| Wavebreaker | Passive: monster DMG taken −25.5 % (−4 % per star) |
+
+## Strike — Unbeaten Boxer (3★, lower rarity)
+
+| Skill | Effect |
+|-------|--------|
+| Declaration of Invincibility (CS) | Front-row DEF +23.5 % for 1 turn, **unstackable** (4★: 2 turns) |
+| Victory Punch | 127 % ATK as energy DMG, single target |
+| Steady Steps | Passive: monster DMG taken −21.5 % (−4 % per star) |
+
+- Skill cap **Lv. 10** and the awakening locked ("Unlocks at 4-Star") — starring up beats spending medals here.
+
+## Bella — Baseball Babe (3★)
+
+| Skill | Effect |
+|-------|--------|
+| Full Swing (CS) | 360 % ATK physical, single target (stars: +20 % DMG, **10 % stun chance**, +45 %; 4★ 20 % stun, 5★ +70 %) |
+| Bat Slam | 238 % ATK physical, single target |
+| Ignited Courage | Passive: own DMG to monsters +20.6 % (+4 % per star) |
+
+## Noctina — Queen of Night (2★)
+
+| Skill | Effect |
+|-------|--------|
+| Phantom Mirage (CS) | 142 % ATK physical to **2 random targets** |
+| Cold Assassination | 117 % ATK physical, single target |
+| Nightfall | Passive: own ATK +15.2 % (+3 % per star) |
+
+## Gracie — Doomsday Blademaster (2★)
+
+| Skill | Effect |
+|-------|--------|
+| Duel Moment (CS) | **Back-row allies** +10.2 % DMG to monsters for 1 turn (+1 % per star; 4★: 2 turns) |
+| Precise Slash | 97 % ATK physical, single target |
+| Calm Breakthrough | Passive: monster DMG taken −16.3 % (−4 % per star) |
+
+## Noelle — White Night Killer (2★)
+
+| Skill | Effect |
+|-------|--------|
+| Special Ops Cover (CS) | **Front-row allies** take −8.2 % monster DMG for 1 turn (−2 % per star; 4★: 2 turns) |
+| One-Hit Kill | 97 % ATK as energy DMG, single target |
+| Killing Instinct | Passive: monster DMG taken −16.3 % (−4 % per star) |
+
+## Scarlett — Scarlet Vanguard (2★)
+
+| Skill | Effect |
+|-------|--------|
+| Fireline Combo (CS) | **5 attacks** at 48 % physical on random targets (stars: +20 % DMG, **7 attacks**; 4★ 9 attacks, 5★ +70 %) |
+| Breakthrough Command | 117 % ATK physical, single target |
+| Burning Resolve | Passive: own DMG to monsters +16.3 % (+4 % per star) |
+
+- 2★/3★ heroes: skill cap **Lv. 5** resp. **Lv. 10**, awakening locked — a star-up beats any medal here.
+
+## Victor — Fearless Warrior (A · 3★)
+
+| Skill | Effect |
+|-------|--------|
+| Cleanup Command (CS) | 108 % physical to **2 targets** (stars: +15 % DMG, **3 targets**, +30 %; 4★ +50 %, 5★ +75 %) |
+| Valiant Charge | 160 % ATK physical, single target |
+| Final Mission (awakening) | HP/ATK/DEF +5 % — from 4★ |
+
+## Jonah — Battlefield Operative (A · 3★)
+
+| Skill | Effect |
+|-------|--------|
+| Tactical Raid (CS) | 100 % physical to **2 targets** (stars: +15 % DMG, **3 targets**, +30 %) |
+| Aggressive Assault | 105 % ATK physical, single target |
+| Battle Instinct (awakening) | HP/ATK/DEF +5 % — from 4★ |
+
+## Falken — Falcon Warrior (A · 3★)
+
+| Skill | Effect |
+|-------|--------|
+| Target Elimination (CS) | 97 % physical to **2 targets** (stars: +15 % DMG, **3 targets**, +30 %) |
+| Preemptive Strike | 107 % ATK physical, single target |
+| Hawkeye Scout (awakening) | HP/ATK/DEF +5 % — from 4★ |
+
+- A heroes have **only two combat skills** and no monster bonus; their strength is the AoE on 2 (3 from the second star) targets.
+
 ## Usage Notes
 
 - **Team synergy:** Viper/Marcus as front protection (damage reduction/DEF buff), Ella/Jessica as carries, Admira suppresses enemy magic damage.
 - AoE skills (Chainsaw Carnival, Governing Edge) shine in Frenzied Boss/Storm Rescue; single-target nukers in World Boss & the arenas.
 - Stars go to the carries first — the jump to 5★ raises the skill cap (Lv. 30) and the 5th star effect.
 - More roles: **Loki** buffs team ATK (+crit), **Valkyra** tanks via taunt and lowers enemy ATK, **Grace** snipes the back row (stun), **Sagitta** finishes low-HP targets.
+- **Monster-hunting setup:** Cassidy, Eileen and Strike cut monster damage taken (−21 to −25 %), Irena and Clara raise the damage dealt — together the team for zombie rallies, radar elite missions and boss farming.
+- **Almost every low-rarity hero carries a monster bonus** (more damage dealt or less taken) — as a filler in the hunting team that often beats a stronger hero without a monster skill.
