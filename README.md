@@ -29,6 +29,24 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 ---
 
+## Forschung
+
+| Datum | Manual | Sprachen |
+|-------|--------|----------|
+| 20.09 | **Development** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/development/development_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/development/development_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/development/development_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/development/development_ES.md) |
+
+---
+
+## Inhalt: Forschung — Development (Kurzfassung)
+
+- Zwei Forschungs-Slots — beide immer belegt halten
+- Baum in wiederkehrenden Blöcken (Bau → Hospital/Barracks → Forschung → Heilung/Training → Meilenstein), je Tech 5 Level
+- **Research Speed Up zuerst maxen** (+10 %), dann High-speed Construction
+- **Arms-Race-Kopplung:** Phase „Research Tech" = +1 Punkt je Tech-CP — große Forschungen dort abschließen
+- Freischaltungen: Team 3 (Lab 20 + Team 2 ≥ 25 %), Siege/Defense Spec. (Lab 21 + Super Soldier ≥ 40 %)
+
+---
+
 ## Inhalt: 3V3 Arena (Kurzfassung)
 
 - Cross-Server, 14 Tage; Top 200 nach Helden-CP, Start mit 1.000 Punkten
@@ -158,7 +176,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 ```
 GTs/
 ├── README.md
-└── events/
+├── events/
     ├── 3v3-arena/
     │   ├── 3v3-arena_EN.md
     │   ├── 3v3-arena_DE.md
@@ -224,6 +242,12 @@ GTs/
         ├── world-boss_DE.md
         ├── world-boss_FR.md
         └── world-boss_ES.md
+└── research/
+    └── development/
+        ├── development_EN.md
+        ├── development_DE.md
+        ├── development_FR.md
+        └── development_ES.md
 ```
 
 **Namenskonvention:** `<event-slug>_<SPRACHCODE>.md` — ein Ordner pro Event unter `events/`.
