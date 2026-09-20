@@ -20,11 +20,13 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 ## Inhalt: World Boss (Kurzfassung)
 
+- Termine: Mo, Do & So — Spawn 0/6/12/18 Uhr Serverzeit, je 3 h; solo ab Basis-Lv. 8, keine Rallys
 - Keine Defense-/Shield-Helden — reiner Schadensfokus
 - Nur goldene Ausrüstung, Gear vor dem ersten Hit setzen
-- Täglichen **+50 % Typ-Bonus** prüfen und priorisieren
+- Täglichen **+50 % Fraktions-Buff** prüfen und priorisieren
 - 5 Hits/Tag, davon 3 mit Special Rewards — **nur der stärkste Hit zählt**
 - Setups variieren, alle Buffs geballt auf den letzten Run
+- Einmalige Achievements für Einzelschaden (1M–3G) je Boss mitnehmen
 - SvS-Kopplung: **+250.000** (Server-Gesamtschaden) + **+150.000** (MVP) = bis **+400.000 Punkte täglich**
 
 ---

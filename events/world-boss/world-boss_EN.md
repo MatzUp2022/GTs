@@ -3,8 +3,10 @@
 ## 1. Squad Rules
 - **No defense / shield heroes** — the boss does not die, survival is irrelevant. Pure damage focus.
 - **Best golden equipment only** on the selected heroes. Set gear before the first hit, not between runs.
-- **Check the daily bonus:** which hero type has the **+50 % advantage** today → prioritise that type.
+- **Check the daily buff:** which faction deals **+50 % DMG** today (e.g. Guardian) → prioritise it.
 - This is an **event-only squad**, not your standard rally lineup.
+- **Schedule:** Mon, Thu & Sun — spawns at 0:00, 6:00, 12:00 and 18:00 server time, active for **3 hours** each.
+- **Requirement:** Base Level 8+. Attacks are **solo — no rallies**.
 
 ## 2. Hit Economy
 - **5 hits per day.**
@@ -24,18 +26,25 @@
 
 **Rule:** Do not spread buffs, rage items and boosters across the test runs — stack them all on the max run.
 
-## 4. Link to SvS
+## 4. One-time Achievements (per boss)
+- Thresholds for **single-attack damage**: 1M · 5M · 10M · 20M · 50M · 100M · 200M · 500M · 1G · 2G · 3G — rewards include gems (600–5,100) and resource chests.
+- Separate per boss: **Giant, Frenzied, Undead Zombie**; unlocked progressively based on server time.
+- → Aim your max run at the **next reachable threshold**.
+
+## 5. Link to SvS
 - **+250,000** — server with the highest total damage (daily)
 - **+150,000** — server holding the MVP (highest single-player damage)
 - **Total: up to +400,000 points per day**
+- **Region duel:** the damage of the **top 200 commanders** per region is summed — the region with the higher total wins.
 
 All other daily tasks deliver far fewer points and **cannot compensate** for a lost World Boss day.
 
 → World Boss has **top priority** during SvS. Resources reserved for other daily goals get redirected here if needed.
 
-## 5. Daily Checklist
-- [ ] Daily bonus type checked
+## 6. Daily Checklist
+- [ ] Daily faction buff checked
 - [ ] Defense heroes removed
 - [ ] Golden gear complete
 - [ ] Buffs reserved for hit 5
 - [ ] All 5 hits used, at least 3 setups varied
+- [ ] Next achievement threshold targeted
