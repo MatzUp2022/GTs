@@ -111,6 +111,14 @@ Keep both slots busy at all times. **Completions score +1 point per tech CP in t
 
 ---
 
+## Cross-game strategy
+
+| Manual | What matters | Languages |
+|--------|--------------|-----------|
+| **Transferred strategy** | No public Last Light guides exist — these are rules from **Last War: Survival**, whose event systems match ours almost one to one · timing beats spending · speedup stockpile targets · **unverified for Last Light** | [EN](https://github.com/MatzUp2022/GTs/blob/main/strategy/strategy_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/strategy/strategy_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/strategy/strategy_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/strategy/strategy_ES.md) |
+
+---
+
 ## Repo structure
 
 The folders mirror the game's navigation:
@@ -131,6 +139,7 @@ GTs/
 │   ├── alliance-boss/ └── top-alliance/
 ├── minigames/       # "Leave None" button
 ├── adventure/       # stage campaign & AFK income
+├── strategy/        # cross-game strategy, not tied to a UI element
 ├── base/            # base & buildings
 │   ├── radar/  ├── tavern/  ├── vehicle/  ├── crafting/
 │   └── research/    # Research Lab
