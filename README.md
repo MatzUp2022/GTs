@@ -24,6 +24,9 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | 20.09 | **Peak Arena** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_ES.md) |
 | 20.09 | **Vehicle / Armored Warmachine** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/vehicle/vehicle_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/vehicle/vehicle_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/vehicle/vehicle_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/vehicle/vehicle_ES.md) |
 | 20.09 | **VIP-System** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/vip/vip_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/vip/vip_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/vip/vip_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/vip/vip_ES.md) |
+| 20.09 | **Minigames** (Leave None · Soldier Assault · Cannon War) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/minigames/minigames_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/minigames/minigames_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/minigames/minigames_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/minigames/minigames_ES.md) |
+| 20.09 | **Shops / Diamond Store** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/stores/stores_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/stores/stores_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/stores/stores_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/stores/stores_ES.md) |
+| 20.09 | **Top Alliance** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/top-alliance/top-alliance_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/top-alliance/top-alliance_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/top-alliance/top-alliance_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/top-alliance/top-alliance_ES.md) |
 | 10.01 | **World Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
 | 20.09 | **Alliance Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_ES.md) |
 | 20.09 | **Frenzied Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_ES.md) |
@@ -213,6 +216,30 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 ---
 
+## Inhalt: Minigames (Kurzfassung)
+
+- Drei Modi auf Level-Karten: Leave None · Soldier Assault · Cannon War; Elite-Level mit Masken-Symbol
+- Prinzip: Tore multiplizieren (×2/×3/×4) oder reduzieren (−2) — beste Route wählen, Ziel am Ende knacken
+- Wiederholbar bis zum Erfolg; „New"/roter Punkt = neue Level
+
+---
+
+## Inhalt: Shops / Diamond Store (Kurzfassung)
+
+- Ressourcen günstig (50 Diamanten je 50K Eisen/Brot bzw. 18K Gold); Recruit-Tickets je 400
+- **Alliance Relocation (500) statt Premium Relocation (1.500)** für den Umzug zur Allianz — wichtig fürs Region Duel
+- Goods Refresh Ticket 100; weitere Shops: VIP, Alliance, Honor
+
+---
+
+## Inhalt: Top Alliance (Kurzfassung)
+
+- Ratings: Temporary → Basic → Intermediate → Premium → Top; alle Promotion-Missionen = 1 Stern, 3 Sterne = Aufstieg
+- Tagesmissionen der Allianz (Spenden, 30 Chat-Posts, 30 Rally-Monster) → Daily Rewards für alle
+- **Daily Rewards immer abholen** — sonst resetten Missionen und Belohnungen
+
+---
+
 ## Inhalt: World Boss (Kurzfassung)
 
 - Termine: Mo, Do & So — Spawn 0/6/12/18 Uhr Serverzeit, je 3 h; solo ab Basis-Lv. 8, keine Rallys
@@ -297,6 +324,21 @@ GTs/
     │   ├── help-faq_DE.md
     │   ├── help-faq_FR.md
     │   └── help-faq_ES.md
+    ├── minigames/
+    │   ├── minigames_EN.md
+    │   ├── minigames_DE.md
+    │   ├── minigames_FR.md
+    │   └── minigames_ES.md
+    ├── stores/
+    │   ├── stores_EN.md
+    │   ├── stores_DE.md
+    │   ├── stores_FR.md
+    │   └── stores_ES.md
+    ├── top-alliance/
+    │   ├── top-alliance_EN.md
+    │   ├── top-alliance_DE.md
+    │   ├── top-alliance_FR.md
+    │   └── top-alliance_ES.md
     ├── tavern/
     │   ├── tavern_EN.md
     │   ├── tavern_DE.md
