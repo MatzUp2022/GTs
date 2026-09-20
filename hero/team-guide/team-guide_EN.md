@@ -36,7 +36,8 @@
 
 | Event | Core line-up | Why |
 |-------|--------------|-----|
-| **World Boss** (solo, 1 target) | **Ella · Clara** · Bella · Scarlett · Sonic/Jessica | Multi-hit burst + monster debuff; no tanks needed |
+| **World Boss** (solo, 1 target) — five of the buffed faction available | **Guardian:** Ella · Clara · Irena · Loki · Noctina — **Ranger:** Jessica · Grace · Bella · Gracie · Admira — **Berserker:** Sagitta · Sonic · Scarlett · Valkyrie · Noelle | Daily +50 % and mono-faction +20 % stack — that beats a stronger mixed team |
+| **World Boss** — buffed faction not available five times | **Ella · Clara** · Bella · Scarlett · Sonic/Jessica | Pure damage: multi-hit burst + monster debuff. Deliberately forgoes the +20 % line-up bonus |
 | **Frenzied Boss** (3 faction bosses) | Guardian: Ella, Clara, Irena · Ranger: Jessica, Grace, Bella · Berserker: Sagitta, Sonic, Scarlett | Forces three faction teams |
 | **Alliance Boss** (rally, 30 min) | same as World Boss | Single target + monster bonuses |
 | **Storm Rescue** (waves) | **Jessica** (243 % to all) · **Admira** (AoE + magic debuff) · Eileen (whole row) | The only event where AoE truly pays |
@@ -46,7 +47,7 @@
 
 ## 4. Combinations
 
-- **The vehicle as a second amplifier:** *Global Strike* hits 2 targets and raises their **total damage taken by 15 → 25 %** for 1 turn (via stars, ★4 needs vehicle Lv. 90). It works on everything, not just monsters — the strongest team amp in the game. Fire it before Ella's volley.
+- **The vehicle as a second amplifier:** *Global Strike* hits 2 targets and raises their **total damage taken by 15 % (★1) → 20 % (★3, vehicle Lv. 70) → 25 % (★5, Lv. 110)** for 1 turn. ★4 (Lv. 90) adds physical damage only — the full +25 % needs Lv. 110. It works on everything, not just monsters — the strongest team amp in the game. Fire it before Ella's volley.
 - **Boss core:** Clara + Ella — the debuff runs 2 turns, exactly the window for Phantom Volley. Add Loki for +11.5 % ATK on both.
 - **Arena front:** Viper (−26 % physical) + Marcus (+35 % DEF) — both extend to **all** allies via stars, so they stack instead of overlapping.
 - **Taunt cover:** Valkyra pulls 2–4 enemies **and** cuts their ATK by 11.5 % — the back row (Ella, Grace, Sonic) survives longer.

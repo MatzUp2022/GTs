@@ -36,7 +36,8 @@
 
 | Event | Kernbesetzung | Warum |
 |-------|---------------|-------|
-| **World Boss** (solo, 1 Ziel) | **Ella · Clara** · Bella · Scarlett · Sonic/Jessica | Multi-Hit-Burst + Monster-Debuff; keine Tanks nötig |
+| **World Boss** (solo, 1 Ziel) — Buff-Fraktion fünffach vorhanden | **Guardian:** Ella · Clara · Irena · Loki · Noctina — **Ranger:** Jessica · Grace · Bella · Gracie · Admira — **Berserker:** Sagitta · Sonic · Scarlett · Valkyrie · Noelle | Tages-+50 % und Mono-Fraktion +20 % stapeln — das schlägt ein stärkeres gemischtes Team |
+| **World Boss** — Buff-Fraktion nicht fünffach vorhanden | **Ella · Clara** · Bella · Scarlett · Sonic/Jessica | Reiner Schaden: Multi-Hit-Burst + Monster-Debuff. Verzichtet bewusst auf den +20-%-Aufstellungsbonus |
 | **Frenzied Boss** (3 Fraktions-Bosse) | Guardian: Ella, Clara, Irena · Ranger: Jessica, Grace, Bella · Berserker: Sagitta, Sonic, Scarlett | Erzwingt drei Fraktionsteams |
 | **Alliance Boss** (Rally, 30 Min.) | wie World Boss | Einzelziel + Monster-Boni |
 | **Storm Rescue** (Wellen) | **Jessica** (243 % auf alle) · **Admira** (AoE + Magie-Debuff) · Eileen (ganze Reihe) | Einziges Event mit echtem Flächennutzen |
@@ -46,7 +47,7 @@
 
 ## 4. Kombinationen
 
-- **Fahrzeug als zweiter Verstärker:** *Global Strike* trifft 2 Ziele und erhöht deren **gesamten erlittenen Schaden um 15 → 25 %** für 1 Runde (Sterne, ab ★4 Fahrzeug-Lv. 90). Das wirkt auf alles, nicht nur auf Monster — der stärkste Team-Verstärker überhaupt. Zünden, bevor Ella ihren Volley setzt.
+- **Fahrzeug als zweiter Verstärker:** *Global Strike* trifft 2 Ziele und erhöht deren **gesamten erlittenen Schaden um 15 % (★1) → 20 % (★3, Fahrzeug-Lv. 70) → 25 % (★5, Lv. 110)** für 1 Runde. ★4 (Lv. 90) gibt nur physischen Zusatzschaden — die vollen +25 % brauchen Lv. 110. Das wirkt auf alles, nicht nur auf Monster — der stärkste Team-Verstärker überhaupt. Zünden, bevor Ella ihren Volley setzt.
 - **Boss-Kern:** Clara + Ella — der Debuff läuft 2 Runden, genau das Fenster für Phantom Volley. Loki dazu für +11,5 % ATK auf beide.
 - **Arena-Front:** Viper (−26 % physisch) + Marcus (+35 % DEF) — beide erweitern per Sternen auf **alle** Verbündeten, sie stapeln also statt sich zu überschneiden.
 - **Taunt-Schutz:** Valkyra bindet 2–4 Gegner **und** senkt deren ATK um 11,5 % — die Backrow (Ella, Grace, Sonic) überlebt länger.

@@ -36,7 +36,8 @@
 
 | Événement | Composition clé | Pourquoi |
 |-----------|-----------------|----------|
-| **World Boss** (solo, 1 cible) | **Ella · Clara** · Bella · Scarlett · Sonic/Jessica | Burst multi-coups + affaiblissement ; aucun tank nécessaire |
+| **World Boss** (solo, 1 cible) — cinq héros de la faction du jour disponibles | **Guardian :** Ella · Clara · Irena · Loki · Noctina — **Ranger :** Jessica · Grace · Bella · Gracie · Admira — **Berserker :** Sagitta · Sonic · Scarlett · Valkyrie · Noelle | Le +50 % du jour et le +20 % mono-faction se cumulent — cela dépasse une équipe mixte plus forte |
+| **World Boss** — faction du jour incomplète | **Ella · Clara** · Bella · Scarlett · Sonic/Jessica | Dégâts purs : burst multi-coups + affaiblissement. Renonce sciemment au bonus de composition de +20 % |
 | **Frenzied Boss** (3 boss de faction) | Guardian : Ella, Clara, Irena · Ranger : Jessica, Grace, Bella · Berserker : Sagitta, Sonic, Scarlett | Impose trois équipes de faction |
 | **Alliance Boss** (rally, 30 min) | comme le World Boss | Cible unique + bonus contre les monstres |
 | **Storm Rescue** (vagues) | **Jessica** (243 % à tous) · **Admira** (zone + débuff magique) · Eileen (ligne entière) | Le seul événement où la zone paie vraiment |
@@ -46,7 +47,7 @@
 
 ## 4. Combinaisons
 
-- **Le véhicule comme second amplificateur :** *Global Strike* touche 2 cibles et augmente **l'ensemble des dégâts qu'elles subissent de 15 → 25 %** pendant 1 tour (par étoiles, ★4 exige le véhicule niv. 90). Cela agit sur tout, pas seulement sur les monstres — le plus fort amplificateur d'équipe. À déclencher avant la volée d'Ella.
+- **Le véhicule comme second amplificateur :** *Global Strike* touche 2 cibles et augmente **l'ensemble des dégâts qu'elles subissent de 15 % (★1) → 20 % (★3, véhicule niv. 70) → 25 % (★5, niv. 110)** pendant 1 tour. ★4 (niv. 90) n'ajoute que des dégâts physiques — les +25 % complets exigent le niv. 110. Cela agit sur tout, pas seulement sur les monstres — le plus fort amplificateur d'équipe. À déclencher avant la volée d'Ella.
 - **Noyau boss :** Clara + Ella — le débuff dure 2 tours, exactement la fenêtre de Phantom Volley. Ajouter Loki pour +11,5 % d'ATQ sur les deux.
 - **Front d'arène :** Viper (−26 % physique) + Marcus (+35 % DÉF) — les deux s'étendent à **tous** les alliés via les étoiles, ils se cumulent donc.
 - **Couverture par provocation :** Valkyra attire 2 à 4 ennemis **et** baisse leur ATQ de 11,5 % — la ligne arrière (Ella, Grace, Sonic) survit plus longtemps.

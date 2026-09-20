@@ -36,7 +36,8 @@
 
 | Evento | Formación clave | Por qué |
 |--------|-----------------|---------|
-| **World Boss** (solitario, 1 objetivo) | **Ella · Clara** · Bella · Scarlett · Sonic/Jessica | Ráfaga multigolpe + debuff; no hacen falta tanques |
+| **World Boss** (solitario, 1 objetivo) — cinco héroes de la facción del día | **Guardian:** Ella · Clara · Irena · Loki · Noctina — **Ranger:** Jessica · Grace · Bella · Gracie · Admira — **Berserker:** Sagitta · Sonic · Scarlett · Valkyrie · Noelle | El +50 % diario y el +20 % monofacción se suman — supera a un equipo mixto más fuerte |
+| **World Boss** — sin cinco de la facción del día | **Ella · Clara** · Bella · Scarlett · Sonic/Jessica | Daño puro: ráfaga multigolpe + debuff. Renuncia conscientemente al bono de formación del +20 % |
 | **Frenzied Boss** (3 jefes de facción) | Guardian: Ella, Clara, Irena · Ranger: Jessica, Grace, Bella · Berserker: Sagitta, Sonic, Scarlett | Obliga a tres equipos de facción |
 | **Alliance Boss** (rally, 30 min) | igual que el World Boss | Objetivo único + bonos contra monstruos |
 | **Storm Rescue** (oleadas) | **Jessica** (243 % a todos) · **Admira** (área + debuff mágico) · Eileen (fila entera) | El único evento donde el área rinde de verdad |
@@ -46,7 +47,7 @@
 
 ## 4. Combinaciones
 
-- **El vehículo como segundo amplificador:** *Global Strike* golpea a 2 objetivos y aumenta **todo el daño que reciben un 15 → 25 %** durante 1 turno (por estrellas; ★4 exige vehículo nv. 90). Afecta a todo, no solo a monstruos — el mayor amplificador de equipo. Lanzarlo antes de la andanada de Ella.
+- **El vehículo como segundo amplificador:** *Global Strike* golpea a 2 objetivos y aumenta **todo el daño que reciben un 15 % (★1) → 20 % (★3, vehículo nv. 70) → 25 % (★5, nv. 110)** durante 1 turno. ★4 (nv. 90) solo añade daño físico — el +25 % completo exige el nv. 110. Afecta a todo, no solo a monstruos — el mayor amplificador de equipo. Lanzarlo antes de la andanada de Ella.
 - **Núcleo de jefe:** Clara + Ella — el debuff dura 2 turnos, justo la ventana de Phantom Volley. Añade a Loki para +11,5 % de ATQ a ambas.
 - **Frente de arena:** Viper (−26 % físico) + Marcus (+35 % DEF) — ambos se extienden a **todos** los aliados con estrellas, así que se acumulan en vez de solaparse.
 - **Cobertura con provocación:** Valkyra atrae a 2–4 enemigos **y** baja su ATQ un 11,5 % — la fila trasera (Ella, Grace, Sonic) aguanta más.
