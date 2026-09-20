@@ -23,23 +23,23 @@
 | Grace — Bunny Girl | S+ | Ranger | Daño | ✓ |
 | Valkyra — Speedy Rider | S+ | Berserker | Defensa | ✓ |
 | Sagitta — Bow of Tomorrow | S+ | Berserker | Daño | ✓ |
-| Sonic — Speed Queen | S+ | Berserker | Daño | – |
+| Sonic — Speed Queen | S+ | Berserker | Daño | ✓ |
 | Clara — Frontline Medic | S | Guardian | Apoyo | ✓ |
 | Cassidy — Western Hunter | S | Guardian | Defensa | ✓ |
 | Irena — Federal Policewoman | S | Guardian | Daño | ✓ |
 | Eileen — Azure Watcher | S | Guardian | Defensa | ✓ |
 | Strike — Unbeaten Boxer | S | Ranger | Defensa | ✓ |
-| Leora — Caring Maid | S | Guardian | Daño | – |
-| Bella — Baseball Babe | S | ? | ? | ✓ |
+| Leora — Caring Maid | S | Guardian | Daño | ✓ |
+| Bella — Baseball Babe | S | Ranger | Daño | ✓ |
 | Noctina — Queen of Night | S | Guardian | Daño | ✓ |
 | Gracie — Doomsday Blademaster | S | Ranger | Apoyo | ✓ |
 | Noelle — White Night Killer | S | Berserker | Defensa | ✓ |
 | Scarlett — Scarlet Vanguard | S | Berserker | Daño | ✓ |
-| Valkyrie — Air Force Colonel | S | Berserker | Daño | – |
+| Valkyrie — Air Force Colonel | S | Berserker | Daño | ✓ |
 | Victor — Fearless Warrior | A | Guardian | Defensa | ✓ |
 | Jonah — Battlefield Operative | A | Guardian | Defensa | ✓ |
 | Falken — Falcon Warrior | A | Ranger | Daño | ✓ |
-| Rex — Infinite Gunner | A | Berserker | Daño | – |
+| Rex — Infinite Gunner | A | Berserker | Daño | ✓ |
 
 La rareza, la facción y el rol aparecen en la pestaña *Hero* (letra arriba a la izquierda, dos iconos bajo el nombre). ✓ = habilidades documentadas abajo, – = aún faltan.
 
@@ -117,6 +117,14 @@ La rareza, la facción y el rol aparecen en la pestaña *Hero* (letra arriba a l
 
 - Con 3★ todavía: habilidad de despertar bloqueada, tope de habilidad nv. 10 — aquí subir estrellas es la máxima prioridad.
 
+## Sonic — Speed Queen (S+ · Berserker · Daño)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Lightning Drift (CS) | 246 % del ATQ como daño de energía a un objetivo aleatorio (estrellas: +30/70/120 %, 4★ +185 %, 5★ +270 %) |
+| Swift Shot | 209 % del ATQ en energía, **prioriza la fila trasera** |
+| Lightning Speed | Pasiva: daño de energía propio +20 % (+3 % por estrella) |
+
 ## Clara — Frontline Medic (S · Guardian · Apoyo)
 
 | Habilidad | Efecto |
@@ -162,7 +170,15 @@ La rareza, la facción y el rol aparecen en la pestaña *Hero* (letra arriba a l
 
 - Tope de habilidad **nv. 10** y despertar bloqueado («Unlocks at 4-Star») — aquí subir estrellas va antes que gastar medallas.
 
-## Bella — Baseball Babe (S · actualmente 3★)
+## Leora — Caring Maid (S · Guardian · Daño · actualmente 2★)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Bullet Storm (CS) | **4 ataques** al 63 % físico a objetivos aleatorios (estrellas: +20 % de daño, **6 ataques**; 4★ 8 ataques, 5★ +70 %) |
+| Blitz Strike | 125 % del ATQ físico, objetivo único (estrellas: +20/45 %, 3★ +70 %, 4★ +100 %, 5★ +150 %) |
+| Reserve Magazine | Pasiva: ATQ propio +15,4 % (+3 % por estrella) |
+
+## Bella — Baseball Babe (S · Ranger · Daño · actualmente 3★)
 
 | Habilidad | Efecto |
 |-----------|--------|
@@ -204,6 +220,14 @@ La rareza, la facción y el rol aparecen en la pestaña *Hero* (letra arriba a l
 
 - Héroes 2★/3★: tope de habilidad **nv. 5** o **nv. 10**, despertar bloqueado — aquí subir una estrella rinde más que cualquier medalla.
 
+## Valkyrie — Air Force Colonel (S · Berserker · Daño · actualmente 2★)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Suppressive Fire (CS) | 71 % del ATQ en energía a **2 objetivos**; desde la 2.ª estrella **DEF del objetivo −10 % durante 1 turno** (4★: −15 %) |
+| Target Strike | 117 % del ATQ en energía, objetivo único (estrellas: +20/45 %, 3★ +70 %, 4★ +100 %, 5★ +150 %) |
+| Tactical Guidance | Pasiva: ATQ propio +15,2 % (+3 % por estrella) |
+
 ## Victor — Fearless Warrior (A · Guardian · Defensa · actualmente 3★)
 
 | Habilidad | Efecto |
@@ -228,6 +252,14 @@ La rareza, la facción y el rol aparecen en la pestaña *Hero* (letra arriba a l
 | Preemptive Strike | 107 % del ATQ físico, objetivo único |
 | Hawkeye Scout (despertar) | PV/ATQ/DEF +5 % — desde 4★ |
 
+## Rex — Infinite Gunner (A · Berserker · Daño · actualmente 3★)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Chain Fire (CS) | 96 % físico a **2 objetivos** (estrellas: +15 % de daño, **3 objetivos**, +30 %; 4★ +50 %, 5★ +75 %) |
+| Fire Assault | 105 % del ATQ físico, objetivo único |
+| Infinite Firepower (despertar) | PV/ATQ/DEF +5 % — desde 4★ |
+
 - Los héroes A tienen **solo dos habilidades de combate** y ningún bono contra monstruos; su fuerte es el área sobre 2 objetivos (3 desde la segunda estrella).
 
 ## Notas de uso
@@ -237,5 +269,5 @@ La rareza, la facción y el rol aparecen en la pestaña *Hero* (letra arriba a l
 - Las estrellas primero a los carries — el salto a 5★ sube el tope de habilidad (nv. 30) y el 5.º efecto de estrella.
 - Más roles: **Loki** bufa el ATQ del equipo (+crítico), **Valkyra** tanquea con provocación y baja el ATQ enemigo, **Grace** caza la fila trasera (aturdimiento), **Sagitta** remata objetivos con pocos PV.
 - **Configuración de caza de monstruos:** Cassidy, Eileen y Strike reducen el daño recibido de monstruos (−21 a −25 %), Irena y Clara aumentan el infligido — el equipo para rallys de zombis, misiones élite del radar y farmeo de jefes.
-- **S+ y S se reparten por uso:** ningún héroe S+ lleva bono contra monstruos, mientras que casi todos los S sí (salvo Noctina). Los S+ son los kits de arena/PvP, los S los kits de caza para World Boss, Frenzied Boss y radar.
-- **Reparto de facciones para el Faction Trial:** Guardian es la mayor con 12 héroes, Berserker tiene 7 y Ranger 6 (Bella aún sin confirmar) — suficiente para tres equipos separados, aunque el banquillo Ranger es el más corto (ver el manual del Faction Trial).
+- **S+ y S se reparten por uso:** ningún héroe S+ lleva bono contra monstruos — 9 de los 12 héroes S sí. Las tres excepciones (Noctina, Valkyrie, Leora) llevan en su lugar un bono fijo de ATQ de aproximadamente +15 %. Los S+ son los kits de arena, los S los kits de caza para World Boss, Frenzied Boss y radar.
+- **Reparto de facciones para el Faction Trial:** Guardian reúne la mitad de la plantilla con 12 héroes, Ranger y Berserker 7 cada una — de sobra para tres equipos (ver el manual del Faction Trial).

@@ -23,23 +23,23 @@
 | Grace — Bunny Girl | S+ | Ranger | DMG | ✓ |
 | Valkyra — Speedy Rider | S+ | Berserker | Verteidigung | ✓ |
 | Sagitta — Bow of Tomorrow | S+ | Berserker | DMG | ✓ |
-| Sonic — Speed Queen | S+ | Berserker | DMG | – |
+| Sonic — Speed Queen | S+ | Berserker | DMG | ✓ |
 | Clara — Frontline Medic | S | Guardian | Support | ✓ |
 | Cassidy — Western Hunter | S | Guardian | Verteidigung | ✓ |
 | Irena — Federal Policewoman | S | Guardian | DMG | ✓ |
 | Eileen — Azure Watcher | S | Guardian | Verteidigung | ✓ |
 | Strike — Unbeaten Boxer | S | Ranger | Verteidigung | ✓ |
-| Leora — Caring Maid | S | Guardian | DMG | – |
-| Bella — Baseball Babe | S | ? | ? | ✓ |
+| Leora — Caring Maid | S | Guardian | DMG | ✓ |
+| Bella — Baseball Babe | S | Ranger | DMG | ✓ |
 | Noctina — Queen of Night | S | Guardian | DMG | ✓ |
 | Gracie — Doomsday Blademaster | S | Ranger | Support | ✓ |
 | Noelle — White Night Killer | S | Berserker | Verteidigung | ✓ |
 | Scarlett — Scarlet Vanguard | S | Berserker | DMG | ✓ |
-| Valkyrie — Air Force Colonel | S | Berserker | DMG | – |
+| Valkyrie — Air Force Colonel | S | Berserker | DMG | ✓ |
 | Victor — Fearless Warrior | A | Guardian | Verteidigung | ✓ |
 | Jonah — Battlefield Operative | A | Guardian | Verteidigung | ✓ |
 | Falken — Falcon Warrior | A | Ranger | DMG | ✓ |
-| Rex — Infinite Gunner | A | Berserker | DMG | – |
+| Rex — Infinite Gunner | A | Berserker | DMG | ✓ |
 
 Rarität, Fraktion und Rolle stehen im Spiel im *Hero*-Tab (Buchstabe links oben, zwei Symbole unter dem Namen). ✓ = Skills unten dokumentiert, – = fehlt noch.
 
@@ -117,6 +117,14 @@ Rarität, Fraktion und Rolle stehen im Spiel im *Hero*-Tab (Buchstabe links oben
 
 - Bei 3★ noch: Erwachen-Skill gesperrt, Skill-Cap Lv. 10 — Star-Up hat hier höchste Priorität.
 
+## Sonic — Speed Queen (S+ · Berserker · DMG)
+
+| Skill | Wirkung |
+|-------|---------|
+| Lightning Drift (CS) | 246 % ATK als Energy DMG auf ein Zufallsziel (Sterne: +30/70/120 %, 4★ +185 %, 5★ +270 %) |
+| Swift Shot | 209 % ATK Energy, **priorisiert die hintere Reihe** |
+| Lightning Speed | Passiv: eigener Energy DMG +20 % (je Stern +3 %) |
+
 ## Clara — Frontline Medic (S · Guardian · Support)
 
 | Skill | Wirkung |
@@ -162,7 +170,15 @@ Rarität, Fraktion und Rolle stehen im Spiel im *Hero*-Tab (Buchstabe links oben
 
 - Skill-Cap **Lv. 10** und Erwachen gesperrt („Unlocks at 4-Star") — Star-Up hat hier Vorrang vor Medaillen.
 
-## Bella — Baseball Babe (S · aktuell 3★)
+## Leora — Caring Maid (S · Guardian · DMG · aktuell 2★)
+
+| Skill | Wirkung |
+|-------|---------|
+| Bullet Storm (CS) | **4 Angriffe** à 63 % Physical auf Zufallsziele (Sterne: +20 % DMG, **6 Angriffe**; 4★ 8 Angriffe, 5★ +70 %) |
+| Blitz Strike | 125 % ATK Physical, Einzelziel (Sterne: +20/45 %, 3★ +70 %, 4★ +100 %, 5★ +150 %) |
+| Reserve Magazine | Passiv: eigene ATK +15,4 % (je Stern +3 %) |
+
+## Bella — Baseball Babe (S · Ranger · DMG · aktuell 3★)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -204,6 +220,14 @@ Rarität, Fraktion und Rolle stehen im Spiel im *Hero*-Tab (Buchstabe links oben
 
 - 2★/3★-Helden: Skill-Cap **Lv. 5** bzw. **Lv. 10**, Erwachen gesperrt — hier bringt ein Star-Up mehr als jede Medaille.
 
+## Valkyrie — Air Force Colonel (S · Berserker · DMG · aktuell 2★)
+
+| Skill | Wirkung |
+|-------|---------|
+| Suppressive Fire (CS) | 71 % ATK Energy auf **2 Ziele**; ab 2. Stern **Ziel-DEF −10 % für 1 Runde** (4★: −15 %) |
+| Target Strike | 117 % ATK Energy, Einzelziel (Sterne: +20/45 %, 3★ +70 %, 4★ +100 %, 5★ +150 %) |
+| Tactical Guidance | Passiv: eigene ATK +15,2 % (je Stern +3 %) |
+
 ## Victor — Fearless Warrior (A · Guardian · Verteidigung · aktuell 3★)
 
 | Skill | Wirkung |
@@ -228,6 +252,14 @@ Rarität, Fraktion und Rolle stehen im Spiel im *Hero*-Tab (Buchstabe links oben
 | Preemptive Strike | 107 % ATK Physical, Einzelziel |
 | Hawkeye Scout (Erwachen) | HP/ATK/DEF +5 % — ab 4★ |
 
+## Rex — Infinite Gunner (A · Berserker · DMG · aktuell 3★)
+
+| Skill | Wirkung |
+|-------|---------|
+| Chain Fire (CS) | 96 % Physical auf **2 Ziele** (Sterne: +15 % DMG, **3 Ziele**, +30 %; 4★ +50 %, 5★ +75 %) |
+| Fire Assault | 105 % ATK Physical, Einzelziel |
+| Infinite Firepower (Erwachen) | HP/ATK/DEF +5 % — ab 4★ |
+
 - A-Helden haben **nur zwei Kampf-Skills** und keinen Monster-Bonus; ihre Stärke ist der AoE auf 2 (ab 2. Stern 3) Ziele.
 
 ## Einsatz-Hinweise
@@ -237,5 +269,5 @@ Rarität, Fraktion und Rolle stehen im Spiel im *Hero*-Tab (Buchstabe links oben
 - Sterne zuerst auf die Carries — der Sprung auf 5★ hebt Skill-Cap (Lv. 30) und 5. Sterneffekt.
 - Weitere Rollen: **Loki** bufft Team-ATK (+Crit), **Valkyra** tankt per Taunt und senkt Gegner-ATK, **Grace** snipet die Backrow (Stun), **Sagitta** finisht Ziele mit wenig HP.
 - **Monsterjagd-Setup:** Cassidy, Eileen und Strike senken den erlittenen Monster-Schaden (−21 bis −25 %), Irena und Clara erhöhen den ausgeteilten — zusammen das Team für Zombie-Rallys, Radar-Elite-Missionen und Boss-Farming.
-- **S+ und S trennen sich nach Einsatzzweck:** Kein S+-Held trägt einen Monster-Bonus, fast jeder S-Held dagegen schon (Ausnahme Noctina). S+ sind die Arena-/PvP-Kits, S die Jagd-Kits für World Boss, Frenzied Boss und Radar.
-- **Fraktionsverteilung fürs Faction Trial:** Guardian stellt mit 12 Helden die meisten, Berserker 7, Ranger 6 (Bella noch unbekannt) — genug für drei getrennte Trial-Teams, aber die Ranger-Reihe ist die dünnste (siehe Faction-Trial-Manual).
+- **S+ und S trennen sich nach Einsatzzweck:** Kein einziger S+-Held trägt einen Monster-Bonus — 9 der 12 S-Helden dagegen schon. Die drei Ausnahmen (Noctina, Valkyrie, Leora) haben stattdessen einen flachen ATK-Buff von rund +15 %. S+ sind die Arena-Kits, S die Jagd-Kits für World Boss, Frenzied Boss und Radar.
+- **Fraktionsverteilung fürs Faction Trial:** Guardian stellt mit 12 Helden die Hälfte, Ranger und Berserker je 7 — für drei Trial-Teams reicht es bequem (siehe Faction-Trial-Manual).

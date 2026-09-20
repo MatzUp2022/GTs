@@ -23,23 +23,23 @@
 | Grace — Bunny Girl | S+ | Ranger | Dégâts | ✓ |
 | Valkyra — Speedy Rider | S+ | Berserker | Défense | ✓ |
 | Sagitta — Bow of Tomorrow | S+ | Berserker | Dégâts | ✓ |
-| Sonic — Speed Queen | S+ | Berserker | Dégâts | – |
+| Sonic — Speed Queen | S+ | Berserker | Dégâts | ✓ |
 | Clara — Frontline Medic | S | Guardian | Soutien | ✓ |
 | Cassidy — Western Hunter | S | Guardian | Défense | ✓ |
 | Irena — Federal Policewoman | S | Guardian | Dégâts | ✓ |
 | Eileen — Azure Watcher | S | Guardian | Défense | ✓ |
 | Strike — Unbeaten Boxer | S | Ranger | Défense | ✓ |
-| Leora — Caring Maid | S | Guardian | Dégâts | – |
-| Bella — Baseball Babe | S | ? | ? | ✓ |
+| Leora — Caring Maid | S | Guardian | Dégâts | ✓ |
+| Bella — Baseball Babe | S | Ranger | Dégâts | ✓ |
 | Noctina — Queen of Night | S | Guardian | Dégâts | ✓ |
 | Gracie — Doomsday Blademaster | S | Ranger | Soutien | ✓ |
 | Noelle — White Night Killer | S | Berserker | Défense | ✓ |
 | Scarlett — Scarlet Vanguard | S | Berserker | Dégâts | ✓ |
-| Valkyrie — Air Force Colonel | S | Berserker | Dégâts | – |
+| Valkyrie — Air Force Colonel | S | Berserker | Dégâts | ✓ |
 | Victor — Fearless Warrior | A | Guardian | Défense | ✓ |
 | Jonah — Battlefield Operative | A | Guardian | Défense | ✓ |
 | Falken — Falcon Warrior | A | Ranger | Dégâts | ✓ |
-| Rex — Infinite Gunner | A | Berserker | Dégâts | – |
+| Rex — Infinite Gunner | A | Berserker | Dégâts | ✓ |
 
 La rareté, la faction et le rôle figurent dans l'onglet *Hero* (lettre en haut à gauche, deux icônes sous le nom). ✓ = compétences documentées ci-dessous, – = encore manquantes.
 
@@ -117,6 +117,14 @@ La rareté, la faction et le rôle figurent dans l'onglet *Hero* (lettre en haut
 
 - À 3★ encore : compétence d'éveil verrouillée, plafond de compétence niv. 10 — la montée en étoiles est ici la priorité absolue.
 
+## Sonic — Speed Queen (S+ · Berserker · Dégâts)
+
+| Compétence | Effet |
+|------------|-------|
+| Lightning Drift (CS) | 246 % de l'ATQ en dégâts d'énergie sur une cible aléatoire (étoiles : +30/70/120 %, 4★ +185 %, 5★ +270 %) |
+| Swift Shot | 209 % de l'ATQ en énergie, **priorise la ligne arrière** |
+| Lightning Speed | Passif : ses dégâts d'énergie +20 % (+3 % par étoile) |
+
 ## Clara — Frontline Medic (S · Guardian · Soutien)
 
 | Compétence | Effet |
@@ -162,7 +170,15 @@ La rareté, la faction et le rôle figurent dans l'onglet *Hero* (lettre en haut
 
 - Plafond de compétence **niv. 10** et éveil verrouillé (« Unlocks at 4-Star ») — la montée en étoiles prime sur les médailles.
 
-## Bella — Baseball Babe (S · actuellement 3★)
+## Leora — Caring Maid (S · Guardian · Dégâts · actuellement 2★)
+
+| Compétence | Effet |
+|------------|-------|
+| Bullet Storm (CS) | **4 attaques** à 63 % en physique sur des cibles aléatoires (étoiles : +20 % de dégâts, **6 attaques** ; 4★ 8 attaques, 5★ +70 %) |
+| Blitz Strike | 125 % de l'ATQ en physique, cible unique (étoiles : +20/45 %, 3★ +70 %, 4★ +100 %, 5★ +150 %) |
+| Reserve Magazine | Passif : sa propre ATQ +15,4 % (+3 % par étoile) |
+
+## Bella — Baseball Babe (S · Ranger · Dégâts · actuellement 3★)
 
 | Compétence | Effet |
 |------------|-------|
@@ -204,6 +220,14 @@ La rareté, la faction et le rôle figurent dans l'onglet *Hero* (lettre en haut
 
 - Héros 2★/3★ : plafond de compétence **niv. 5** resp. **niv. 10**, éveil verrouillé — ici une montée en étoiles vaut mieux que n'importe quelle médaille.
 
+## Valkyrie — Air Force Colonel (S · Berserker · Dégâts · actuellement 2★)
+
+| Compétence | Effet |
+|------------|-------|
+| Suppressive Fire (CS) | 71 % de l'ATQ en énergie sur **2 cibles** ; dès la 2e étoile **DÉF de la cible −10 % pendant 1 tour** (4★ : −15 %) |
+| Target Strike | 117 % de l'ATQ en énergie, cible unique (étoiles : +20/45 %, 3★ +70 %, 4★ +100 %, 5★ +150 %) |
+| Tactical Guidance | Passif : sa propre ATQ +15,2 % (+3 % par étoile) |
+
 ## Victor — Fearless Warrior (A · Guardian · Défense · actuellement 3★)
 
 | Compétence | Effet |
@@ -228,6 +252,14 @@ La rareté, la faction et le rôle figurent dans l'onglet *Hero* (lettre en haut
 | Preemptive Strike | 107 % de l'ATQ en physique, cible unique |
 | Hawkeye Scout (éveil) | PV/ATQ/DÉF +5 % — dès 4★ |
 
+## Rex — Infinite Gunner (A · Berserker · Dégâts · actuellement 3★)
+
+| Compétence | Effet |
+|------------|-------|
+| Chain Fire (CS) | 96 % physiques sur **2 cibles** (étoiles : +15 % de dégâts, **3 cibles**, +30 % ; 4★ +50 %, 5★ +75 %) |
+| Fire Assault | 105 % de l'ATQ en physique, cible unique |
+| Infinite Firepower (éveil) | PV/ATQ/DÉF +5 % — dès 4★ |
+
 - Les héros A n'ont **que deux compétences de combat** et aucun bonus contre les monstres ; leur atout est la zone sur 2 cibles (3 dès la deuxième étoile).
 
 ## Notes d'utilisation
@@ -237,5 +269,5 @@ La rareté, la faction et le rôle figurent dans l'onglet *Hero* (lettre en haut
 - Les étoiles d'abord aux carries — le passage à 5★ relève le plafond de compétence (niv. 30) et le 5e effet d'étoile.
 - Autres rôles : **Loki** buffe l'ATQ d'équipe (+crit), **Valkyra** tanke par provocation et baisse l'ATQ ennemie, **Grace** snipe la ligne arrière (étourdissement), **Sagitta** achève les cibles à bas PV.
 - **Configuration chasse aux monstres :** Cassidy, Eileen et Strike réduisent les dégâts subis des monstres (−21 à −25 %), Irena et Clara augmentent ceux infligés — l'équipe pour les rallys zombies, les missions élite du radar et le farm de boss.
-- **S+ et S se séparent par usage :** aucun héros S+ ne porte de bonus contre les monstres, alors que presque tous les S en ont un (sauf Noctina). Les S+ sont les kits d'arène/PvP, les S les kits de chasse pour le World Boss, le Frenzied Boss et le radar.
-- **Répartition des factions pour le Faction Trial :** Guardian domine avec 12 héros, Berserker en compte 7, Ranger 6 (Bella encore inconnue) — de quoi monter trois équipes distinctes, mais le banc Ranger est le plus mince (voir le manuel Faction Trial).
+- **S+ et S se séparent par usage :** aucun héros S+ ne porte de bonus contre les monstres — 9 des 12 héros S en ont un. Les trois exceptions (Noctina, Valkyrie, Leora) portent à la place un bonus d'ATQ fixe d'environ +15 %. Les S+ sont les kits d'arène, les S les kits de chasse pour le World Boss, le Frenzied Boss et le radar.
+- **Répartition des factions pour le Faction Trial :** Guardian représente la moitié du roster avec 12 héros, Ranger et Berserker 7 chacun — largement de quoi monter trois équipes (voir le manuel Faction Trial).
