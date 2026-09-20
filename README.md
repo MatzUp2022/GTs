@@ -15,6 +15,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 |-------|--------|----------|
 | 10.01 | **World Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
 | 20.09 | **Alliance Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_ES.md) |
+| 20.09 | **Frenzied Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_ES.md) |
 
 ---
 
@@ -41,6 +42,16 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 ---
 
+## Inhalt: Frenzied Boss (Kurzfassung)
+
+- Server-Event: 3 Bosse per Portal (0/6/12 Uhr Serverzeit), ab Basis-Lv. 5; um 24:00 fliehen sie
+- Unbegrenzte Angriffe — **nur die 3 stärksten Versuche zählen**
+- Schwächen (+50 % DMG): Giant → **Guardian**, Undead → **Ranger**, Frenzied → **Berserker**
+- Belohnungen per Mail nach Schaden; Top 100 mit Extra-Ranking-Rewards
+- Alle 3 Bosse besiegt = stärkeres Event + bessere Belohnungen beim nächsten Mal
+
+---
+
 ## Repo-Struktur
 
 ```
@@ -52,6 +63,11 @@ GTs/
     │   ├── alliance-boss_DE.md
     │   ├── alliance-boss_FR.md
     │   └── alliance-boss_ES.md
+    ├── frenzied-boss/
+    │   ├── frenzied-boss_EN.md
+    │   ├── frenzied-boss_DE.md
+    │   ├── frenzied-boss_FR.md
+    │   └── frenzied-boss_ES.md
     └── world-boss/
         ├── world-boss_EN.md
         ├── world-boss_DE.md
