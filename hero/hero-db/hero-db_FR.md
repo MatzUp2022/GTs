@@ -10,7 +10,40 @@
 | **S** (violet) | Doomsday Potential : PV/ATQ/DÉF +10 % | +20 → +150 % | 3 |
 | **A** (bleu) | nom propre à chaque héros : PV/ATQ/DÉF +5 % | +15 → +100 % | 2 |
 
-## Ella — Jungle Phantom (S+ · Guardian · dégâts)
+## Aperçu du roster (26 héros)
+
+| Héros | Rareté | Faction | Rôle | Compétences |
+|---|---|---|---|---|
+| Ella — Jungle Phantom | S+ | Guardian | Dégâts | ✓ |
+| Viper — Doomsday Blossom | S+ | Guardian | Défense | ✓ |
+| Admira — Doom Arbiter | S+ | Ranger | Défense | ✓ |
+| Jessica — Chainsaw Cutie | S+ | Ranger | Dégâts | ✓ |
+| Marcus — Line Breaker | S+ | Guardian | Défense | ✓ |
+| Loki — Deadly Rocker | S+ | Guardian | Soutien | ✓ |
+| Grace — Bunny Girl | S+ | Ranger | Dégâts | ✓ |
+| Valkyra — Speedy Rider | S+ | Berserker | Défense | ✓ |
+| Sagitta — Bow of Tomorrow | S+ | Berserker | Dégâts | ✓ |
+| Sonic — Speed Queen | S+ | Berserker | Dégâts | – |
+| Clara — Frontline Medic | S | Guardian | Soutien | ✓ |
+| Cassidy — Western Hunter | S | Guardian | Défense | ✓ |
+| Irena — Federal Policewoman | S | Guardian | Dégâts | ✓ |
+| Eileen — Azure Watcher | S | Guardian | Défense | ✓ |
+| Strike — Unbeaten Boxer | S | Ranger | Défense | ✓ |
+| Leora — Caring Maid | S | Guardian | Dégâts | – |
+| Bella — Baseball Babe | S | ? | ? | ✓ |
+| Noctina — Queen of Night | S | Guardian | Dégâts | ✓ |
+| Gracie — Doomsday Blademaster | S | Ranger | Soutien | ✓ |
+| Noelle — White Night Killer | S | Berserker | Défense | ✓ |
+| Scarlett — Scarlet Vanguard | S | Berserker | Dégâts | ✓ |
+| Valkyrie — Air Force Colonel | S | Berserker | Dégâts | – |
+| Victor — Fearless Warrior | A | Guardian | Défense | ✓ |
+| Jonah — Battlefield Operative | A | Guardian | Défense | ✓ |
+| Falken — Falcon Warrior | A | Ranger | Dégâts | ✓ |
+| Rex — Infinite Gunner | A | Berserker | Dégâts | – |
+
+La rareté, la faction et le rôle figurent dans l'onglet *Hero* (lettre en haut à gauche, deux icônes sous le nom). ✓ = compétences documentées ci-dessous, – = encore manquantes.
+
+## Ella — Jungle Phantom (S+ · Guardian · Dégâts)
 
 | Compétence | Effet |
 |------------|-------|
@@ -18,7 +51,7 @@
 | Jungle Rage | Passif : ses dégâts d'énergie +28 % (+3 % par étoile) |
 | Phantom Volley (CS) | 8 attaques à 117 % sur cibles aléatoires (étoiles : jusqu'à 16 attaques + dégâts) |
 
-## Viper — Doomsday Blossom (S+ · Guardian · défense)
+## Viper — Doomsday Blossom (S+ · Guardian · Défense)
 
 | Compétence | Effet |
 |------------|-------|
@@ -26,7 +59,7 @@
 | Iron Grip | La ligne avant subit −26 % de dégâts physiques, 1 tour (étoiles : 2 tours, **s'applique à tous les alliés**) |
 | Nightfall's Shelter | Passif : la ligne avant subit −15,6 % de tous les dégâts (−2 % par étoile) |
 
-## Admira — Doom Arbiter (Ranger)
+## Admira — Doom Arbiter (S+ · Ranger · Défense)
 
 | Compétence | Effet |
 |------------|-------|
@@ -34,7 +67,7 @@
 | Governing Edge (CS) | 72 % physiques à **tous les ennemis** + leurs dégâts magiques −12 % pendant 2 tours |
 | Fearless Heart | Passif : dégâts d'énergie subis −28 % (−4 % par étoile) |
 
-## Jessica — Chainsaw Cutie (Ranger · dégâts)
+## Jessica — Chainsaw Cutie (S+ · Ranger · Dégâts)
 
 | Compétence | Effet |
 |------------|-------|
@@ -42,7 +75,7 @@
 | Chainsaw Carnival (CS) | 243 % de dégâts d'énergie à **tous les ennemis** |
 | Crit Frenzy | Passif : taux de critique +26 % (+3 % par étoile) |
 
-## Marcus — Line Breaker (Guardian · défense)
+## Marcus — Line Breaker (S+ · Guardian · Défense)
 
 | Compétence | Effet |
 |------------|-------|
@@ -50,7 +83,7 @@
 | Undying Creed | DÉF de la ligne avant +35 %, 1 tour (étoiles : **tous les alliés**, 2 tours) |
 | Fortification | Passif : dégâts subis −21 % (−3 % par étoile) |
 
-## Loki — Deadly Rocker
+## Loki — Deadly Rocker (S+ · Guardian · Soutien)
 
 | Compétence | Effet |
 |------------|-------|
@@ -58,7 +91,7 @@
 | Frenzied Beat | **Tous les alliés** ATQ +11,5 %, 1 tour (étoiles : paliers de +2 %, **crit +10 %**, 2 tours) |
 | Rebellious Spirit | Passif : sa vitesse +23 ; l'allié avec la plus haute ATQ subit −9 % de dégâts (par étoile +2 vitesse / −1 %) |
 
-## Grace — Bunny Girl (Ranger)
+## Grace — Bunny Girl (S+ · Ranger · Dégâts)
 
 | Compétence | Effet |
 |------------|-------|
@@ -66,7 +99,7 @@
 | All-In Gamble (CS) | 249 % d'énergie, **priorise la ligne arrière**, 10 % de chance d'étourdir 1 tour (étoiles : jusqu'à 3 cibles) |
 | Path of Vengeance | Passif : sa propre ATQ +30 % (+4 % par étoile) |
 
-## Valkyra — Speedy Rider
+## Valkyra — Speedy Rider (S+ · Berserker · Défense)
 
 | Compétence | Effet |
 |------------|-------|
@@ -74,7 +107,7 @@
 | Speedy Charge | **Provoque** 2 ennemis + leur ATQ −11,5 % pendant 2 tours (étoiles : jusqu'à 4 cibles) |
 | Momentum | Passif : dégâts subis −21 % (−3 % par étoile) |
 
-## Sagitta — Bow of Tomorrow
+## Sagitta — Bow of Tomorrow (S+ · Berserker · Dégâts)
 
 | Compétence | Effet |
 |------------|-------|
@@ -84,7 +117,7 @@
 
 - À 3★ encore : compétence d'éveil verrouillée, plafond de compétence niv. 10 — la montée en étoiles est ici la priorité absolue.
 
-## Clara — Frontline Medic (S · Guardian · soutien)
+## Clara — Frontline Medic (S · Guardian · Soutien)
 
 | Compétence | Effet |
 |------------|-------|
@@ -95,7 +128,7 @@
 - Rareté S : échelles plus plates (effets d'étoile +20 → 150 % au lieu de +30 → 270 %) et l'éveil « Doomsday Potential » ne donne que **PV/ATQ/DÉF +10 %** (sans vitesse).
 - **La spécialiste de la purge/chasse aux monstres :** à placer dans les rallys zombies, les missions élite du radar et le farm de boss — dégâts **et** butin montent en même temps.
 
-## Cassidy — Western Hunter (S)
+## Cassidy — Western Hunter (S · Guardian · Défense)
 
 | Compétence | Effet |
 |------------|-------|
@@ -103,7 +136,7 @@
 | Border Hold | Passif : sa propre DÉF +70 % (+10 % par étoile) |
 | Gunfire Verdict | Dégâts subis des monstres −24 % pendant 1 tour (−4 % par étoile ; 4e étoile : 2 tours) |
 
-## Irena — Federal Policewoman (S)
+## Irena — Federal Policewoman (S · Guardian · Dégâts)
 
 | Compétence | Effet |
 |------------|-------|
@@ -111,7 +144,7 @@
 | Punishing Shot | 185 % de l'ATQ en dégâts physiques, cible unique |
 | Absolute Order | Passif : les **héros Guardian alliés de la ligne arrière** infligent +13 % de dégâts aux monstres (+2 % par étoile) |
 
-## Eileen — Azure Watcher (S)
+## Eileen — Azure Watcher (S · Guardian · Défense)
 
 | Compétence | Effet |
 |------------|-------|
@@ -119,7 +152,7 @@
 | Flame Blast | 180 % de l'ATQ en dégâts physiques, cible unique |
 | Wavebreaker | Passif : dégâts subis des monstres −25,5 % (−4 % par étoile) |
 
-## Strike — Unbeaten Boxer (3★, rareté inférieure)
+## Strike — Unbeaten Boxer (S · Ranger · Défense · actuellement 3★)
 
 | Compétence | Effet |
 |------------|-------|
@@ -129,7 +162,7 @@
 
 - Plafond de compétence **niv. 10** et éveil verrouillé (« Unlocks at 4-Star ») — la montée en étoiles prime sur les médailles.
 
-## Bella — Baseball Babe (3★)
+## Bella — Baseball Babe (S · actuellement 3★)
 
 | Compétence | Effet |
 |------------|-------|
@@ -137,7 +170,7 @@
 | Bat Slam | 238 % de l'ATQ en physique, cible unique |
 | Ignited Courage | Passif : ses dégâts contre les monstres +20,6 % (+4 % par étoile) |
 
-## Noctina — Queen of Night (2★)
+## Noctina — Queen of Night (S · Guardian · Dégâts · actuellement 2★)
 
 | Compétence | Effet |
 |------------|-------|
@@ -145,7 +178,7 @@
 | Cold Assassination | 117 % de l'ATQ en physique, cible unique |
 | Nightfall | Passif : sa propre ATQ +15,2 % (+3 % par étoile) |
 
-## Gracie — Doomsday Blademaster (2★)
+## Gracie — Doomsday Blademaster (S · Ranger · Soutien · actuellement 2★)
 
 | Compétence | Effet |
 |------------|-------|
@@ -153,7 +186,7 @@
 | Precise Slash | 97 % de l'ATQ en physique, cible unique |
 | Calm Breakthrough | Passif : dégâts subis des monstres −16,3 % (−4 % par étoile) |
 
-## Noelle — White Night Killer (2★)
+## Noelle — White Night Killer (S · Berserker · Défense · actuellement 2★)
 
 | Compétence | Effet |
 |------------|-------|
@@ -161,7 +194,7 @@
 | One-Hit Kill | 97 % de l'ATQ en dégâts d'énergie, cible unique |
 | Killing Instinct | Passif : dégâts subis des monstres −16,3 % (−4 % par étoile) |
 
-## Scarlett — Scarlet Vanguard (2★)
+## Scarlett — Scarlet Vanguard (S · Berserker · Dégâts · actuellement 2★)
 
 | Compétence | Effet |
 |------------|-------|
@@ -171,7 +204,7 @@
 
 - Héros 2★/3★ : plafond de compétence **niv. 5** resp. **niv. 10**, éveil verrouillé — ici une montée en étoiles vaut mieux que n'importe quelle médaille.
 
-## Victor — Fearless Warrior (A · 3★)
+## Victor — Fearless Warrior (A · Guardian · Défense · actuellement 3★)
 
 | Compétence | Effet |
 |------------|-------|
@@ -179,7 +212,7 @@
 | Valiant Charge | 160 % de l'ATQ en physique, cible unique |
 | Final Mission (éveil) | PV/ATQ/DÉF +5 % — dès 4★ |
 
-## Jonah — Battlefield Operative (A · 3★)
+## Jonah — Battlefield Operative (A · Guardian · Défense · actuellement 3★)
 
 | Compétence | Effet |
 |------------|-------|
@@ -187,7 +220,7 @@
 | Aggressive Assault | 105 % de l'ATQ en physique, cible unique |
 | Battle Instinct (éveil) | PV/ATQ/DÉF +5 % — dès 4★ |
 
-## Falken — Falcon Warrior (A · 3★)
+## Falken — Falcon Warrior (A · Ranger · Dégâts · actuellement 3★)
 
 | Compétence | Effet |
 |------------|-------|
@@ -204,4 +237,5 @@
 - Les étoiles d'abord aux carries — le passage à 5★ relève le plafond de compétence (niv. 30) et le 5e effet d'étoile.
 - Autres rôles : **Loki** buffe l'ATQ d'équipe (+crit), **Valkyra** tanke par provocation et baisse l'ATQ ennemie, **Grace** snipe la ligne arrière (étourdissement), **Sagitta** achève les cibles à bas PV.
 - **Configuration chasse aux monstres :** Cassidy, Eileen et Strike réduisent les dégâts subis des monstres (−21 à −25 %), Irena et Clara augmentent ceux infligés — l'équipe pour les rallys zombies, les missions élite du radar et le farm de boss.
-- **Presque chaque héros de faible rareté porte un bonus contre les monstres** (plus de dégâts infligés ou moins subis) — en remplissage dans l'équipe de chasse, souvent préférable à un héros plus fort sans compétence anti-monstres.
+- **S+ et S se séparent par usage :** aucun héros S+ ne porte de bonus contre les monstres, alors que presque tous les S en ont un (sauf Noctina). Les S+ sont les kits d'arène/PvP, les S les kits de chasse pour le World Boss, le Frenzied Boss et le radar.
+- **Répartition des factions pour le Faction Trial :** Guardian domine avec 12 héros, Berserker en compte 7, Ranger 6 (Bella encore inconnue) — de quoi monter trois équipes distinctes, mais le banc Ranger est le plus mince (voir le manuel Faction Trial).

@@ -10,6 +10,39 @@
 | **S** (lila) | Doomsday Potential: HP/ATK/DEF +10 % | +20 → +150 % | 3 |
 | **A** (blau) | eigener Name je Held: HP/ATK/DEF +5 % | +15 → +100 % | 2 |
 
+## Roster-Übersicht (26 Helden)
+
+| Held | Rarität | Fraktion | Rolle | Skills |
+|---|---|---|---|---|
+| Ella — Jungle Phantom | S+ | Guardian | DMG | ✓ |
+| Viper — Doomsday Blossom | S+ | Guardian | Verteidigung | ✓ |
+| Admira — Doom Arbiter | S+ | Ranger | Verteidigung | ✓ |
+| Jessica — Chainsaw Cutie | S+ | Ranger | DMG | ✓ |
+| Marcus — Line Breaker | S+ | Guardian | Verteidigung | ✓ |
+| Loki — Deadly Rocker | S+ | Guardian | Support | ✓ |
+| Grace — Bunny Girl | S+ | Ranger | DMG | ✓ |
+| Valkyra — Speedy Rider | S+ | Berserker | Verteidigung | ✓ |
+| Sagitta — Bow of Tomorrow | S+ | Berserker | DMG | ✓ |
+| Sonic — Speed Queen | S+ | Berserker | DMG | – |
+| Clara — Frontline Medic | S | Guardian | Support | ✓ |
+| Cassidy — Western Hunter | S | Guardian | Verteidigung | ✓ |
+| Irena — Federal Policewoman | S | Guardian | DMG | ✓ |
+| Eileen — Azure Watcher | S | Guardian | Verteidigung | ✓ |
+| Strike — Unbeaten Boxer | S | Ranger | Verteidigung | ✓ |
+| Leora — Caring Maid | S | Guardian | DMG | – |
+| Bella — Baseball Babe | S | ? | ? | ✓ |
+| Noctina — Queen of Night | S | Guardian | DMG | ✓ |
+| Gracie — Doomsday Blademaster | S | Ranger | Support | ✓ |
+| Noelle — White Night Killer | S | Berserker | Verteidigung | ✓ |
+| Scarlett — Scarlet Vanguard | S | Berserker | DMG | ✓ |
+| Valkyrie — Air Force Colonel | S | Berserker | DMG | – |
+| Victor — Fearless Warrior | A | Guardian | Verteidigung | ✓ |
+| Jonah — Battlefield Operative | A | Guardian | Verteidigung | ✓ |
+| Falken — Falcon Warrior | A | Ranger | DMG | ✓ |
+| Rex — Infinite Gunner | A | Berserker | DMG | – |
+
+Rarität, Fraktion und Rolle stehen im Spiel im *Hero*-Tab (Buchstabe links oben, zwei Symbole unter dem Namen). ✓ = Skills unten dokumentiert, – = fehlt noch.
+
 ## Ella — Jungle Phantom (S+ · Guardian · DMG)
 
 | Skill | Wirkung |
@@ -26,7 +59,7 @@
 | Iron Grip | Frontreihe erleidet −26 % Physical DMG, 1 Runde (Sterne: 2 Runden, **gilt allen Verbündeten**) |
 | Nightfall's Shelter | Passiv: Frontreihe erleidet −15,6 % gesamten DMG (je Stern −2 %) |
 
-## Admira — Doom Arbiter (Ranger)
+## Admira — Doom Arbiter (S+ · Ranger · Verteidigung)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -34,7 +67,7 @@
 | Governing Edge (CS) | 72 % Physical an **alle Gegner** + deren Magic DMG −12 % für 2 Runden |
 | Fearless Heart | Passiv: erlittener Energy DMG −28 % (je Stern −4 %) |
 
-## Jessica — Chainsaw Cutie (Ranger · DMG)
+## Jessica — Chainsaw Cutie (S+ · Ranger · DMG)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -42,7 +75,7 @@
 | Chainsaw Carnival (CS) | 243 % Energy DMG an **alle Gegner** |
 | Crit Frenzy | Passiv: Crit-Rate +26 % (je Stern +3 %) |
 
-## Marcus — Line Breaker (Guardian · Verteidigung)
+## Marcus — Line Breaker (S+ · Guardian · Verteidigung)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -50,7 +83,7 @@
 | Undying Creed | Frontreihe-DEF +35 %, 1 Runde (Sterne: **alle Verbündeten**, 2 Runden) |
 | Fortification | Passiv: erlittener DMG −21 % (je Stern −3 %) |
 
-## Loki — Deadly Rocker
+## Loki — Deadly Rocker (S+ · Guardian · Support)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -58,7 +91,7 @@
 | Frenzied Beat | **Alle Verbündeten** ATK +11,5 %, 1 Runde (Sterne: +2 %-Schritte, **Crit +10 %**, 2 Runden) |
 | Rebellious Spirit | Passiv: eigene Speed +23; der Verbündete mit der höchsten ATK erleidet −9 % DMG (je Stern +2 Speed / −1 %) |
 
-## Grace — Bunny Girl (Ranger)
+## Grace — Bunny Girl (S+ · Ranger · DMG)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -66,7 +99,7 @@
 | All-In Gamble (CS) | 249 % Energy, **priorisiert die Backrow**, 10 % Stun-Chance 1 Runde (Sterne: bis 3 Ziele) |
 | Path of Vengeance | Passiv: eigene ATK +30 % (je Stern +4 %) |
 
-## Valkyra — Speedy Rider
+## Valkyra — Speedy Rider (S+ · Berserker · Verteidigung)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -74,7 +107,7 @@
 | Speedy Charge | **Taunt** auf 2 Gegner + deren ATK −11,5 % für 2 Runden (Sterne: bis 4 Ziele) |
 | Momentum | Passiv: erlittener DMG −21 % (je Stern −3 %) |
 
-## Sagitta — Bow of Tomorrow
+## Sagitta — Bow of Tomorrow (S+ · Berserker · DMG)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -95,7 +128,7 @@
 - S-Rarität: flachere Skalen (Sterneffekte +20 → 150 % statt +30 → 270 %) und Erwachen „Doomsday Potential" nur **HP/ATK/DEF +10 %** (ohne Speed).
 - **Die Purge-/Monsterjagd-Spezialistin:** ins Team für Zombie-Rallys, Radar-Elite-Missionen und Boss-Farming — Schaden **und** Beute steigen gleichzeitig.
 
-## Cassidy — Western Hunter (S)
+## Cassidy — Western Hunter (S · Guardian · Verteidigung)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -103,7 +136,7 @@
 | Border Hold | Passiv: eigene DEF +70 % (je Stern +10 %) |
 | Gunfire Verdict | Erlittener Monster-DMG −24 % für 1 Runde (je Stern −4 %; 4. Stern: 2 Runden) |
 
-## Irena — Federal Policewoman (S)
+## Irena — Federal Policewoman (S · Guardian · DMG)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -111,7 +144,7 @@
 | Punishing Shot | 185 % ATK als Physical DMG, Einzelziel |
 | Absolute Order | Passiv: verbündete **Guardian-Helden in der hinteren Reihe** machen +13 % DMG gegen Monster (je Stern +2 %) |
 
-## Eileen — Azure Watcher (S)
+## Eileen — Azure Watcher (S · Guardian · Verteidigung)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -119,7 +152,7 @@
 | Flame Blast | 180 % ATK als Physical DMG, Einzelziel |
 | Wavebreaker | Passiv: erlittener Monster-DMG −25,5 % (je Stern −4 %) |
 
-## Strike — Unbeaten Boxer (3★, niedrigere Rarität)
+## Strike — Unbeaten Boxer (S · Ranger · Verteidigung · aktuell 3★)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -129,7 +162,7 @@
 
 - Skill-Cap **Lv. 10** und Erwachen gesperrt („Unlocks at 4-Star") — Star-Up hat hier Vorrang vor Medaillen.
 
-## Bella — Baseball Babe (3★)
+## Bella — Baseball Babe (S · aktuell 3★)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -137,7 +170,7 @@
 | Bat Slam | 238 % ATK Physical, Einzelziel |
 | Ignited Courage | Passiv: eigener DMG gegen Monster +20,6 % (je Stern +4 %) |
 
-## Noctina — Queen of Night (2★)
+## Noctina — Queen of Night (S · Guardian · DMG · aktuell 2★)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -145,7 +178,7 @@
 | Cold Assassination | 117 % ATK Physical, Einzelziel |
 | Nightfall | Passiv: eigene ATK +15,2 % (je Stern +3 %) |
 
-## Gracie — Doomsday Blademaster (2★)
+## Gracie — Doomsday Blademaster (S · Ranger · Support · aktuell 2★)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -153,7 +186,7 @@
 | Precise Slash | 97 % ATK Physical, Einzelziel |
 | Calm Breakthrough | Passiv: erlittener Monster-DMG −16,3 % (je Stern −4 %) |
 
-## Noelle — White Night Killer (2★)
+## Noelle — White Night Killer (S · Berserker · Verteidigung · aktuell 2★)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -161,7 +194,7 @@
 | One-Hit Kill | 97 % ATK als Energy DMG, Einzelziel |
 | Killing Instinct | Passiv: erlittener Monster-DMG −16,3 % (je Stern −4 %) |
 
-## Scarlett — Scarlet Vanguard (2★)
+## Scarlett — Scarlet Vanguard (S · Berserker · DMG · aktuell 2★)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -171,7 +204,7 @@
 
 - 2★/3★-Helden: Skill-Cap **Lv. 5** bzw. **Lv. 10**, Erwachen gesperrt — hier bringt ein Star-Up mehr als jede Medaille.
 
-## Victor — Fearless Warrior (A · 3★)
+## Victor — Fearless Warrior (A · Guardian · Verteidigung · aktuell 3★)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -179,7 +212,7 @@
 | Valiant Charge | 160 % ATK Physical, Einzelziel |
 | Final Mission (Erwachen) | HP/ATK/DEF +5 % — ab 4★ |
 
-## Jonah — Battlefield Operative (A · 3★)
+## Jonah — Battlefield Operative (A · Guardian · Verteidigung · aktuell 3★)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -187,7 +220,7 @@
 | Aggressive Assault | 105 % ATK Physical, Einzelziel |
 | Battle Instinct (Erwachen) | HP/ATK/DEF +5 % — ab 4★ |
 
-## Falken — Falcon Warrior (A · 3★)
+## Falken — Falcon Warrior (A · Ranger · DMG · aktuell 3★)
 
 | Skill | Wirkung |
 |-------|---------|
@@ -204,4 +237,5 @@
 - Sterne zuerst auf die Carries — der Sprung auf 5★ hebt Skill-Cap (Lv. 30) und 5. Sterneffekt.
 - Weitere Rollen: **Loki** bufft Team-ATK (+Crit), **Valkyra** tankt per Taunt und senkt Gegner-ATK, **Grace** snipet die Backrow (Stun), **Sagitta** finisht Ziele mit wenig HP.
 - **Monsterjagd-Setup:** Cassidy, Eileen und Strike senken den erlittenen Monster-Schaden (−21 bis −25 %), Irena und Clara erhöhen den ausgeteilten — zusammen das Team für Zombie-Rallys, Radar-Elite-Missionen und Boss-Farming.
-- **Fast jeder Held niedriger Rarität trägt einen Monster-Bonus** (mehr ausgeteilter oder weniger erlittener Schaden) — als Lückenfüller im Jagd-Team oft wertvoller als ein stärkerer Held ohne Monster-Skill.
+- **S+ und S trennen sich nach Einsatzzweck:** Kein S+-Held trägt einen Monster-Bonus, fast jeder S-Held dagegen schon (Ausnahme Noctina). S+ sind die Arena-/PvP-Kits, S die Jagd-Kits für World Boss, Frenzied Boss und Radar.
+- **Fraktionsverteilung fürs Faction Trial:** Guardian stellt mit 12 Helden die meisten, Berserker 7, Ranger 6 (Bella noch unbekannt) — genug für drei getrennte Trial-Teams, aber die Ranger-Reihe ist die dünnste (siehe Faction-Trial-Manual).
