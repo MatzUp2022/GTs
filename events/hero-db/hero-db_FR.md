@@ -40,7 +40,7 @@
 |------------|-------|
 | Furious Strafe | 265 % de l'ATQ en dégâts physiques, cible unique |
 | Undying Creed | DÉF de la ligne avant +35 %, 1 tour (étoiles : **tous les alliés**, 2 tours) |
-| troisième compétence (icône bouclier) | non documentée — à vérifier en jeu |
+| Fortification | Passif : dégâts subis −21 % (−3 % par étoile) |
 
 ## Loki — Deadly Rocker
 
@@ -75,6 +75,17 @@
 | Hunter Instinct | Passif : taux de critique +20 % (+3 % par étoile) |
 
 - À 3★ encore : compétence d'éveil verrouillée, plafond de compétence niv. 10 — la montée en étoiles est ici la priorité absolue.
+
+## Clara — Frontline Medic (S · Guardian · soutien)
+
+| Compétence | Effet |
+|------------|-------|
+| Frontline Support | 273 % de l'ATQ en physique sur 2 cibles aléatoires |
+| Vital Drain (CS) | 670 % physiques sur une cible aléatoire ; **les monstres subissent ensuite +12 % de dégâts pendant 2 tours** |
+| Battlefield Angel | Passif : +16,4 % de dégâts contre les monstres ; l'équipe gagne **+52 % de nourriture/fer/or** sur les kills de monstres (par étoile +2 % / +5 %) |
+
+- Rareté S : échelles plus plates (effets d'étoile +20 → 150 % au lieu de +30 → 270 %) et l'éveil « Doomsday Potential » ne donne que **PV/ATQ/DÉF +10 %** (sans vitesse).
+- **La spécialiste de la purge/chasse aux monstres :** à placer dans les rallys zombies, les missions élite du radar et le farm de boss — dégâts **et** butin montent en même temps.
 
 ## Notes d'utilisation
 

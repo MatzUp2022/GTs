@@ -40,7 +40,7 @@
 |-------|---------|
 | Furious Strafe | 265 % ATK als Physical DMG, Einzelziel |
 | Undying Creed | Frontreihe-DEF +35 %, 1 Runde (Sterne: **alle Verbündeten**, 2 Runden) |
-| dritter Skill (Schild-Symbol) | nicht dokumentiert — im Spiel prüfen |
+| Fortification | Passiv: erlittener DMG −21 % (je Stern −3 %) |
 
 ## Loki — Deadly Rocker
 
@@ -75,6 +75,17 @@
 | Hunter Instinct | Passiv: Crit-Rate +20 % (je Stern +3 %) |
 
 - Bei 3★ noch: Erwachen-Skill gesperrt, Skill-Cap Lv. 10 — Star-Up hat hier höchste Priorität.
+
+## Clara — Frontline Medic (S · Guardian · Support)
+
+| Skill | Wirkung |
+|-------|---------|
+| Frontline Support | 273 % ATK Physical an 2 Zufallsziele |
+| Vital Drain (CS) | 670 % Physical an ein Zufallsziel; **Monster erleiden danach +12 % DMG für 2 Runden** |
+| Battlefield Angel | Passiv: +16,4 % DMG gegen Monster; Team erhält **+52 % mehr Nahrung/Eisen/Gold** nach Monster-Kills (je Stern +2 % / +5 %) |
+
+- S-Rarität: flachere Skalen (Sterneffekte +20 → 150 % statt +30 → 270 %) und Erwachen „Doomsday Potential" nur **HP/ATK/DEF +10 %** (ohne Speed).
+- **Die Purge-/Monsterjagd-Spezialistin:** ins Team für Zombie-Rallys, Radar-Elite-Missionen und Boss-Farming — Schaden **und** Beute steigen gleichzeitig.
 
 ## Einsatz-Hinweise
 

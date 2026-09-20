@@ -40,7 +40,7 @@
 |-----------|--------|
 | Furious Strafe | 265 % del ATQ como daño físico, objetivo único |
 | Undying Creed | DEF de la primera línea +35 %, 1 turno (estrellas: **todos los aliados**, 2 turnos) |
-| tercera habilidad (icono de escudo) | no documentada — comprobar en el juego |
+| Fortification | Pasiva: daño recibido −21 % (−3 % por estrella) |
 
 ## Loki — Deadly Rocker
 
@@ -75,6 +75,17 @@
 | Hunter Instinct | Pasiva: probabilidad de crítico +20 % (+3 % por estrella) |
 
 - Con 3★ todavía: habilidad de despertar bloqueada, tope de habilidad nv. 10 — aquí subir estrellas es la máxima prioridad.
+
+## Clara — Frontline Medic (S · Guardian · apoyo)
+
+| Habilidad | Efecto |
+|-----------|--------|
+| Frontline Support | 273 % del ATQ físico a 2 objetivos aleatorios |
+| Vital Drain (CS) | 670 % físico a un objetivo aleatorio; **los monstruos reciben después +12 % de daño durante 2 turnos** |
+| Battlefield Angel | Pasiva: +16,4 % de daño contra monstruos; el equipo gana **+52 % más comida/hierro/oro** por bajas de monstruos (por estrella +2 % / +5 %) |
+
+- Rareza S: escalas más planas (efectos de estrella +20 → 150 % en vez de +30 → 270 %) y el despertar «Doomsday Potential» solo da **PV/ATQ/DEF +10 %** (sin velocidad).
+- **La especialista en purga/caza de monstruos:** para rallys de zombis, misiones élite del radar y farmeo de jefes — daño **y** botín suben a la vez.
 
 ## Notas de uso
 
