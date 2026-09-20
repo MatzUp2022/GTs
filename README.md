@@ -2,141 +2,141 @@
 
 **+++ GTs +++**
 
-Kurze, praxisorientierte Manuals für *Last Light* — **gegliedert wie die Spiel-Oberfläche**:
-Jeder Abschnitt entspricht einem Button im Spiel, jeder Ordner dem Menü dahinter.
-Alle Manuals liegen in vier Sprachen vor: **EN · DE · FR · ES** — inhaltlich identisch.
+Short, practical manuals for *Last Light* — **organised like the game's interface**:
+each section matches a button in the game, each folder the menu behind it.
+Every manual comes in four languages: **EN · DE · FR · ES** — identical in content.
 
 Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 ---
 
-## Events — Button **Events** (rechte Leiste)
+## Events — **Events** button (right-hand bar)
 
-| Manual | Worauf es ankommt | Sprachen |
-|--------|-------------------|----------|
-| **World Boss** | Mo/Do/So um 0/6/12/18 Uhr, je 3 h · solo ab Basis Lv. 8 · 5 Hits, nur der stärkste zählt · Buffs geballt auf den Max-Run | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
-| **Frenzied Boss** | 3 Portal-Bosse (0/6/12 Uhr), Flucht um 24:00 · nur die 3 stärksten Versuche zählen · Schwächen: Guardian/Ranger/Berserker | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_ES.md) |
-| **Arms Race** | 6 Phasen à 4 h, 7-Tage-Rotation · Speedups bis zur passenden Phase aufsparen · **SvS-relevant** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_ES.md) |
-| **Storm Rescue** | 5 Stages, Ausstieg = Neustart bei Stage 1 · **3 Stages reichen für alle Rewards** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_ES.md) |
+| Manual | What matters | Languages |
+|--------|--------------|-----------|
+| **World Boss** | Mon/Thu/Sun at 0:00/6:00/12:00/18:00, 3 h each · solo from base Lv. 8 · 5 hits, only the strongest counts · stack all buffs on the max run | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
+| **Frenzied Boss** | 3 portal bosses (0:00/6:00/12:00), they flee at 24:00 · only your 3 strongest attempts count · weaknesses: Guardian/Ranger/Berserker | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_ES.md) |
+| **Arms Race** | 6 phases of 4 h, 7-day rotation · save speedups for the matching phase · **SvS-relevant** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_ES.md) |
+| **Storm Rescue** | 5 stages, exiting = restart from stage 1 · **3 stages are enough for all rewards** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_ES.md) |
 
-## Region Duel — Button **Region Duel** (rechte Leiste)
+## Region Duel — **Region Duel** button (right-hand bar)
 
-| Manual | Worauf es ankommt | Sprachen |
-|--------|-------------------|----------|
-| **Region Duel (SvS)** | Mo–Fr Punkte sammeln, ab Sa Central City Clash · World Boss ist die größte Punktquelle (+250K/+150K) · Sa: 50.000 persönliche Punkte für die Win-Streak-Belohnung | [EN](https://github.com/MatzUp2022/GTs/blob/main/region-duel/region-duel_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/region-duel/region-duel_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/region-duel/region-duel_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/region-duel/region-duel_ES.md) |
+| Manual | What matters | Languages |
+|--------|--------------|-----------|
+| **Region Duel (SvS)** | Mon–Fri collect points, from Sat the Central City Clash · World Boss is the biggest point source (+250K/+150K) · Sat: 50,000 personal points for the win-streak reward | [EN](https://github.com/MatzUp2022/GTs/blob/main/region-duel/region-duel_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/region-duel/region-duel_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/region-duel/region-duel_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/region-duel/region-duel_ES.md) |
 
-### SvS-Woche auf einen Blick
+### The SvS week at a glance
 
-| Tag | Fokus | Manual |
+| Day | Focus | Manual |
 |-----|-------|--------|
-| Mo–Fr | World Boss täglich voll spielen (bis +400.000/Tag) | World Boss · Region Duel |
-| Mo–Fr | Arms-Race-Phasen treffen, Radar-Speicher & Speedups timen | Arms Race · Radar |
-| Mo–Fr | Alliance Duel gewinnen (+30.000) | Region Duel · Forschung: Alliance Duel |
-| Fr | Abrechnung: mehr Punkte = Angreifer | Region Duel |
-| Ab Sa | Central City Clash · Kills an Central City/Giant Battery (+54) | Region Duel |
+| Mon–Fri | Play World Boss in full every day (up to +400,000/day) | World Boss · Region Duel |
+| Mon–Fri | Hit the Arms Race phases, time radar storage & speedups | Arms Race · Radar |
+| Mon–Fri | Win the Alliance Duel (+30,000) | Region Duel · Research: Alliance Duel |
+| Fri | Settlement: more points = invader | Region Duel |
+| From Sat | Central City Clash · kills at Central City/Giant Battery (+54) | Region Duel |
 
-## Trial — Button **Trial** (untere Leiste)
+## Trial — **Trial** button (bottom bar)
 
-| Manual | Worauf es ankommt | Sprachen |
-|--------|-------------------|----------|
-| **Peak Arena** | Di–Fr, Offseason Sa–Mo · Sieg gegen höher Platzierte = Platztausch · Challenges begrenzt | [EN](https://github.com/MatzUp2022/GTs/blob/main/trial/peak-arena/peak-arena_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/trial/peak-arena/peak-arena_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/trial/peak-arena/peak-arena_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/trial/peak-arena/peak-arena_ES.md) |
-| **3V3 Arena** | 14 Tage, Top 200 nach Helden-CP · Best-of-Three, Defense separat gespeichert · täglich 5 Siege | [EN](https://github.com/MatzUp2022/GTs/blob/main/trial/3v3-arena/3v3-arena_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/trial/3v3-arena/3v3-arena_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/trial/3v3-arena/3v3-arena_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/trial/3v3-arena/3v3-arena_ES.md) |
-| **Faction Trial** | Guardian/Ranger/Berserker mit je +50 % DMG · Reset Di/Do/So · **jeder Held nur in einem Trial** | [EN](https://github.com/MatzUp2022/GTs/blob/main/trial/faction-trial/faction-trial_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/trial/faction-trial/faction-trial_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/trial/faction-trial/faction-trial_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/trial/faction-trial/faction-trial_ES.md) |
+| Manual | What matters | Languages |
+|--------|--------------|-----------|
+| **Peak Arena** | Tue–Fri, offseason Sat–Mon · beating a higher-ranked player swaps your ranks · limited challenges | [EN](https://github.com/MatzUp2022/GTs/blob/main/trial/peak-arena/peak-arena_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/trial/peak-arena/peak-arena_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/trial/peak-arena/peak-arena_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/trial/peak-arena/peak-arena_ES.md) |
+| **3V3 Arena** | 14 days, top 200 by hero CP · best-of-three, defense saved separately · 5 wins daily | [EN](https://github.com/MatzUp2022/GTs/blob/main/trial/3v3-arena/3v3-arena_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/trial/3v3-arena/3v3-arena_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/trial/3v3-arena/3v3-arena_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/trial/3v3-arena/3v3-arena_ES.md) |
+| **Faction Trial** | Guardian/Ranger/Berserker with +50 % DMG each · resets Tue/Thu/Sun · **each hero in one trial only** | [EN](https://github.com/MatzUp2022/GTs/blob/main/trial/faction-trial/faction-trial_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/trial/faction-trial/faction-trial_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/trial/faction-trial/faction-trial_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/trial/faction-trial/faction-trial_ES.md) |
 
-## Hero — Button **Hero** (untere Leiste)
+## Hero — **Hero** button (bottom bar)
 
-| Manual | Worauf es ankommt | Sprachen |
-|--------|-------------------|----------|
-| **Helden-System** | Level-Cap hängt am Basis-Level · Sterne geben Stats + Skill-Effekte · Equipment: Enhance (je 10 Level) + Promote | [EN](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-system/hero-system_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-system/hero-system_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-system/hero-system_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-system/hero-system_ES.md) |
-| **Helden-Datenbank** | 10 Skill-Kits im Detail · Skill-Cap 3★=10/4★=20/5★=30 · Erwachen ab 4★ | [EN](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_ES.md) |
+| Manual | What matters | Languages |
+|--------|--------------|-----------|
+| **Hero system** | Level cap depends on your base level · stars give stats + skill effects · equipment: Enhance (every 10 levels) + Promote | [EN](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-system/hero-system_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-system/hero-system_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-system/hero-system_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-system/hero-system_ES.md) |
+| **Hero database** | 10 skill kits in detail · skill cap 3★=10/4★=20/5★=30 · awakening from 4★ | [EN](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/hero/hero-db/hero-db_ES.md) |
 
-## Alliance — Button **Alliance** (untere Leiste)
+## Alliance — **Alliance** button (bottom bar)
 
-| Manual | Worauf es ankommt | Sprachen |
-|--------|-------------------|----------|
-| **Alliance Boss** | Mind. 20 Mitglieder, 30 Min. Kampf · nur per Rally · MVP multipliziert die Belohnungen ×1–10 | [EN](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-boss/alliance-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-boss/alliance-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-boss/alliance-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-boss/alliance-boss_ES.md) |
-| **Top Alliance** | Rating Temporary → Top · 3 Sterne = Aufstieg · **Daily Rewards abholen, sonst Reset** | [EN](https://github.com/MatzUp2022/GTs/blob/main/alliance/top-alliance/top-alliance_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/alliance/top-alliance/top-alliance_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/alliance/top-alliance/top-alliance_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/alliance/top-alliance/top-alliance_ES.md) |
+| Manual | What matters | Languages |
+|--------|--------------|-----------|
+| **Alliance Boss** | Min. 20 members, 30 min battle · rally attacks only · the MVP multiplies the rewards ×1–10 | [EN](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-boss/alliance-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-boss/alliance-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-boss/alliance-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-boss/alliance-boss_ES.md) |
+| **Top Alliance** | Rating Temporary → Top · 3 stars = promotion · **claim the daily rewards or they reset** | [EN](https://github.com/MatzUp2022/GTs/blob/main/alliance/top-alliance/top-alliance_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/alliance/top-alliance/top-alliance_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/alliance/top-alliance/top-alliance_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/alliance/top-alliance/top-alliance_ES.md) |
 
-## Leave None — Button **Leave None** (untere Leiste)
+## Leave None — **Leave None** button (bottom bar)
 
-| Manual | Worauf es ankommt | Sprachen |
-|--------|-------------------|----------|
-| **Minigames** | Leave None · Soldier Assault · Cannon War — Tore multiplizieren (×2/×3/×4), Minus-Tore meiden | [EN](https://github.com/MatzUp2022/GTs/blob/main/minigames/minigames_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/minigames/minigames_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/minigames/minigames_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/minigames/minigames_ES.md) |
-
----
-
-## Basis & Gebäude
-
-| Manual | Worauf es ankommt | Sprachen |
-|--------|-------------------|----------|
-| **Radar** (Antennen-Symbol links) | Refresh alle 6 h, Speicher bis 35 · **vor dem Event volllaufen lassen**, dann geballt per Auto-Complete | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/radar/radar_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/radar/radar_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/radar/radar_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/radar/radar_ES.md) |
-| **Outpost Tavern & Desert Treasure** | 2 Missionen je Team · Blau < Lila < Orange · Allianz-Hilfe schützt vor Plünderung · Legendary spätestens bei Ausgrabung 16 | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/tavern/tavern_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/tavern/tavern_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/tavern/tavern_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/tavern/tavern_ES.md) |
-| **Vehicle (Armored Warmachine)** | Unangreifbar, Werte gehen auf die Helden über · **EXP-Crit unter 80 % Leiste** · Turret & Radar-Modul priorisieren | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/vehicle/vehicle_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/vehicle/vehicle_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/vehicle/vehicle_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/vehicle/vehicle_ES.md) |
-
-### Research Lab — Forschungsbäume
-
-Beide Slots immer belegt halten. **Abschlüsse zählen in der Arms-Race-Phase „Research Tech" mit +1 Punkt je Tech-CP** — große Forschungen gezielt dort beenden.
-
-| Baum | Worauf es ankommt | Sprachen |
-|------|-------------------|----------|
-| **Development** | Research Speed Up zuerst maxen, dann High-speed Construction · Freischaltungen Team 3 / Specializations | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/development/development_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/development/development_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/development/development_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/development/development_ES.md) |
-| **Economy** | Produktion vor Sammeln · Meilensteine zeitnah (sie öffnen die nächste Stufe) | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/economy/economy_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/economy/economy_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/economy/economy_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/economy/economy_ES.md) |
-| **Hero** | Fraktionsblöcke nacheinander · **CP-Bomben** bis 146K je Abschluss · 9–12 Tage/Level | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/hero/hero_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/hero/hero_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/hero/hero_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/hero/hero_ES.md) |
-| **Soldier** | ATK/DEF → HP → Tragelast · späte Stufen bis 181K CP | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/soldier/soldier_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/soldier/soldier_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/soldier/soldier_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/soldier/soldier_ES.md) |
-| **Super Soldier** | Flache Werte je Soldat · „Soldier 10" schaltet Tier-10-Training frei · größte CP-Pakete (253K) | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/super-soldier/super-soldier_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/super-soldier/super-soldier_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/super-soldier/super-soldier_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/super-soldier/super-soldier_ES.md) |
-| **Team** | Team 1 zuerst (Combat Rec.) · Team 2 ≥ 25 % schaltet Team 3 frei | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/team/team_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/team/team_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/team/team_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/team/team_ES.md) |
-| **Alliance Duel** | Incentives +5 → +50 % Punkte · **Research Incentive zuerst** · Duel-Sieg = +30.000 SvS-Punkte | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/alliance-duel/alliance-duel_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/alliance-duel/alliance-duel_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/alliance-duel/alliance-duel_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/alliance-duel/alliance-duel_ES.md) |
-| **Trade Truck** | Ressourcen-Boost & Tempo zuerst, dann Eskorte · gegnerische Trucks plündern = +100 SvS-Punkte | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/trade-truck/trade-truck_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/trade-truck/trade-truck_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/trade-truck/trade-truck_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/trade-truck/trade-truck_ES.md) |
+| Manual | What matters | Languages |
+|--------|--------------|-----------|
+| **Minigames** | Leave None · Soldier Assault · Cannon War — gates multiply (×2/×3/×4), avoid the minus gates | [EN](https://github.com/MatzUp2022/GTs/blob/main/minigames/minigames_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/minigames/minigames_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/minigames/minigames_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/minigames/minigames_ES.md) |
 
 ---
 
-## Account — Profil · Shop · Hilfe
+## Base & buildings
 
-| Manual | Worauf es ankommt | Sprachen |
-|--------|-------------------|----------|
-| **VIP-System** | Login-Streak = VIP-EXP · Daily Chest + Free Pack täglich abholen · Meilensteine VIP 4/8/10/12 | [EN](https://github.com/MatzUp2022/GTs/blob/main/account/vip/vip_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/account/vip/vip_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/account/vip/vip_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/account/vip/vip_ES.md) |
-| **Shops / Diamond Store** | Ressourcen je 50 Diamanten · **Alliance Relocation (500) statt Premium (1.500)** für den SvS-Umzug | [EN](https://github.com/MatzUp2022/GTs/blob/main/account/stores/stores_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/account/stores/stores_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/account/stores/stores_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/account/stores/stores_ES.md) |
-| **Help & FAQ** | Datenverlust → richtigen Server prüfen · **kein Allianzwechsel während Events** · Feedback-Button | [EN](https://github.com/MatzUp2022/GTs/blob/main/account/help-faq/help-faq_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/account/help-faq/help-faq_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/account/help-faq/help-faq_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/account/help-faq/help-faq_ES.md) |
+| Manual | What matters | Languages |
+|--------|--------------|-----------|
+| **Radar** (antenna icon, left) | Refresh every 6 h, storage up to 35 · **let it fill before the event**, then clear it in bulk with auto-complete | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/radar/radar_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/radar/radar_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/radar/radar_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/radar/radar_ES.md) |
+| **Outpost Tavern & Desert Treasure** | 2 missions per team · Blue < Purple < Orange · alliance help prevents plundering · Legendary guaranteed by excavation 16 | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/tavern/tavern_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/tavern/tavern_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/tavern/tavern_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/tavern/tavern_ES.md) |
+| **Vehicle (Armored Warmachine)** | Cannot be attacked, its stats carry over to your heroes · **EXP crit below 80 % of the bar** · prioritise the Turret & Radar modules | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/vehicle/vehicle_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/vehicle/vehicle_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/vehicle/vehicle_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/vehicle/vehicle_ES.md) |
+
+### Research Lab — tech trees
+
+Keep both slots busy at all times. **Completions score +1 point per tech CP in the Arms Race "Research Tech" phase** — finish big researches there on purpose.
+
+| Tree | What matters | Languages |
+|------|--------------|-----------|
+| **Development** | Max Research Speed Up first, then High-speed Construction · unlocks Team 3 / the specializations | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/development/development_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/development/development_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/development/development_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/development/development_ES.md) |
+| **Economy** | Production before gathering · research the milestones promptly (they open the next tier) | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/economy/economy_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/economy/economy_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/economy/economy_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/economy/economy_ES.md) |
+| **Hero** | Faction blocks in sequence · **CP bombs** up to 146K per completion · 9–12 days per level | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/hero/hero_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/hero/hero_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/hero/hero_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/hero/hero_ES.md) |
+| **Soldier** | ATK/DEF → HP → load · later tiers up to 181K CP | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/soldier/soldier_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/soldier/soldier_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/soldier/soldier_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/soldier/soldier_ES.md) |
+| **Super Soldier** | Flat values per soldier · "Soldier 10" unlocks Tier 10 training · biggest CP packets (253K) | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/super-soldier/super-soldier_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/super-soldier/super-soldier_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/super-soldier/super-soldier_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/super-soldier/super-soldier_ES.md) |
+| **Team** | Team 1 first (Combat Rec.) · Team 2 at ≥ 25 % unlocks Team 3 | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/team/team_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/team/team_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/team/team_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/team/team_ES.md) |
+| **Alliance Duel** | Incentives +5 → +50 % points · **Research Incentive first** · a duel win = +30,000 SvS points | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/alliance-duel/alliance-duel_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/alliance-duel/alliance-duel_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/alliance-duel/alliance-duel_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/alliance-duel/alliance-duel_ES.md) |
+| **Trade Truck** | Resource boost & speed first, then the escorts · plundering enemy trucks = +100 SvS points | [EN](https://github.com/MatzUp2022/GTs/blob/main/base/research/trade-truck/trade-truck_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/base/research/trade-truck/trade-truck_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/base/research/trade-truck/trade-truck_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/base/research/trade-truck/trade-truck_ES.md) |
 
 ---
 
-## Repo-Struktur
+## Account — profile · store · help
 
-Die Ordner spiegeln die Spiel-Navigation:
+| Manual | What matters | Languages |
+|--------|--------------|-----------|
+| **VIP system** | Login streak = VIP EXP · claim the daily chest + free pack every day · milestones VIP 4/8/10/12 | [EN](https://github.com/MatzUp2022/GTs/blob/main/account/vip/vip_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/account/vip/vip_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/account/vip/vip_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/account/vip/vip_ES.md) |
+| **Stores / Diamond Store** | Resources at 50 diamonds each · **Alliance Relocation (500) instead of Premium (1,500)** for the SvS move | [EN](https://github.com/MatzUp2022/GTs/blob/main/account/stores/stores_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/account/stores/stores_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/account/stores/stores_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/account/stores/stores_ES.md) |
+| **Help & FAQ** | Missing game data → check you are on the right server · **never switch alliance during an event** · Feedback button | [EN](https://github.com/MatzUp2022/GTs/blob/main/account/help-faq/help-faq_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/account/help-faq/help-faq_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/account/help-faq/help-faq_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/account/help-faq/help-faq_ES.md) |
+
+---
+
+## Repo structure
+
+The folders mirror the game's navigation:
 
 ```
 GTs/
 ├── README.md
 ├── CLAUDE.md
-├── events/          # Button „Events"
+├── events/          # "Events" button
 │   ├── world-boss/  ├── frenzied-boss/
 │   ├── arms-race/   └── storm-rescue/
-├── region-duel/     # Button „Region Duel" (SvS)
-├── trial/           # Button „Trial"
+├── region-duel/     # "Region Duel" button (SvS)
+├── trial/           # "Trial" button
 │   ├── peak-arena/  ├── 3v3-arena/  └── faction-trial/
-├── hero/            # Button „Hero"
+├── hero/            # "Hero" button
 │   ├── hero-system/ └── hero-db/
-├── alliance/        # Button „Alliance"
+├── alliance/        # "Alliance" button
 │   ├── alliance-boss/ └── top-alliance/
-├── minigames/       # Button „Leave None"
-├── base/            # Basis & Gebäude
+├── minigames/       # "Leave None" button
+├── base/            # base & buildings
 │   ├── radar/  ├── tavern/  ├── vehicle/
 │   └── research/    # Research Lab
 │       ├── development/ ├── economy/ ├── hero/ ├── soldier/
 │       ├── super-soldier/ ├── team/ ├── alliance-duel/ └── trade-truck/
-└── account/         # Profil · Shop · Hilfe
+└── account/         # profile · store · help
     ├── vip/  ├── stores/  └── help-faq/
 ```
 
-**Namenskonvention:** `<slug>_<SPRACHCODE>.md` — ein Ordner pro Manual, einsortiert nach dem Spiel-Menü, in dem das Thema zu finden ist.
+**Naming convention:** `<slug>_<LANGUAGE CODE>.md` — one folder per manual, filed under the game menu where you find the topic.
 
 ---
 
-## Nutzung
+## Usage
 
-Die Manuals sind zum direkten Kopieren in Alliance-Chat oder Discord gedacht.
-Für eine reine Textansicht ohne GitHub-Formatierung: in der Dateiansicht auf **Raw** klicken.
+The manuals are meant to be copied straight into alliance chat or Discord.
+For plain text without GitHub formatting, click **Raw** in the file view.
 
-## Beiträge
+## Contributing
 
-Korrekturen und neue Manuals per Pull Request. Bei Änderungen an einem Manual bitte **alle vier Sprachfassungen** mitziehen, damit die Versionen nicht auseinanderlaufen.
+Corrections and new manuals via pull request. When changing a manual, please update **all four language versions** so they don't drift apart.
