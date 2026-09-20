@@ -5,6 +5,7 @@
 - **Best golden equipment only** on the selected heroes. Set gear before the first hit, not between runs.
 - **Check the daily buff:** which faction deals **+50 % DMG** today (e.g. Guardian) → prioritise it.
 - This is an **event-only squad**, not your standard rally lineup.
+- **Field five heroes of the same faction:** the mono-faction line-up bonus adds +20 % HP/ATK/DEF on top — together with the daily buff the strongest combination.
 - **Schedule:** Mon, Thu & Sun — spawns at 0:00, 6:00, 12:00 and 18:00 server time, active for **3 hours** each.
 - **Requirement:** Base Level 8+. Attacks are **solo — no rallies**.
 

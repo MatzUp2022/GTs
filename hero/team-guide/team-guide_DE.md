@@ -2,14 +2,37 @@
 
 *Ausgewertet aus den Skill-Daten der Helden-Datenbank. Als **[Annahme]** markierte Punkte folgen aus den Skill-Texten, sind aber nicht im Spiel bestätigt.*
 
-## 1. Die vier Muster
+## 1. Zwei Regeln, die jede Aufstellung bestimmen
+
+**Fraktions-Konter** (Info-Button in der Aufstellung): Jede Fraktion ist gegen genau einen Angreifer gepanzert.
+
+| Verteidiger | nimmt 20 % weniger Schaden von |
+|-------------|-------------------------------|
+| **Guardian** | Berserker |
+| **Berserker** | Ranger |
+| **Ranger** | Guardian |
+
+→ Umgekehrt gelesen: **nicht** mit Berserker auf Guardian, **nicht** mit Guardian auf Ranger, **nicht** mit Ranger auf Berserker. Im PvP (Arenen, Region Duel) vor dem Angriff die gegnerischen Symbole prüfen.
+
+**Aufstellungs-Bonus** (nach Fraktion, gilt für alle fünf Helden):
+
+| Aufstellung | HP / ATK / DEF |
+|-------------|----------------|
+| 3 gleiche | +5 % |
+| 3 gleiche + 2 einer anderen | +10 % |
+| 4 gleiche | +15 % |
+| **5 gleiche (Mono-Fraktion)** | **+20 %** |
+
+→ **Mono-Fraktion ist die stärkste Aufstellung.** Ein leicht stärkerer Held aus einer anderen Fraktion muss diese 10–20 % erst aufwiegen. Und: Faction Trial und Frenzied Boss sortieren ohnehin nach Fraktionen — dort gibt es die +20 % gratis dazu.
+
+## 2. Die vier Muster
 
 1. **Multi-Hit-Skills sind gegen Bosse die stärksten Nukes.** „X Angriffe auf zufällige Gegner" treffen bei nur einem Gegner alle dasselbe Ziel. Ellas *Phantom Volley*: 8 × 117 % = **936 %**, auf 5★ mit 16 Treffern ~1.870 %. Zum Vergleich der höchste Einzelwert im Roster: Irenas *Bounty Kill* mit 476 %. **[Annahme]**
 2. **Monster-Boni sind eine eigene Achse, unabhängig von der Rarität.** Kein S+-Held hat einen, 9 von 12 S-Helden schon. In PvE-Events schlägt ein S-Held mit +20 % Monster-Schaden oft einen S+-Held ohne.
 3. **Nur Loki verstärkt das ganze Team offensiv** (*Frenzied Beat*: alle Verbündeten ATK +11,5 %, per Sternen Crit +10 % und 2 Runden). Alles andere sind Selbst-Buffs.
 4. **Clara ist der einzige Monster-Debuffer:** *Vital Drain* gibt dem Monster **+12 % erlittenen Schaden für 2 Runden** — wirkt fürs ganze Team.
 
-## 2. Wer glänzt wo
+## 3. Wer glänzt wo
 
 | Event | Kernbesetzung | Warum |
 |-------|---------------|-------|
@@ -21,15 +44,16 @@
 | **Faction Trial** | drei getrennte Fraktionsteams | **Jeder Held nur in einem Trial** — Ranger und Berserker (je 7) sind die Engpässe |
 | **Radar-Elite / Jagd** | Clara · Cassidy · Eileen · Gracie · Noelle | Monster-Schaden rauf, erlittener Monster-Schaden runter |
 
-## 3. Kombinationen
+## 4. Kombinationen
 
+- **Fahrzeug als zweiter Verstärker:** *Global Strike* trifft 2 Ziele und erhöht deren **gesamten erlittenen Schaden um 15 → 25 %** für 1 Runde (Sterne, ab ★4 Fahrzeug-Lv. 90). Das wirkt auf alles, nicht nur auf Monster — der stärkste Team-Verstärker überhaupt. Zünden, bevor Ella ihren Volley setzt.
 - **Boss-Kern:** Clara + Ella — der Debuff läuft 2 Runden, genau das Fenster für Phantom Volley. Loki dazu für +11,5 % ATK auf beide.
 - **Arena-Front:** Viper (−26 % physisch) + Marcus (+35 % DEF) — beide erweitern per Sternen auf **alle** Verbündeten, sie stapeln also statt sich zu überschneiden.
 - **Taunt-Schutz:** Valkyra bindet 2–4 Gegner **und** senkt deren ATK um 11,5 % — die Backrow (Ella, Grace, Sonic) überlebt länger.
 - **Anti-Magie:** Admira (−12 % gegnerischer Magic-DMG, −28 % selbst erlittener Energy-DMG) gegen Energy-Carries.
 - **Backrow-Guardian-Trick:** Irenas *Absolute Order* gibt **Guardian-Helden in der hinteren Reihe +13 % Monster-Schaden** — Ella und Clara also nach hinten stellen, wenn Irena mitläuft.
 
-## 4. Entwicklungs-Priorität
+## 5. Entwicklungs-Priorität
 
 **Zuerst das Basis-Level.** Steht bei einem Helden „Base Level needs to be increased!", verpufft jede weitere Helden-EXP. Der Flaschenhals ist dann die Basis, nicht der Held.
 
@@ -44,9 +68,10 @@
 
 **Ausrüstung:** Waffe + Helm tragen den Monster-Schaden, Rüstung + Handschuhe die Reduktion (siehe Forge-Manual). Bei den Boss-Jägern zuerst **Waffe und Helm** auf Lv. 10/20/30 — das sind +17 % Schaden gegen Monster.
 
-## 5. Checkliste
+## 6. Checkliste
 
 - [ ] Basis-Level hoch genug für die Haupt-Carries
+- [ ] Teams möglichst mono-fraktional aufgestellt (+20 %)
 - [ ] Ella, Clara, Loki zuerst entwickelt
 - [ ] Alle drei Fraktionen mit einem starken Kern besetzt
 - [ ] Keine Helden unter 3★ liegen gelassen (Skill-Cap!)

@@ -6,6 +6,7 @@
 - El progreso se reinicia **cada semana mar / jue / dom**.
 - La dificultad es seleccionable, pero: **solo un nivel por ciclo, y luego no se puede cambiar.**
 - **Cada héroe solo puede participar en una prueba** — hay que repartir la plantilla entre las tres pruebas.
+- **Bono gratis:** como cada equipo de prueba es monofacción de todos modos, el bono de formación de **+20 % PV/ATQ/DEF** se aplica automáticamente.
 
 ## 2. Secuencia recomendada
 

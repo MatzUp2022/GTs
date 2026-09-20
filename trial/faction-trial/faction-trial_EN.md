@@ -6,6 +6,7 @@
 - Progress resets **every week on Tue / Thu / Sun**.
 - Difficulty is selectable, but: **only one level per cycle, and it cannot be changed afterwards.**
 - **Each hero can only participate in one trial** — the roster has to be split across the three trials.
+- **Free bonus:** since every trial team is mono-faction anyway, the line-up bonus of **+20 % HP/ATK/DEF** applies automatically.
 
 ## 2. Recommended Sequence
 

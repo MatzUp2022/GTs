@@ -2,14 +2,37 @@
 
 *Derived from the skill data in the hero database. Points marked **[assumption]** follow from the skill texts but are not confirmed in game.*
 
-## 1. The Four Patterns
+## 1. Two Rules That Govern Every Line-up
+
+**Faction counter** (info button in the line-up screen): each faction is armoured against exactly one attacker.
+
+| Defender | takes 20 % less damage from |
+|----------|-----------------------------|
+| **Guardian** | Berserker |
+| **Berserker** | Ranger |
+| **Ranger** | Guardian |
+
+→ Read the other way: **don't** send Berserker into Guardian, **don't** send Guardian into Ranger, **don't** send Ranger into Berserker. In PvP (arenas, Region Duel) check the enemy icons before attacking.
+
+**Line-up bonus** (by faction, applies to all five heroes):
+
+| Line-up | HP / ATK / DEF |
+|---------|----------------|
+| 3 of a kind | +5 % |
+| 3 of a kind + 2 of another | +10 % |
+| 4 of a kind | +15 % |
+| **5 of a kind (mono-faction)** | **+20 %** |
+
+→ **Mono-faction is the strongest line-up.** A slightly stronger hero from another faction has to outweigh those 10–20 % first. And Faction Trial and Frenzied Boss sort by faction anyway — there the +20 % comes for free.
+
+## 2. The Four Patterns
 
 1. **Multi-hit skills are the strongest nukes against bosses.** "X attacks on random enemies" all land on the same target when there is only one. Ella's *Phantom Volley*: 8 × 117 % = **936 %**, and ~1,870 % at 5★ with 16 hits. For comparison, the highest single value in the roster is Irena's *Bounty Kill* at 476 %. **[assumption]**
 2. **Monster bonuses are a separate axis from rarity.** No S+ hero has one, 9 of 12 S heroes do. In PvE events an S hero with +20 % monster damage often beats an S+ hero without.
 3. **Only Loki buffs the whole team offensively** (*Frenzied Beat*: all allies ATK +11.5 %, plus crit +10 % and 2 turns via stars). Everything else is a self-buff.
 4. **Clara is the only monster debuffer:** *Vital Drain* makes the monster **take +12 % damage for 2 turns** — that works for the whole team.
 
-## 2. Who Shines Where
+## 3. Who Shines Where
 
 | Event | Core line-up | Why |
 |-------|--------------|-----|
@@ -21,15 +44,16 @@
 | **Faction Trial** | three separate faction teams | **Each hero in one trial only** — Ranger and Berserker (7 each) are the bottlenecks |
 | **Radar elite / hunting** | Clara · Cassidy · Eileen · Gracie · Noelle | Monster damage up, monster damage taken down |
 
-## 3. Combinations
+## 4. Combinations
 
+- **The vehicle as a second amplifier:** *Global Strike* hits 2 targets and raises their **total damage taken by 15 → 25 %** for 1 turn (via stars, ★4 needs vehicle Lv. 90). It works on everything, not just monsters — the strongest team amp in the game. Fire it before Ella's volley.
 - **Boss core:** Clara + Ella — the debuff runs 2 turns, exactly the window for Phantom Volley. Add Loki for +11.5 % ATK on both.
 - **Arena front:** Viper (−26 % physical) + Marcus (+35 % DEF) — both extend to **all** allies via stars, so they stack instead of overlapping.
 - **Taunt cover:** Valkyra pulls 2–4 enemies **and** cuts their ATK by 11.5 % — the back row (Ella, Grace, Sonic) survives longer.
 - **Anti-magic:** Admira (−12 % enemy magic DMG, −28 % energy DMG taken) against energy carries.
 - **Back-row Guardian trick:** Irena's *Absolute Order* grants **back-row Guardian heroes +13 % monster damage** — so place Ella and Clara in the back when Irena is in the team.
 
-## 4. Development Priority
+## 5. Development Priority
 
 **Base level first.** If a hero shows "Base Level needs to be increased!", every further hero EXP is wasted. The bottleneck is the base, not the hero.
 
@@ -44,9 +68,10 @@
 
 **Equipment:** weapon + helmet carry the monster damage, armor + gloves the reduction (see the forge manual). On your boss hunters take **weapon and helmet** to Lv. 10/20/30 first — that is +17 % damage to monsters.
 
-## 5. Checklist
+## 6. Checklist
 
 - [ ] Base level high enough for the main carries
+- [ ] Teams built mono-faction wherever possible (+20 %)
 - [ ] Ella, Clara, Loki developed first
 - [ ] All three factions covered with a strong core
 - [ ] No hero left below 3★ (skill cap!)

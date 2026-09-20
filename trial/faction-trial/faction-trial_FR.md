@@ -6,6 +6,7 @@
 - La progression se réinitialise **chaque semaine mar / jeu / dim**.
 - La difficulté est sélectionnable, mais : **un seul niveau par cycle, non modifiable ensuite.**
 - **Chaque héros ne peut participer qu'à une seule épreuve** — le roster doit être réparti sur les trois épreuves.
+- **Bonus gratuit :** comme chaque équipe d'épreuve est de toute façon mono-faction, le bonus de composition de **+20 % PV/ATQ/DÉF** s'applique automatiquement.
 
 ## 2. Déroulé recommandé
 
