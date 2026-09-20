@@ -19,16 +19,19 @@
 
 → Materials flow **both ways**: short on purple, merge up from blue; short on blue, break purple down.
 
-## 3. Example Values (Falcon Assault Rifle, purple)
+## 3. Example: the Falcon set (purple), each Lv. 0/30
 
-| Stat | |
-|------|---|
-| CP | 5,238 |
-| Hero ATK | +192 |
-| Hero DEF | +25 |
-| DMG dealt to monsters | +2.5 % |
-| Lv. 10 / 20 / 30 | +2 % monster DMG each |
-| Cost | 150 purple crystals · 99,000 gold |
+| Piece | CP | Basic attributes | Extra at Lv. 10 / 20 / 30 |
+|-------|----|------------------|---------------------------|
+| Falcon Assault Rifle (weapon) | 5,238 | Hero ATK +192 · DEF +25 · **DMG to monsters +2.5 %** | +2 % DMG to monsters each |
+| Falcon Helmet (helmet) | 4,910 | Hero ATK +128 · HP +1,347 · **DMG to monsters +2.5 %** | +2 % DMG to monsters each |
+| Falcon Armor (armor) | 7,089 | Hero HP +3,369 · DEF +12 · **monster DMG −2.5 %** | −2 % monster DMG taken each |
+| Falcon Gloves (gloves) | 6,196 | Hero HP +2,021 · DEF +25 · **monster DMG −2.5 %** | −2 % monster DMG taken each |
+
+- **Max level 30**; the three extra attributes unlock at Lv. 10, 20 and 30.
+- Pattern: **weapon + helmet = offense** (ATK, monster damage), **armor + gloves = defense** (HP, damage reduction).
+- Fully enhanced to Lv. 30 the set gives **+17 % DMG to monsters** and **−17 % monster DMG taken**.
+- Example craft cost (weapon): 150 purple crystals · 99,000 gold.
 
 ## 4. Recommended Sequence
 

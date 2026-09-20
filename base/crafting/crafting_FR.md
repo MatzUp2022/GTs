@@ -19,16 +19,19 @@
 
 → Les matériaux circulent **dans les deux sens** : il manque du violet, on fusionne du bleu ; il manque du bleu, on casse du violet.
 
-## 3. Valeurs d'exemple (Falcon Assault Rifle, violet)
+## 3. Exemple : le set Falcon (violet), chacun niv. 0/30
 
-| Statistique | |
-|-------------|---|
-| CP | 5 238 |
-| ATQ des héros | +192 |
-| DÉF des héros | +25 |
-| Dégâts contre les monstres | +2,5 % |
-| Niv. 10 / 20 / 30 | +2 % de dégâts contre les monstres chacun |
-| Coût | 150 cristaux violets · 99 000 or |
+| Pièce | CP | Attributs de base | Bonus aux niv. 10 / 20 / 30 |
+|-------|----|-------------------|------------------------------|
+| Falcon Assault Rifle (arme) | 5 238 | ATQ des héros +192 · DÉF +25 · **dégâts aux monstres +2,5 %** | +2 % de dégâts aux monstres chacun |
+| Falcon Helmet (casque) | 4 910 | ATQ +128 · PV +1 347 · **dégâts aux monstres +2,5 %** | +2 % de dégâts aux monstres chacun |
+| Falcon Armor (armure) | 7 089 | PV +3 369 · DÉF +12 · **dégâts des monstres −2,5 %** | −2 % de dégâts subis chacun |
+| Falcon Gloves (gants) | 6 196 | PV +2 021 · DÉF +25 · **dégâts des monstres −2,5 %** | −2 % de dégâts subis chacun |
+
+- **Niveau max 30** ; les trois attributs bonus se débloquent aux niv. 10, 20 et 30.
+- Schéma : **arme + casque = attaque** (ATQ, dégâts aux monstres), **armure + gants = défense** (PV, réduction des dégâts).
+- Entièrement monté au niv. 30, le set donne **+17 % de dégâts aux monstres** et **−17 % de dégâts subis des monstres**.
+- Coût de fabrication de l'exemple (arme) : 150 cristaux violets · 99 000 or.
 
 ## 4. Déroulé recommandé
 

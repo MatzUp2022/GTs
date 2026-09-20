@@ -19,16 +19,19 @@
 
 → Los materiales fluyen **en ambos sentidos**: si falta morado, se fusiona azul; si falta azul, se rompe morado.
 
-## 3. Valores de ejemplo (Falcon Assault Rifle, morado)
+## 3. Ejemplo: el set Falcon (morado), cada pieza nv. 0/30
 
-| Estadística | |
-|-------------|---|
-| CP | 5.238 |
-| ATQ de héroes | +192 |
-| DEF de héroes | +25 |
-| Daño contra monstruos | +2,5 % |
-| Nv. 10 / 20 / 30 | +2 % de daño contra monstruos cada uno |
-| Coste | 150 cristales morados · 99.000 oro |
+| Pieza | CP | Atributos básicos | Extra a nv. 10 / 20 / 30 |
+|-------|----|-------------------|--------------------------|
+| Falcon Assault Rifle (arma) | 5.238 | ATQ de héroes +192 · DEF +25 · **daño a monstruos +2,5 %** | +2 % de daño a monstruos cada uno |
+| Falcon Helmet (casco) | 4.910 | ATQ +128 · PV +1.347 · **daño a monstruos +2,5 %** | +2 % de daño a monstruos cada uno |
+| Falcon Armor (armadura) | 7.089 | PV +3.369 · DEF +12 · **daño de monstruos −2,5 %** | −2 % de daño recibido cada uno |
+| Falcon Gloves (guantes) | 6.196 | PV +2.021 · DEF +25 · **daño de monstruos −2,5 %** | −2 % de daño recibido cada uno |
+
+- **Nivel máximo 30**; los tres atributos extra se desbloquean a nv. 10, 20 y 30.
+- Patrón: **arma + casco = ataque** (ATQ, daño a monstruos), **armadura + guantes = defensa** (PV, reducción de daño).
+- Con todo al nv. 30 el set da **+17 % de daño a monstruos** y **−17 % de daño recibido de monstruos**.
+- Coste de fabricación del ejemplo (arma): 150 cristales morados · 99.000 oro.
 
 ## 4. Secuencia recomendada
 

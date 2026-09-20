@@ -19,16 +19,19 @@
 
 → Materialien laufen in **beide Richtungen**: fehlt Lila, aus Blau hochmergen; fehlt Blau, Lila herunterbrechen.
 
-## 3. Beispielwerte (Falcon Assault Rifle, lila)
+## 3. Beispiel: Falcon-Set (lila), je Lv. 0/30
 
-| Wert | |
-|------|---|
-| CP | 5.238 |
-| Hero ATK | +192 |
-| Hero DEF | +25 |
-| DMG gegen Monster | +2,5 % |
-| Lv. 10 / 20 / 30 | je zusätzlich +2 % DMG gegen Monster |
-| Kosten | 150 lila Kristalle · 99.000 Gold |
+| Teil | CP | Basis-Attribute | Extra bei Lv. 10 / 20 / 30 |
+|------|----|-----------------|----------------------------|
+| Falcon Assault Rifle (Waffe) | 5.238 | Hero ATK +192 · DEF +25 · **DMG gegen Monster +2,5 %** | je +2 % DMG gegen Monster |
+| Falcon Helmet (Helm) | 4.910 | Hero ATK +128 · HP +1.347 · **DMG gegen Monster +2,5 %** | je +2 % DMG gegen Monster |
+| Falcon Armor (Rüstung) | 7.089 | Hero HP +3.369 · DEF +12 · **Monster-DMG −2,5 %** | je −2 % erlittener Monster-DMG |
+| Falcon Gloves (Handschuhe) | 6.196 | Hero HP +2.021 · DEF +25 · **Monster-DMG −2,5 %** | je −2 % erlittener Monster-DMG |
+
+- **Max-Level 30**; die drei Extra-Attribute schalten bei Lv. 10, 20 und 30 frei.
+- Muster: **Waffe + Helm = Angriff** (ATK, Monster-Schaden), **Rüstung + Handschuhe = Verteidigung** (HP, Schadensreduktion).
+- Komplett auf Lv. 30 ausgebaut: **+17 % DMG gegen Monster** und **−17 % erlittener Monster-DMG** aus dem Set.
+- Craft-Kosten im Beispiel (Waffe): 150 lila Kristalle · 99.000 Gold.
 
 ## 4. Empfohlener Ablauf
 
