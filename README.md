@@ -34,9 +34,12 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 | Datum | Manual | Sprachen |
 |-------|--------|----------|
+| 20.09 | **Alliance Duel** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/alliance-duel/alliance-duel_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/alliance-duel/alliance-duel_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/alliance-duel/alliance-duel_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/alliance-duel/alliance-duel_ES.md) |
 | 20.09 | **Development** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/development/development_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/development/development_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/development/development_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/development/development_ES.md) |
 | 20.09 | **Economy** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/economy/economy_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/economy/economy_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/economy/economy_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/economy/economy_ES.md) |
 | 20.09 | **Hero** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/hero/hero_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/hero/hero_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/hero/hero_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/hero/hero_ES.md) |
+| 20.09 | **Soldier** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/soldier/soldier_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/soldier/soldier_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/soldier/soldier_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/soldier/soldier_ES.md) |
+| 20.09 | **Team** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/team/team_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/team/team_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/team/team_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/team/team_ES.md) |
 
 ---
 
@@ -47,6 +50,14 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 - **Research Speed Up zuerst maxen** (+10 %), dann High-speed Construction
 - **Arms-Race-Kopplung:** Phase „Research Tech" = +1 Punkt je Tech-CP — große Forschungen dort abschließen
 - Freischaltungen: Team 3 (Lab 20 + Team 2 ≥ 25 %), Siege/Defense Spec. (Lab 21 + Super Soldier ≥ 40 %)
+
+---
+
+## Inhalt: Forschung — Alliance Duel (Kurzfassung)
+
+- Incentive-Techs mit 10 Leveln: +5 → **+50 % Punkte** aus Kills, Training, Gebäude-CP und Tech-CP (CP je Level 1.515 → 42.152)
+- **Research Incentive zuerst** — multipliziert die Hero-CP-Bomben im Duel
+- Alliance-Duel-Sieg = +30.000 Regionspunkte im SvS; Super-Reward-Meilensteine mitnehmen
 
 ---
 
@@ -64,6 +75,21 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 - Je Block: Meilenstein → ATK + DEF → HP (je +2→10 %, 5 Level)
 - **CP-Bomben:** bis ~146K CP je Abschluss = ~146K Arms-Race-Punkte in der Research-Tech-Phase
 - Laufzeiten 9–12 Tage/Level — Abschluss timen, Speedups aufsparen; stärkt Faction Trial & Frenzied Boss
+
+---
+
+## Inhalt: Forschung — Soldier (Kurzfassung)
+
+- Blöcke: Soldaten-ATK + DEF → HP → Tragelast, je 5 Level; Kampf-Kette vor Tragelast
+- Stärkt Region Duel (Lv.-8-Kills) und alle Rally-Events
+
+---
+
+## Inhalt: Forschung — Team (Kurzfassung)
+
+- Team 1–4 nacheinander (Team 3: Lab 20 + Team 2 ≥ 25 %); Team 1 = Combat Rec.
+- Bausteine: Team-Boni (Flagge), March-Speed (Stiefel), Angriffs-/Garnisons-Stränge (Gewehr/Kuppel) mit je ATK/DEF/HP
+- Kampf-Kette vor Komfort; March-Speed nach Rolle wählen
 
 ---
 
@@ -278,6 +304,11 @@ GTs/
         ├── world-boss_FR.md
         └── world-boss_ES.md
 └── research/
+    ├── alliance-duel/
+    │   ├── alliance-duel_EN.md
+    │   ├── alliance-duel_DE.md
+    │   ├── alliance-duel_FR.md
+    │   └── alliance-duel_ES.md
     ├── development/
     │   ├── development_EN.md
     │   ├── development_DE.md
@@ -288,11 +319,21 @@ GTs/
     │   ├── economy_DE.md
     │   ├── economy_FR.md
     │   └── economy_ES.md
-    └── hero/
-        ├── hero_EN.md
-        ├── hero_DE.md
-        ├── hero_FR.md
-        └── hero_ES.md
+    ├── hero/
+    │   ├── hero_EN.md
+    │   ├── hero_DE.md
+    │   ├── hero_FR.md
+    │   └── hero_ES.md
+    ├── soldier/
+    │   ├── soldier_EN.md
+    │   ├── soldier_DE.md
+    │   ├── soldier_FR.md
+    │   └── soldier_ES.md
+    └── team/
+        ├── team_EN.md
+        ├── team_DE.md
+        ├── team_FR.md
+        └── team_ES.md
 ```
 
 **Namenskonvention:** `<event-slug>_<SPRACHCODE>.md` — ein Ordner pro Event unter `events/`.
