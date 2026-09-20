@@ -22,6 +22,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | 20.09 | **3V3 Arena** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_ES.md) |
 | 20.09 | **Faction Trial** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/faction-trial/faction-trial_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/faction-trial/faction-trial_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/faction-trial/faction-trial_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/faction-trial/faction-trial_ES.md) |
 | 20.09 | **Peak Arena** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/peak-arena/peak-arena_ES.md) |
+| 20.09 | **VIP-System** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/vip/vip_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/vip/vip_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/vip/vip_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/vip/vip_ES.md) |
 | 10.01 | **World Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
 | 20.09 | **Alliance Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_ES.md) |
 | 20.09 | **Frenzied Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_ES.md) |
@@ -107,6 +108,15 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 - 5 Stages pro Durchlauf; freiwilliger Ausstieg = Neustart bei Stage 1
 - Abrechnung nach 5 geschafften Stages oder erster Niederlage
 - **3 abgeschlossene Stages holen alle Achievement-Rewards** (bis 50 Gems, gesamt u. a. 100 Gems)
+
+---
+
+## Inhalt: VIP-System (Kurzfassung)
+
+- VIP-EXP über täglichen Login-Streak (+ kaufbare EXP/Pakete); Privilegien kumulativ
+- Täglich: Daily Chest + VIP Daily Free Pack abholen (verfällt nach 24 h)
+- Meilensteine: VIP 4 Tavern-Auto-Dispatch · VIP 8 2. Trial-Quick-Battle · VIP 10 Helden-Stats · VIP 12 Tavern Super Mode
+- Bis VIP 13: Bauen +50 %, Produktion +25 %, Tech +20 %, Crafting +50 %
 
 ---
 
@@ -204,6 +214,11 @@ GTs/
     │   ├── storm-rescue_DE.md
     │   ├── storm-rescue_FR.md
     │   └── storm-rescue_ES.md
+    ├── vip/
+    │   ├── vip_EN.md
+    │   ├── vip_DE.md
+    │   ├── vip_FR.md
+    │   └── vip_ES.md
     └── world-boss/
         ├── world-boss_EN.md
         ├── world-boss_DE.md
