@@ -14,6 +14,8 @@
 | Defensive Training (DÉF des soldats) | +1,5 → 15 % | 4 645 → 74 042 |
 | Premium Defense (PV des soldats) | +1,5 → 15 % | 4 645 → 74 042 |
 
+- Le palier 9 suit la même échelle (+1,5 → 15 %) à coûts plus élevés : CP **12 116 → 181 382**.
+
 *En complément, dans l'arbre Development : Training Speed Up 5 (+1 → 10 % de vitesse d'entraînement, CP 6 159 → 96 275).*
 
 ## 3. Ordre recommandé

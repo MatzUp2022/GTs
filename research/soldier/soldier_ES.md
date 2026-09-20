@@ -14,6 +14,8 @@
 | Defensive Training (DEF de soldados) | +1,5 → 15 % | 4.645 → 74.042 |
 | Premium Defense (PV de soldados) | +1,5 → 15 % | 4.645 → 74.042 |
 
+- El nivel 9 escala igual (+1,5 → 15 %) con costes mayores: CP **12.116 → 181.382**.
+
 *Como complemento, del árbol Development: Training Speed Up 5 (+1 → 10 % de velocidad de entrenamiento, CP 6.159 → 96.275).*
 
 ## 3. Orden recomendado

@@ -14,6 +14,8 @@
 | Defensive Training (soldier DEF) | +1.5 → 15 % | 4,645 → 74,042 |
 | Premium Defense (soldier HP) | +1.5 → 15 % | 4,645 → 74,042 |
 
+- Tier 9 scales identically (+1.5 → 15 %) at higher costs: CP **12,116 → 181,382**.
+
 *From the Development tree in addition: Training Speed Up 5 (+1 → 10 % training speed, CP 6,159 → 96,275).*
 
 ## 3. Recommended Order

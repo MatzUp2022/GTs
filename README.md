@@ -89,7 +89,9 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 ## Inhalt: Forschung — Super Soldier (Kurzfassung)
 
-- 10-Level-Techs: flache HP/ATK/DEF-Werte **je Soldat** (skalieren mit der Armeegröße) + Premium Protection (+1,5→15 %)
+- 10-Level-Techs: flache HP/ATK/DEF-Werte **je Soldat** (skalieren mit der Armeegröße); Premium Protection = universelle Schadensreduktion (+1,5→15 %); Moral +2,5→25 %
+- Meilenstein „Soldier 10" schaltet **Tier-10-Soldaten** frei (Lab 30 + Enhancement 3 auf Lv. 10)
+- Enhancement-3-Level bis **253.512 CP** — größte Research-Tech-/Duel-Punktepakete
 - Fortschritt ≥ 40 % schaltet mit Lab 21 die Siege-/Defense-Specializations frei
 - Abschlüsse in die Research-Tech-Phase legen
 

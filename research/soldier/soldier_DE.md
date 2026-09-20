@@ -14,6 +14,8 @@
 | Defensive Training (Soldaten-DEF) | +1,5 → 15 % | 4.645 → 74.042 |
 | Premium Defense (Soldaten-HP) | +1,5 → 15 % | 4.645 → 74.042 |
 
+- Stufe 9 skaliert identisch (+1,5 → 15 %) bei höheren Kosten: CP **12.116 → 181.382**.
+
 *Ergänzend aus dem Development-Baum: Training Speed Up 5 (+1 → 10 % Trainingstempo, CP 6.159 → 96.275).*
 
 ## 3. Empfohlene Reihenfolge
