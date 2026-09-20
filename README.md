@@ -14,6 +14,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | Datum | Manual | Sprachen |
 |-------|--------|----------|
 | 10.01 | **World Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
+| 20.09 | **Alliance Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_ES.md) |
 
 ---
 
@@ -28,12 +29,27 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 ---
 
+## Inhalt: Alliance Boss (Kurzfassung)
+
+- Drei Phasen: Auswahl (R4/R5, mind. 20 Mitglieder) → Vorbereitung (Spenden) → Kampf (**30 Minuten**)
+- Dämonen nur per **Rally** angreifbar; R4/R5-Rallys mit zusätzlichem DMG-Bonus
+- **Join Offline aktivieren**, Altar-Spenden mitnehmen (×500 Contribution, Altar Lv. 5 = +25 % DMG)
+- MVP multipliziert die Allianz-Belohnungen um **×1–10** — stärkster Spieler pusht Maximalschaden
+- Mehr Allianz-Gesamtschaden = höhere Schwierigkeit + bessere Belohnungen
+
+---
+
 ## Repo-Struktur
 
 ```
 GTs/
 ├── README.md
 └── events/
+    ├── alliance-boss/
+    │   ├── alliance-boss_EN.md
+    │   ├── alliance-boss_DE.md
+    │   ├── alliance-boss_FR.md
+    │   └── alliance-boss_ES.md
     └── world-boss/
         ├── world-boss_EN.md
         ├── world-boss_DE.md
