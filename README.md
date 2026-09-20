@@ -13,9 +13,20 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 | Datum | Manual | Sprachen |
 |-------|--------|----------|
+| 20.09 | **Arms Race** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_ES.md) |
 | 10.01 | **World Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
 | 20.09 | **Alliance Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_ES.md) |
 | 20.09 | **Frenzied Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_ES.md) |
+
+---
+
+## Inhalt: Arms Race (Kurzfassung)
+
+- Täglich 6 Phasen à 4 h (0/4/8/12/16/20 Uhr Serverzeit), Themen in 7-Tage-Rotation
+- Punkte nur für thematisch passende Aktionen — Speedups & Aufträge bis zur richtigen Phase aufsparen
+- Truhen bei 6.250 / 12.500 / 30.000 Punkten; Ranking 1–15 in zugeloster Gegnergruppe
+- Tage 1/4, 2/6 und 3/7 sind identisch
+- **SvS-relevant:** große Ausgaben mit SvS-Zielen synchronisieren
 
 ---
 
@@ -58,6 +69,11 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 GTs/
 ├── README.md
 └── events/
+    ├── arms-race/
+    │   ├── arms-race_EN.md
+    │   ├── arms-race_DE.md
+    │   ├── arms-race_FR.md
+    │   └── arms-race_ES.md
     ├── alliance-boss/
     │   ├── alliance-boss_EN.md
     │   ├── alliance-boss_DE.md
