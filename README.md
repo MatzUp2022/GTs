@@ -16,6 +16,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | 20.09 | **Arms Race** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_ES.md) |
 | 20.09 | **Radar** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_ES.md) |
 | 20.09 | **Region Duel (SvS)** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_ES.md) |
+| 20.09 | **Outpost Tavern & Desert Treasure** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_ES.md) |
 | 20.09 | **Storm Rescue** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_ES.md) |
 | 10.01 | **World Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
 | 20.09 | **Alliance Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/alliance-boss/alliance-boss_ES.md) |
@@ -49,6 +50,16 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 - Größte Punktquelle: **World Boss** (+250.000 Region-Sieg, +150.000 Einzelschaden-Platz-1)
 - Sa: 50.000 persönliche Punkte für die Win-Streak-Belohnung; Kills an Central City/Giant Battery zählen 6× (+54 statt +9)
 - Eigene Region = Verbündete (außer Basis-Angriffe) — Einigkeit entscheidet
+
+---
+
+## Inhalt: Outpost Tavern & Desert Treasure (Kurzfassung)
+
+- Tägliche Tavern-Missionen (2 je Team, Refresh 0:00 Uhr); Qualität Blau < Lila < Orange (Refresh-Chancen 68/24/8 %)
+- Nicht-Verbündete können plündern — Allianz-Hilfe schützt
+- Lila+ Missionen droppen Map-Shards (M1–M7); ohne Plünderung +5 % (Lila) / +15 % (Orange) Extra-Shard
+- 1 Ausgrabung = alle 7 Shards; fehlende per Allianz-Tausch
+- Legendary-Garantie: spätestens bei der 16. Ausgrabung
 
 ---
 
@@ -124,6 +135,11 @@ GTs/
     │   ├── region-duel_DE.md
     │   ├── region-duel_FR.md
     │   └── region-duel_ES.md
+    ├── tavern/
+    │   ├── tavern_EN.md
+    │   ├── tavern_DE.md
+    │   ├── tavern_FR.md
+    │   └── tavern_ES.md
     ├── storm-rescue/
     │   ├── storm-rescue_EN.md
     │   ├── storm-rescue_DE.md
