@@ -14,6 +14,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | Datum | Manual | Sprachen |
 |-------|--------|----------|
 | 20.09 | **Arms Race** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_ES.md) |
+| 20.09 | **Radar** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_ES.md) |
 | 20.09 | **Region Duel (SvS)** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_ES.md) |
 | 20.09 | **Storm Rescue** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_ES.md) |
 | 10.01 | **World Boss** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
@@ -29,6 +30,15 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 - Truhen bei 6.250 / 12.500 / 30.000 Punkten; Ranking 1–15 in zugeloster Gegnergruppe
 - Tage 1/4, 2/6 und 3/7 sind identisch
 - **SvS-relevant:** große Ausgaben mit SvS-Zielen synchronisieren
+
+---
+
+## Inhalt: Radar (Kurzfassung)
+
+- Missionen mit Zeitlimit; Refresh alle 6 h, Auto-Complete für 10 Stamina/Mission
+- Volle Liste beim Refresh → Speicher (bis 35 Missionen); Level-Up durch Abschlüsse (mehr Missionen, höherer Ressourcen-Bonus)
+- Ab Lv. 4 Sofort-Abschluss von Help Allies & Supply Collection; Tages-Specials (Elite/Overlord/Rescue) mitnehmen
+- **SvS-Strategie:** Speicher vor dem Event volllaufen lassen und Missionen geballt in der passenden Phase abschließen (Stamina sparen)
 
 ---
 
@@ -104,6 +114,11 @@ GTs/
     │   ├── frenzied-boss_DE.md
     │   ├── frenzied-boss_FR.md
     │   └── frenzied-boss_ES.md
+    ├── radar/
+    │   ├── radar_EN.md
+    │   ├── radar_DE.md
+    │   ├── radar_FR.md
+    │   └── radar_ES.md
     ├── region-duel/
     │   ├── region-duel_EN.md
     │   ├── region-duel_DE.md
