@@ -13,12 +13,18 @@ Repo: https://github.com/MatzUp2022/GTs
 GTs/
 ├── README.md                    # Übersicht + Links auf alle Manuals
 ├── CLAUDE.md                    # diese Datei
-└── events/
-    └── <event-slug>/
-        ├── <event-slug>_EN.md
-        ├── <event-slug>_DE.md
-        ├── <event-slug>_FR.md
-        └── <event-slug>_ES.md
+├── events/
+│   └── <event-slug>/
+│       ├── <event-slug>_EN.md
+│       ├── <event-slug>_DE.md
+│       ├── <event-slug>_FR.md
+│       └── <event-slug>_ES.md
+└── research/                    # Forschungs-/Tech-Manuals, gleiche Konventionen
+    └── <tech-slug>/
+        ├── <tech-slug>_EN.md
+        ├── <tech-slug>_DE.md
+        ├── <tech-slug>_FR.md
+        └── <tech-slug>_ES.md
 ```
 
 ## Regeln
