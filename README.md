@@ -16,6 +16,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | 20.09 | **Arms Race** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_ES.md) |
 | 20.09 | **Radar** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/radar/radar_ES.md) |
 | 20.09 | **Region Duel (SvS)** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/region-duel/region-duel_ES.md) |
+| 20.09 | **Help & FAQ** (Support) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/help-faq/help-faq_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/help-faq/help-faq_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/help-faq/help-faq_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/help-faq/help-faq_ES.md) |
 | 20.09 | **Outpost Tavern & Desert Treasure** (Mechanik) | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/tavern/tavern_ES.md) |
 | 20.09 | **Storm Rescue** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_ES.md) |
 | 20.09 | **3V3 Arena** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/3v3-arena/3v3-arena_ES.md) |
@@ -78,6 +79,16 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 - Größte Punktquelle: **World Boss** (+250.000 Region-Sieg, +150.000 Einzelschaden-Platz-1)
 - Sa: 50.000 persönliche Punkte für die Win-Streak-Belohnung; Kills an Central City/Giant Battery zählen 6× (+54 statt +9)
 - Eigene Region = Verbündete (außer Basis-Angriffe) — Einigkeit entscheidet
+
+---
+
+## Inhalt: Help & FAQ (Kurzfassung)
+
+- Technik: Login-/Update-/Crash-Probleme → App/Netzwerk neu starten, sonst Kundendienst (Feedback-Button)
+- Datenverlust: zuerst **richtigen Server** prüfen — Daten sind serverspezifisch
+- **Kein Allianzwechsel während Events** — kann Belohnungs-Berechtigung kosten
+- Alliance Tech mit Gold/Diamanten füttern; Alliance Help täglich geben + anfordern
+- Käufe: bei fehlenden Items Spiel neu starten, dann Kundendienst
 
 ---
 
@@ -178,6 +189,11 @@ GTs/
     │   ├── region-duel_DE.md
     │   ├── region-duel_FR.md
     │   └── region-duel_ES.md
+    ├── help-faq/
+    │   ├── help-faq_EN.md
+    │   ├── help-faq_DE.md
+    │   ├── help-faq_FR.md
+    │   └── help-faq_ES.md
     ├── tavern/
     │   ├── tavern_EN.md
     │   ├── tavern_DE.md
