@@ -34,6 +34,8 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | Datum | Manual | Sprachen |
 |-------|--------|----------|
 | 20.09 | **Development** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/development/development_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/development/development_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/development/development_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/development/development_ES.md) |
+| 20.09 | **Economy** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/economy/economy_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/economy/economy_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/economy/economy_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/economy/economy_ES.md) |
+| 20.09 | **Hero** | [EN](https://github.com/MatzUp2022/GTs/blob/main/research/hero/hero_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/research/hero/hero_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/research/hero/hero_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/research/hero/hero_ES.md) |
 
 ---
 
@@ -44,6 +46,23 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 - **Research Speed Up zuerst maxen** (+10 %), dann High-speed Construction
 - **Arms-Race-Kopplung:** Phase „Research Tech" = +1 Punkt je Tech-CP — große Forschungen dort abschließen
 - Freischaltungen: Team 3 (Lab 20 + Team 2 ≥ 25 %), Siege/Defense Spec. (Lab 21 + Super Soldier ≥ 40 %)
+
+---
+
+## Inhalt: Forschung — Economy (Kurzfassung)
+
+- Blöcke: Nahrung/Eisen-Produktion → Gold → Sammeln → Meilenstein-Gebäude (schaltet nächste Stufe frei)
+- Produktion vor Sammeln; Meilensteine zeitnah erforschen
+- Abschlüsse in die Arms-Race-Phase „Research Tech" legen (+1 Punkt je CP)
+
+---
+
+## Inhalt: Forschung — Hero (Kurzfassung)
+
+- Fraktionsblöcke nacheinander: Guardian → Ranger → Berserker → Helden allgemein
+- Je Block: Meilenstein → ATK + DEF → HP (je +2→10 %, 5 Level)
+- **CP-Bomben:** bis ~146K CP je Abschluss = ~146K Arms-Race-Punkte in der Research-Tech-Phase
+- Laufzeiten 9–12 Tage/Level — Abschluss timen, Speedups aufsparen; stärkt Faction Trial & Frenzied Boss
 
 ---
 
@@ -243,11 +262,21 @@ GTs/
         ├── world-boss_FR.md
         └── world-boss_ES.md
 └── research/
-    └── development/
-        ├── development_EN.md
-        ├── development_DE.md
-        ├── development_FR.md
-        └── development_ES.md
+    ├── development/
+    │   ├── development_EN.md
+    │   ├── development_DE.md
+    │   ├── development_FR.md
+    │   └── development_ES.md
+    ├── economy/
+    │   ├── economy_EN.md
+    │   ├── economy_DE.md
+    │   ├── economy_FR.md
+    │   └── economy_ES.md
+    └── hero/
+        ├── hero_EN.md
+        ├── hero_DE.md
+        ├── hero_FR.md
+        └── hero_ES.md
 ```
 
 **Namenskonvention:** `<event-slug>_<SPRACHCODE>.md` — ein Ordner pro Event unter `events/`.
