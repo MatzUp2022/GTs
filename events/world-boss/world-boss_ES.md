@@ -3,8 +3,10 @@
 ## 1. Reglas de formación
 - **Sin héroes de defensa / escudo** — el jefe no muere, sobrevivir es irrelevante. Solo daño.
 - **Solo el mejor equipo dorado** en los héroes elegidos. Equipar antes del primer golpe, no entre intentos.
-- **Comprobar el bono diario:** qué tipo de héroe tiene hoy **+50 % de ventaja** → priorizar ese tipo.
+- **Comprobar el buff diario:** qué facción inflige hoy **+50 % de daño** (p. ej. Guardian) → priorizarla.
 - Formación **exclusiva del evento**, no el escuadrón de rally habitual.
+- **Calendario:** lun, jue y dom — aparece a las 0:00, 6:00, 12:00 y 18:00 (hora del servidor), activo **3 horas** cada vez.
+- **Requisito:** base nivel 8+. Ataques **en solitario — sin rallys**.
 
 ## 2. Economía de golpes
 - **5 golpes por día.**
@@ -24,18 +26,25 @@
 
 **Regla:** no repartir buffs, objetos de furia ni potenciadores entre los intentos de prueba — concentrarlos todos en el golpe máximo.
 
-## 4. Vínculo con el SvS
+## 4. Logros únicos (por jefe)
+- Umbrales de **daño en un solo ataque**: 1M · 5M · 10M · 20M · 50M · 100M · 200M · 500M · 1G · 2G · 3G — recompensas que incluyen gemas (600–5.100) y cofres de recursos.
+- Separados por jefe: **Giant, Frenzied, Undead Zombie**; se desbloquean progresivamente según la hora del servidor.
+- → Apuntar el golpe máximo al **siguiente umbral alcanzable**.
+
+## 5. Vínculo con el SvS
 - **+250.000** — servidor con el daño total más alto (clasificación diaria)
 - **+150.000** — servidor con el MVP (mayor daño individual de un jugador)
 - **Total: hasta +400.000 puntos diarios**
+- **Duelo de regiones:** se suma el daño de los **200 mejores comandantes** de cada región — gana la región con el total más alto.
 
 El resto de tareas diarias aportan muchos menos puntos y **no pueden compensar** un día perdido de Jefe Mundial.
 
 → El Jefe Mundial tiene **máxima prioridad** durante el SvS. Los recursos previstos para otros objetivos diarios se redirigen aquí si hace falta.
 
-## 5. Lista diaria
-- [ ] Tipo bonificado del día comprobado
+## 6. Lista diaria
+- [ ] Buff de facción del día comprobado
 - [ ] Héroes de defensa retirados
 - [ ] Equipo dorado completo
 - [ ] Buffs reservados para el golpe 5
 - [ ] Los 5 golpes usados, al menos 3 formaciones variadas
+- [ ] Siguiente umbral de logros fijado
