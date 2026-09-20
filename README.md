@@ -149,6 +149,16 @@ GTs/
 The manuals are meant to be copied straight into alliance chat or Discord.
 For plain text without GitHub formatting, click **Raw** in the file view.
 
+## Further sources
+
+Video guides by [Happy Khoj](https://www.youtube.com/@happykhoj6786). They are listed as background reading, **not** as verified sources: figures from a video only enter a manual once they are confirmed in game (rule 7 in CLAUDE.md).
+
+| Video | Topic |
+|-------|-------|
+| [Levels 1–25 Complete Walkthrough & Strategy Guide](https://youtu.be/KLKE-Nh0aNQ) | Early campaign stages |
+| [Unlock All Heroes & Master Every Level — Ultimate A to Z Guide](https://youtu.be/v6sBXiVQoDo) | Heroes and progression |
+| [Gameplay Walkthrough playlist — all heroes, star-up & evolution, all events](https://youtube.com/playlist?list=PL-eIfJgv0a5q1I3Uvm1aO8W-HrJEQTe_i) | Full series |
+
 ## Contributing
 
 Corrections and new manuals via pull request. When changing a manual, please update **all four language versions** so they don't drift apart.
