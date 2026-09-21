@@ -4,6 +4,7 @@
 
 - **Alianza contra alianza durante seis días** (día 1–6). Un tema por día; solo puntúan las acciones que coinciden con el tema del día. Se abre con el **botón VS** del mapa.
 - **Requisitos:** base nivel **10+** para participar · la alianza necesita **al menos 20 miembros** · solo las **32 mejores alianzas por CP de cada región** entran en el emparejamiento del domingo para la semana siguiente.
+- **El día 1 es lunes**, el día 6 sábado; el domingo es día de emparejamiento, sin tema (el tutorial ordena sus consejos en las pestañas lunes–sábado).
 - **El ganador del día se lo lleva todo:** la alianza con más puntos ese día **conserva** sus puntos — la otra **pierde** los suyos.
 - **Los puntos personales nunca se ven afectados.** Los cofres personales siguen siendo reclamables tras un día perdido, y cambiar de alianza durante el duelo solo bloquea la ganancia de puntos **de alianza** durante 1 día.
 

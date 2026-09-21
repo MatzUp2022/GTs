@@ -8,7 +8,7 @@
 |--------|--------------------|------------------------------|
 | Arms Race | 6 phases of 4 h, reset at 0:00 server time | **identical** |
 | Phase themes | Hero Advancement · City Building · Unit Progression · Tech Research · **Drone Boost** | Boost Heroes · Construct City · Expand Army · Research Tech · **Boost Vehicles** |
-| Alliance duel | 6 themed days Mon–Sat | Region Duel Mon–Fri + Alliance Duel incentives (kills, training, construction, research, radar, acceleration, recruitment) |
+| Alliance duel | 6 themed days Mon–Sat | **Our Alliance Duel — same shape, now documented** (Mon–Sat, 13 win points) |
 | Stamina | save it for the drone phase | radar auto-complete, 10 per mission |
 
 → Apart from the names the systems map one to one — the drone corresponds functionally to our **vehicle**.
@@ -46,7 +46,7 @@
 ## 5. What Does **Not** Transfer
 
 - Concrete point values, hero names, tier lists and reward tables — Last Light has its own roster (26 heroes) and its own numbers, held in the hero database and the event manuals.
-- Last War's duel week (Mon–Sat, 12 victory points) differs from our Region Duel (Mon–Fri points, clash from Sat).
+- **Superseded:** this used to be compared against the Region Duel. Last War's duel week (Mon–Sat, 12 victory points) is in fact the counterpart of **our own Alliance Duel** (Mon–Sat, 13 win points), which is now documented from in-game data — use that manual, not this transfer.
 
 ## 6. Sources
 

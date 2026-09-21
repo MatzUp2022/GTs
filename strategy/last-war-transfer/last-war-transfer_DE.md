@@ -8,7 +8,7 @@
 |--------|--------------------|-------------------------------|
 | Arms Race | 6 Phasen à 4 h, Reset 0:00 Serverzeit | **identisch** |
 | Phasen-Themen | Hero Advancement · City Building · Unit Progression · Tech Research · **Drone Boost** | Boost Heroes · Construct City · Expand Army · Research Tech · **Boost Vehicles** |
-| Allianz-Duell | 6 Themen-Tage Mo–Sa | Region Duel Mo–Fr + Alliance-Duel-Incentives (Kills, Training, Bau, Forschung, Radar, Beschleunigung, Rekrutierung) |
+| Allianz-Duell | 6 Themen-Tage Mo–Sa | **Unser Alliance Duel — gleicher Zuschnitt, inzwischen dokumentiert** (Mo–Sa, 13 Siegpunkte) |
 | Stamina | für die Drohnen-Phase sparen | Radar-Auto-Complete, 10 je Mission |
 
 → Bis auf die Namen sind die Systeme eins zu eins übertragbar — die Drohne entspricht funktional unserem **Vehicle**.
@@ -46,7 +46,7 @@
 ## 5. Was **nicht** übertragbar ist
 
 - Konkrete Punktwerte, Helden-Namen, Tier-Listen und Belohnungstabellen — Last Light hat ein eigenes Roster (26 Helden) und eigene Zahlen; die stehen in der Helden-Datenbank und den Event-Manuals.
-- Last Wars Tageszuschnitt des Duells (Mo–Sa mit 12 Siegpunkten) weicht von unserem Region Duel ab (Mo–Fr Punkte, ab Sa Clash).
+- **Überholt:** hier wurde früher mit dem Region Duel verglichen. Last Wars Duell-Woche (Mo–Sa, 12 Siegpunkte) ist tatsächlich das Gegenstück zu **unserem eigenen Alliance Duel** (Mo–Sa, 13 Siegpunkte), das inzwischen aus Spieldaten dokumentiert ist — dieses Manual nutzen, nicht die Übertragung.
 
 ## 6. Quellen
 

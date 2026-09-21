@@ -32,6 +32,7 @@
 
 - **Spend nothing on the side:** save speedups, construction, recruitment and research **for the matching phase**, then fire them all at once.
 - Schedule big projects (expensive research, long construction) into the phase where they score.
+- **Alliance Duel overlap:** on Tue–Fri the phases at 8:00 and 20:00 match the Alliance Duel theme of the day — one spend scores in both. See the [weekly plan](https://github.com/MatzUp2022/GTs/blob/main/strategy/weekly-plan/weekly-plan_EN.md).
 - **SvS-relevant:** Arms Race actions also count in SvS — time big spends so they serve Arms Race **and** SvS at once.
 
 ## 5. Daily Checklist

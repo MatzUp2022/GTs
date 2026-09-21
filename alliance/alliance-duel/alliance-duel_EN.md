@@ -4,6 +4,7 @@
 
 - **Alliance vs. alliance over six days** (Day 1–6). One theme per day; only actions matching that day's theme score. Opened via the **VS button** on the map.
 - **Requirements:** Base Level **10+** to take part · the alliance needs **at least 20 members** · only the **top 32 alliances by CP per region** enter Sunday's matchmaking for the coming week.
+- **Day 1 is Monday**, day 6 Saturday; Sunday is matchmaking day with no theme (the tutorial lists its tips under the weekday tabs Monday–Saturday).
 - **Winner takes all, per day:** the alliance with more points that day **keeps** its points — the loser **loses** theirs.
 - **Personal points are never affected.** Personal chests stay claimable after a lost day, and an alliance change during the duel only blocks **alliance** point gains for 1 day.
 

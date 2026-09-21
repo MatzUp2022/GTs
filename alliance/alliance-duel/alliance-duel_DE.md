@@ -4,6 +4,7 @@
 
 - **Allianz gegen Allianz über sechs Tage** (Tag 1–6). Ein Thema pro Tag; nur Aktionen zum Tagesthema geben Punkte. Aufruf über den **VS-Button** auf der Karte.
 - **Voraussetzungen:** Basis-Level **10+** zur Teilnahme · die Allianz braucht **mindestens 20 Mitglieder** · nur die **Top 32 Allianzen nach CP je Region** kommen sonntags ins Matchmaking für die kommende Woche.
+- **Tag 1 ist Montag**, Tag 6 Samstag; Sonntag ist Matchmaking-Tag ohne Thema (das Tutorial führt seine Tipps unter den Wochentags-Reitern Montag–Samstag).
 - **Tagessieger nimmt alles:** Die Allianz mit mehr Punkten an diesem Tag **behält** ihre Punkte — die andere **verliert** ihre.
 - **Persönliche Punkte sind davon nie betroffen.** Persönliche Truhen bleiben auch nach einem verlorenen Tag abholbar, und ein Allianzwechsel während des Duells sperrt nur den **Allianz**-Punktgewinn für 1 Tag.
 

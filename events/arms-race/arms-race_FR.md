@@ -15,7 +15,7 @@
 
 ## 3. Planning hebdomadaire (heure serveur)
 
-| Jour | 0h | 4h | 8h | 12h | 16h | 20h |
+| Jour | 0h00 | 4h00 | 8h00 | 12h00 | 16h00 | 20h00 |
 |------|----|----|----|-----|-----|-----|
 | 1 | City | Army | Heroes | Tech | Vehicles | Heroes |
 | 2 | Army | Tech | City | Vehicles | Heroes | City |
@@ -32,6 +32,7 @@
 
 - **Ne rien dépenser en dehors des phases :** garder accélérations, constructions, recrutement et recherche **pour la phase correspondante**, puis tout lancer d'un coup.
 - Placer les gros projets (recherche coûteuse, construction longue) dans la phase où ils rapportent des points.
+- **Recoupement avec l'Alliance Duel :** du mardi au vendredi, les phases de 8h00 et 20h00 correspondent au thème Alliance Duel du jour — une dépense compte dans les deux. Voir le [plan hebdomadaire](https://github.com/MatzUp2022/GTs/blob/main/strategy/weekly-plan/weekly-plan_FR.md).
 - **Pertinent pour le SvS :** les actions de l'Arms Race comptent aussi au SvS — synchroniser les grosses dépenses pour servir l'Arms Race **et** le SvS en même temps.
 
 ## 5. Checklist quotidienne

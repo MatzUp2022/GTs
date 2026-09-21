@@ -68,7 +68,7 @@ Almost every manual says the same thing in its own words: value lies in the timi
 
 The Region Duel overlays the week without replacing it:
 
-- **Mon–Fri points contest.** World Boss is the whole game: up to **+400,000 region points per day**, against +30,000 for an Alliance Duel win and +2,000 for Arms Race rank 1. On **Mon / Thu / Sun** everything else steps back.
+- **Mon–Fri points contest.** World Boss is the whole game: up to **+400,000 region points per day**, against +30,000 for an Alliance Duel win and +2,000 for Arms Race rank 1. Inside the contest window only **Mon and Thu** are boss days (Sunday's run falls outside it) — on those two everything else steps back.
 - **Friday settlement** decides invader vs. defender.
 - **From Saturday Central City Clash** — same day as Alliance Duel "Defeat Enemies" and Alliance Raid. Every member needs **50,000 personal points** for the win-streak reward.
 

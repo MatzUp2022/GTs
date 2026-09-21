@@ -68,7 +68,7 @@ Fast jedes Manual sagt dasselbe mit eigenen Worten: Der Wert liegt im Zeitpunkt,
 
 Das Region Duel legt sich über die Woche, ohne sie zu ersetzen:
 
-- **Mo–Fr Punktewettbewerb.** World Boss ist das ganze Spiel: bis zu **+400.000 Regionspunkte pro Tag**, gegen +30.000 für einen Alliance-Duel-Sieg und +2.000 für Arms-Race-Rang 1. An **Mo / Do / So** tritt alles andere zurück.
+- **Mo–Fr Punktewettbewerb.** World Boss ist das ganze Spiel: bis zu **+400.000 Regionspunkte pro Tag**, gegen +30.000 für einen Alliance-Duel-Sieg und +2.000 für Arms-Race-Rang 1. Im Wettbewerbsfenster sind nur **Mo und Do** Boss-Tage (der Sonntagslauf liegt außerhalb) — an diesen beiden tritt alles andere zurück.
 - **Freitag Abrechnung** — sie entscheidet Angreifer gegen Verteidiger.
 - **Ab Samstag Central City Clash** — derselbe Tag wie Alliance Duel „Defeat Enemies" und Alliance Raid. Jedes Mitglied braucht **50.000 persönliche Punkte** für die Siegesserien-Belohnung.
 

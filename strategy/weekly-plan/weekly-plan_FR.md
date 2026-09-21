@@ -68,7 +68,7 @@ Presque tous les manuels disent la même chose à leur façon : la valeur est da
 
 Le Region Duel se superpose à la semaine sans la remplacer :
 
-- **Concours de points lun–ven.** Le World Boss fait tout le jeu : jusqu'à **+400 000 points de région par jour**, contre +30 000 pour une victoire en Alliance Duel et +2 000 pour la 1re place en Arms Race. Les **lun / jeu / dim**, tout le reste passe après.
+- **Concours de points lun–ven.** Le World Boss fait tout le jeu : jusqu'à **+400 000 points de région par jour**, contre +30 000 pour une victoire en Alliance Duel et +2 000 pour la 1re place en Arms Race. Dans la fenêtre du concours, seuls **lun et jeu** sont des jours de boss (celui du dimanche tombe en dehors) — ces deux jours-là, tout le reste passe après.
 - **Règlement le vendredi** — il décide envahisseur contre défenseur.
 - **À partir du samedi, Central City Clash** — le même jour qu'Alliance Duel « Defeat Enemies » et Alliance Raid. Chaque membre a besoin de **50 000 points personnels** pour la récompense de série de victoires.
 

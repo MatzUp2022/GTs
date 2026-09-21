@@ -4,6 +4,7 @@
 
 - **Alliance contre alliance sur six jours** (jour 1–6). Un thème par jour ; seules les actions correspondant au thème du jour rapportent. Accès par le **bouton VS** sur la carte.
 - **Prérequis :** base niveau **10+** pour participer · l'alliance doit compter **au moins 20 membres** · seules les **32 meilleures alliances par CP de chaque région** entrent dans l'appariement du dimanche pour la semaine suivante.
+- **Le jour 1 est le lundi**, le jour 6 le samedi ; le dimanche est jour d'appariement, sans thème (le tutoriel range ses conseils sous les onglets lundi–samedi).
 - **Le vainqueur du jour prend tout :** l'alliance qui a le plus de points ce jour-là **conserve** ses points — l'autre **perd** les siens.
 - **Les points personnels ne sont jamais touchés.** Les coffres personnels restent récupérables après une journée perdue, et un changement d'alliance pendant le duel ne bloque que le gain de points **d'alliance** pendant 1 jour.
 

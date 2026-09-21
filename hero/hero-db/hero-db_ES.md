@@ -49,7 +49,7 @@ La rareza, la facción y el rol aparecen en la pestaña *Hero* (letra arriba a l
 |-----------|--------|
 | Forest Ambush | 512 % del ATQ como daño de energía, objetivo único (estrellas: +30→270 % extra) |
 | Jungle Rage | Pasiva: daño de energía propio +28 % (+3 % por estrella) |
-| Phantom Volley (CS) | 8 ataques al 117 % a objetivos aleatorios (estrellas: hasta 16 ataques + daño) |
+| Phantom Volley (CS) | 8 ataques al 117 % a objetivos aleatorios (estrellas: 12 y luego 16 ataques + daño) |
 
 ## Viper — Doomsday Blossom (S+ · Guardian · Defensa)
 

@@ -29,9 +29,9 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 | Day | Focus | Manual |
 |-----|-------|--------|
-| Mon–Fri | Play World Boss in full every day (up to +400,000/day) | World Boss · Region Duel |
+| **Mon + Thu** | Play World Boss in full — the only two boss days inside Mon–Fri (up to +400,000/day) | World Boss · Region Duel |
 | Mon–Fri | Hit the Arms Race phases, time radar storage & speedups | Arms Race · Radar |
-| Mon–Fri | Win the Alliance Duel (+30,000) | Region Duel · Research: Alliance Duel |
+| Mon–Sat | Win the Alliance Duel (+30,000, MVP +6,000) | Alliance Duel · Research: Alliance Duel |
 | Fri | Settlement: more points = invader | Region Duel |
 | From Sat | Central City Clash · kills at Central City/Giant Battery (+54) | Region Duel |
 

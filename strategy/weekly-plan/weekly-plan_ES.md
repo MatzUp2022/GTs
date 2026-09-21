@@ -68,7 +68,7 @@ Casi todos los manuales dicen lo mismo con sus propias palabras: el valor está 
 
 El Region Duel se superpone a la semana sin sustituirla:
 
-- **Competición de puntos lun–vie.** El World Boss lo es todo: hasta **+400.000 puntos de región al día**, frente a +30.000 por una victoria en el Alliance Duel y +2.000 por el puesto 1 en Arms Race. Los **lun / jue / dom** todo lo demás pasa a segundo plano.
+- **Competición de puntos lun–vie.** El World Boss lo es todo: hasta **+400.000 puntos de región al día**, frente a +30.000 por una victoria en el Alliance Duel y +2.000 por el puesto 1 en Arms Race. Dentro de la ventana de la competición solo **lun y jue** son días de jefe (el del domingo queda fuera) — esos dos días todo lo demás pasa a segundo plano.
 - **Liquidación el viernes** — decide invasor contra defensor.
 - **Desde el sábado, Central City Clash** — el mismo día que el Alliance Duel «Defeat Enemies» y el Alliance Raid. Cada miembro necesita **50.000 puntos personales** para la recompensa de racha de victorias.
 
