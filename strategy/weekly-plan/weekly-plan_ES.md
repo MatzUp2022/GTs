@@ -16,7 +16,7 @@
 | **0:00** | Cambio de día: Arms Race fase 1 · cambio de tema del Alliance Duel · se refrescan las misiones de Tavern y Top Alliance | Llenar los huecos de la Tavern (refrescar antes a Golden) |
 | **0 / 4 / 8 / 12 / 16 / 20** | Cambio de fase de Arms Race, 4 h cada una | Grandes gastos **solo** en la fase que corresponde |
 | **cada 6 h** | Refresco del Radar | El almacén llega a unas **35** — vaciarlo |
-| **0 / 6 / 12 / 18** | World Boss (**lun · jue · dom**), 3 h cada vez | 5 golpes, solo cuenta el mejor |
+| **0 / 6 / 12 / 18** | World Boss (**lun · jue · dom**; **a diario en semanas de SvS**), 3 h cada vez | 5 golpes, solo cuenta el mejor |
 | **0 / 6 / 12** | Apariciones del Frenzied Boss | **A las 24:00 huyen todos los jefes no derrotados** |
 | **~23:30** | El Alliance Boss arranca solo si R4/R5 no fijó hora | R4/R5: fijar la hora cuando la alianza esté conectada |
 
@@ -68,7 +68,7 @@ Casi todos los manuales dicen lo mismo con sus propias palabras: el valor está 
 
 El Region Duel se superpone a la semana sin sustituirla:
 
-- **Competición de puntos lun–vie.** El World Boss lo es todo: hasta **+400.000 puntos de región al día**, frente a +30.000 por una victoria en el Alliance Duel y +2.000 por el puesto 1 en Arms Race. Dentro de la ventana de la competición solo **lun y jue** son días de jefe (el del domingo queda fuera) — esos dos días todo lo demás pasa a segundo plano.
+- **Competición de puntos lun–vie.** El World Boss lo es todo: hasta **+400.000 puntos de región al día**, frente a +30.000 por una victoria en el Alliance Duel y +2.000 por el puesto 1 en Arms Race. **En una semana de SvS el World Boss aparece a diario**, no solo lun/jue/dom — es obligación diaria de lunes a viernes y todo lo demás pasa a segundo plano.
 - **Liquidación el viernes** — decide invasor contra defensor.
 - **Desde el sábado, Central City Clash** — el mismo día que el Alliance Duel «Defeat Enemies» y el Alliance Raid. Cada miembro necesita **50.000 puntos personales** para la recompensa de racha de victorias.
 

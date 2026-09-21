@@ -56,7 +56,7 @@
 
 ## 6. Checklist
 
-- [ ] World Boss played in full on **Mon and Thu** — the only two boss days inside the Mon–Fri contest (biggest point source)
+- [ ] Mon–Fri: World Boss played in full every day — **during SvS it runs daily** (biggest point source)
 - [ ] Alliance Duel & Arms Race played to win
 - [ ] Enemy trucks plundered
 - [ ] Sat: 50,000 personal points collected for the win streak reward

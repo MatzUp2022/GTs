@@ -56,7 +56,7 @@
 
 ## 6. Checklist
 
-- [ ] World Boss joué à fond **lun et jeu** — les deux seuls jours de boss dans la fenêtre lun–ven (plus grande source de points)
+- [ ] Lun–ven : World Boss joué à fond chaque jour — **pendant le SvS il apparaît tous les jours** (plus grande source de points)
 - [ ] Alliance Duel & Arms Race joués pour la victoire
 - [ ] Camions ennemis pillés
 - [ ] Sam : 50 000 points personnels pour la récompense de série

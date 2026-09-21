@@ -16,7 +16,7 @@
 | **0:00** | Tageswechsel: Arms Race Phase 1 · Alliance-Duel-Themenwechsel · Tavern- und Top-Alliance-Missionen refreshen | Tavern-Slots füllen (vorher auf Golden refreshen) |
 | **0 / 4 / 8 / 12 / 16 / 20** | Arms-Race-Phasenwechsel, je 4 h | Große Ausgaben **nur** in der passenden Phase |
 | **alle 6 h** | Radar-Refresh | Speicher fasst etwa **35** — abarbeiten |
-| **0 / 6 / 12 / 18** | World Boss (**Mo · Do · So**), je 3 h aktiv | 5 Hits, nur der beste zählt |
+| **0 / 6 / 12 / 18** | World Boss (**Mo · Do · So**; **in SvS-Wochen täglich**), je 3 h aktiv | 5 Hits, nur der beste zählt |
 | **0 / 6 / 12** | Frenzied-Boss-Spawns | **Um 24:00 fliehen alle unbesiegten Bosse** |
 | **~23:30** | Alliance Boss startet automatisch, wenn R4/R5 keine Zeit gesetzt hat | R4/R5: Zeit legen, wenn die Allianz online ist |
 
@@ -68,7 +68,7 @@ Fast jedes Manual sagt dasselbe mit eigenen Worten: Der Wert liegt im Zeitpunkt,
 
 Das Region Duel legt sich über die Woche, ohne sie zu ersetzen:
 
-- **Mo–Fr Punktewettbewerb.** World Boss ist das ganze Spiel: bis zu **+400.000 Regionspunkte pro Tag**, gegen +30.000 für einen Alliance-Duel-Sieg und +2.000 für Arms-Race-Rang 1. Im Wettbewerbsfenster sind nur **Mo und Do** Boss-Tage (der Sonntagslauf liegt außerhalb) — an diesen beiden tritt alles andere zurück.
+- **Mo–Fr Punktewettbewerb.** World Boss ist das ganze Spiel: bis zu **+400.000 Regionspunkte pro Tag**, gegen +30.000 für einen Alliance-Duel-Sieg und +2.000 für Arms-Race-Rang 1. **In einer SvS-Woche läuft der World Boss täglich**, nicht nur Mo/Do/So — er ist also von Montag bis Freitag Pflicht, alles andere tritt zurück.
 - **Freitag Abrechnung** — sie entscheidet Angreifer gegen Verteidiger.
 - **Ab Samstag Central City Clash** — derselbe Tag wie Alliance Duel „Defeat Enemies" und Alliance Raid. Jedes Mitglied braucht **50.000 persönliche Punkte** für die Siegesserien-Belohnung.
 

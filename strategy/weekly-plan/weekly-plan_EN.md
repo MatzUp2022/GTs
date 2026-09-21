@@ -16,7 +16,7 @@
 | **0:00** | Day rollover: Arms Race phase 1 · Alliance Duel theme change · tavern and Top Alliance missions refresh | Fill tavern slots (Golden refresh first) |
 | **0 / 4 / 8 / 12 / 16 / 20** | Arms Race phase change, 4 h each | Big spends **only** inside the matching phase |
 | **every 6 h** | Radar refresh | Storage caps around **35** — work it off |
-| **0 / 6 / 12 / 18** | World Boss (**Mon · Thu · Sun**), 3 h each | 5 hits, only the best one counts |
+| **0 / 6 / 12 / 18** | World Boss (**Mon · Thu · Sun**; **daily in an SvS week**), 3 h each | 5 hits, only the best one counts |
 | **0 / 6 / 12** | Frenzied Boss spawns | **At 24:00 all undefeated bosses flee** |
 | **~23:30** | Alliance Boss auto-starts if R4/R5 set no time | R4/R5: set the time when the alliance is online |
 
@@ -68,7 +68,7 @@ Almost every manual says the same thing in its own words: value lies in the timi
 
 The Region Duel overlays the week without replacing it:
 
-- **Mon–Fri points contest.** World Boss is the whole game: up to **+400,000 region points per day**, against +30,000 for an Alliance Duel win and +2,000 for Arms Race rank 1. Inside the contest window only **Mon and Thu** are boss days (Sunday's run falls outside it) — on those two everything else steps back.
+- **Mon–Fri points contest.** World Boss is the whole game: up to **+400,000 region points per day**, against +30,000 for an Alliance Duel win and +2,000 for Arms Race rank 1. **In an SvS week the World Boss runs every day**, not just Mon/Thu/Sun — so it is a daily duty from Monday to Friday and everything else steps back.
 - **Friday settlement** decides invader vs. defender.
 - **From Saturday Central City Clash** — same day as Alliance Duel "Defeat Enemies" and Alliance Raid. Every member needs **50,000 personal points** for the win-streak reward.
 

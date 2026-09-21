@@ -14,7 +14,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 | Manual | What matters | Languages |
 |--------|--------------|-----------|
-| **World Boss** | Mon/Thu/Sun at 0:00/6:00/12:00/18:00, 3 h each · solo from base Lv. 8 · 5 hits, only the strongest counts · stack all buffs on the max run | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
+| **World Boss** | Mon/Thu/Sun at 0:00/6:00/12:00/18:00 — **daily during SvS** — 3 h each · solo from base Lv. 8 · 5 hits, only the strongest counts · stack all buffs on the max run | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
 | **Frenzied Boss** | 3 portal bosses (0:00/6:00/12:00), they flee at 24:00 · only your 3 strongest attempts count · weaknesses: Guardian/Ranger/Berserker | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_ES.md) |
 | **Arms Race** | 6 phases of 4 h, 7-day rotation · save speedups for the matching phase · **SvS-relevant** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_ES.md) |
 | **Storm Rescue** | 5 stages, exiting = restart from stage 1 · **3 stages are enough for all rewards** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_ES.md) |
@@ -29,7 +29,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 | Day | Focus | Manual |
 |-----|-------|--------|
-| **Mon + Thu** | Play World Boss in full — the only two boss days inside Mon–Fri (up to +400,000/day) | World Boss · Region Duel |
+| Mon–Fri | Play World Boss in full every day — **in an SvS week it runs daily** (up to +400,000/day) | World Boss · Region Duel |
 | Mon–Fri | Hit the Arms Race phases, time radar storage & speedups | Arms Race · Radar |
 | Mon–Sat | Win the Alliance Duel (+30,000, MVP +6,000) | Alliance Duel · Research: Alliance Duel |
 | Fri | Settlement: more points = invader | Region Duel |

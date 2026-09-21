@@ -16,7 +16,7 @@
 | **0h00** | Changement de jour : Arms Race phase 1 · changement de thème Alliance Duel · missions Tavern et Top Alliance rafraîchies | Remplir les créneaux de la Tavern (rafraîchir en Golden d'abord) |
 | **0 / 4 / 8 / 12 / 16 / 20** | Changement de phase Arms Race, 4 h chacune | Grosses dépenses **uniquement** dans la phase correspondante |
 | **toutes les 6 h** | Rafraîchissement Radar | Le stockage plafonne vers **35** — le vider |
-| **0 / 6 / 12 / 18** | World Boss (**lun · jeu · dim**), 3 h à chaque fois | 5 attaques, seule la meilleure compte |
+| **0 / 6 / 12 / 18** | World Boss (**lun · jeu · dim** ; **tous les jours en semaine SvS**), 3 h à chaque fois | 5 attaques, seule la meilleure compte |
 | **0 / 6 / 12** | Apparitions du Frenzied Boss | **À 24h00 tous les boss non vaincus s'enfuient** |
 | **~23h30** | L'Alliance Boss démarre automatiquement si R4/R5 n'a fixé aucune heure | R4/R5 : fixer l'heure quand l'alliance est en ligne |
 
@@ -68,7 +68,7 @@ Presque tous les manuels disent la même chose à leur façon : la valeur est da
 
 Le Region Duel se superpose à la semaine sans la remplacer :
 
-- **Concours de points lun–ven.** Le World Boss fait tout le jeu : jusqu'à **+400 000 points de région par jour**, contre +30 000 pour une victoire en Alliance Duel et +2 000 pour la 1re place en Arms Race. Dans la fenêtre du concours, seuls **lun et jeu** sont des jours de boss (celui du dimanche tombe en dehors) — ces deux jours-là, tout le reste passe après.
+- **Concours de points lun–ven.** Le World Boss fait tout le jeu : jusqu'à **+400 000 points de région par jour**, contre +30 000 pour une victoire en Alliance Duel et +2 000 pour la 1re place en Arms Race. **En semaine SvS, le World Boss apparaît tous les jours**, pas seulement lun/jeu/dim — c'est donc une obligation quotidienne du lundi au vendredi, tout le reste passe après.
 - **Règlement le vendredi** — il décide envahisseur contre défenseur.
 - **À partir du samedi, Central City Clash** — le même jour qu'Alliance Duel « Defeat Enemies » et Alliance Raid. Chaque membre a besoin de **50 000 points personnels** pour la récompense de série de victoires.
 
