@@ -7,7 +7,7 @@
 - Des **techs en %** s'intercalent entre les blocs d'enhancement : Premium Defense (PV des soldats), Offensive/Defensive Training (ATQ/DÉF), moral, capacité d'hôpital et vitesse de soins.
 - Dès **Super Soldier ≥ 40 %** (plus labo niv. 21), les spécialisations Siege/Defense s'ouvrent (voir le manuel Development).
 
-## 2. Valeurs (exemple palier 1, 10 niveaux chacun)
+## 2. Valeurs (exemple palier 1 — 10 niveaux chacun)
 
 | Tech | Effet niv. 1 → 10 | CP niv. 1 → 10 |
 |------|-------------------|----------------|

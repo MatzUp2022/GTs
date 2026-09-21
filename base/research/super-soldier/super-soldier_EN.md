@@ -7,7 +7,7 @@
 - **%-techs** sit between the enhancement blocks: Premium Defense (soldier HP), Offensive/Defensive Training (ATK/DEF), morale, hospital capacity and healing speed.
 - From **Super Soldier ≥ 40 %** (plus Lab Lv. 21) the Siege/Defense Specializations open (see the Development manual).
 
-## 2. Values (example tier 1, 10 levels each)
+## 2. Values (example tier 1 — 10 levels each)
 
 | Tech | Effect Lv. 1 → 10 | CP Lv. 1 → 10 |
 |------|-------------------|---------------|

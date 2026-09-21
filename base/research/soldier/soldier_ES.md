@@ -6,7 +6,7 @@
   **ATQ de soldados** (balas) + **DEF de soldados** (escudo) → **PV de soldados** (corazón) → **carga** (mochila) — luego el siguiente nivel con las mismas tecnologías a costes mayores.
 - Los primeros bloques tienen 5 niveles; los posteriores, **10 niveles** por tecnología.
 
-## 2. Valores (ejemplo nivel 8, 10 niveles cada uno)
+## 2. Valores (ejemplo nivel 8 — 10 niveles cada uno)
 
 | Tecnología | Efecto nv. 1 → 10 | CP nv. 1 → 10 |
 |------------|-------------------|---------------|
