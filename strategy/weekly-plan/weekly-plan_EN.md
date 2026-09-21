@@ -72,7 +72,7 @@ The Region Duel overlays the week without replacing it:
 - **Friday settlement** decides invader vs. defender.
 - **From Saturday Central City Clash** — same day as Alliance Duel "Defeat Enemies" and Alliance Raid. Every member needs **50,000 personal points** for the win-streak reward.
 
-→ In an SvS week the plan does not change. Only World Boss moves above everything else on Mon, Thu and Sun.
+→ In an SvS week the plan does not change — only the priority does: World Boss moves above everything else, **every day**.
 
 ## 7. Weekly Checklist
 

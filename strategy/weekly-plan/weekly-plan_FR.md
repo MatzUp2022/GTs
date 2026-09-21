@@ -72,7 +72,7 @@ Le Region Duel se superpose à la semaine sans la remplacer :
 - **Règlement le vendredi** — il décide envahisseur contre défenseur.
 - **À partir du samedi, Central City Clash** — le même jour qu'Alliance Duel « Defeat Enemies » et Alliance Raid. Chaque membre a besoin de **50 000 points personnels** pour la récompense de série de victoires.
 
-→ En semaine SvS, le plan ne change pas. Seul le World Boss passe devant tout le reste les lundi, jeudi et dimanche.
+→ En semaine SvS, le plan ne change pas — seule la priorité change : le World Boss passe devant tout le reste, **tous les jours**.
 
 ## 7. Checklist hebdomadaire
 
