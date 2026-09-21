@@ -25,7 +25,9 @@ GTs/
 ├── base/            # Basis & Gebäude (Radar, Tavern, Vehicle)
 │   └── research/    # Research Lab: ein Ordner je Forschungsbaum
 ├── account/         # Profil · Shop · VIP · Hilfe
-└── strategy/        # übertragene Strategien aus verwandten Spielen (kein UI-Element)
+└── strategy/        # kein UI-Element: Wochenplan, übertragene Strategien
+    ├── weekly-plan/        # tages- und uhrzeitgenauer Plan über alle Events
+    └── last-war-transfer/  # aus verwandten Spielen übertragen, unverifiziert
 ```
 
 Ein Manual liegt immer als Ordner mit vier Sprachdateien vor:
