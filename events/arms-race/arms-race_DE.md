@@ -32,6 +32,7 @@
 
 - **Nichts nebenbei verbrauchen:** Speedups, Bauaufträge, Rekrutierung und Forschung **bis zur passenden Phase aufsparen** und dann geballt zünden.
 - Große Vorhaben (teure Forschung, langer Ausbau) auf die Phase legen, in der sie Punkte bringen.
+- **Überschneidung mit dem Alliance Duel:** Di–Fr passen die Phasen um 8:00 und 20:00 zum Alliance-Duel-Thema des Tages — eine Ausgabe zählt in beidem. Siehe [Wochenplan](https://github.com/MatzUp2022/GTs/blob/main/strategy/weekly-plan/weekly-plan_DE.md).
 - **SvS-relevant:** Arms-Race-Aktionen zählen im SvS mit — große Ausgaben so timen, dass sie Arms Race **und** SvS gleichzeitig bedienen.
 
 ## 5. Tages-Checkliste

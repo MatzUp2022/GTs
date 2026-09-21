@@ -7,6 +7,7 @@
 - Composition **réservée à l'événement**, pas l'escouade de rally standard.
 - **Aligner cinq héros de la même faction :** le bonus mono-faction ajoute +20 % PV/ATQ/DÉF par-dessus — avec le buff du jour, la combinaison la plus forte.
 - **Calendrier :** lun, jeu & dim — apparition à 0h00, 6h00, 12h00 et 18h00 (heure serveur), actif **3 heures** à chaque fois.
+- **Pendant une semaine SvS, le boss apparaît tous les jours** — c'est ce qui en fait la source de points dominante de toute la semaine.
 - **Prérequis :** base niveau 8+. Attaques **en solo — pas de rally**.
 
 ## 2. Économie des attaques

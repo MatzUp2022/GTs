@@ -49,7 +49,7 @@ Rarität, Fraktion und Rolle stehen im Spiel im *Hero*-Tab (Buchstabe links oben
 |-------|---------|
 | Forest Ambush | 512 % ATK als Energy DMG, Einzelziel (Sterne: +30→270 % extra) |
 | Jungle Rage | Passiv: eigener Energy DMG +28 % (je Stern +3 %) |
-| Phantom Volley (CS) | 8 Angriffe à 117 % auf Zufallsziele (Sterne: bis 16 Angriffe + DMG) |
+| Phantom Volley (CS) | 8 Angriffe à 117 % auf Zufallsziele (Sterne: 12, dann 16 Angriffe + DMG) |
 
 ## Viper — Doomsday Blossom (S+ · Guardian · Verteidigung)
 

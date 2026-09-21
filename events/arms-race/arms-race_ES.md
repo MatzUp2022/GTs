@@ -32,6 +32,7 @@
 
 - **No gastar nada fuera de fase:** guardar aceleraciones, construcciones, reclutamiento e investigación **para la fase correspondiente** y soltarlo todo de golpe.
 - Programar los proyectos grandes (investigación cara, construcción larga) en la fase en la que puntúan.
+- **Solapamiento con el Alliance Duel:** de martes a viernes las fases de 8:00 y 20:00 coinciden con el tema del Alliance Duel del día — un gasto puntúa en ambos. Ver el [plan semanal](https://github.com/MatzUp2022/GTs/blob/main/strategy/weekly-plan/weekly-plan_ES.md).
 - **Relevante para el SvS:** las acciones del Arms Race también cuentan en el SvS — sincronizar los gastos grandes para que sirvan al Arms Race **y** al SvS a la vez.
 
 ## 5. Lista diaria

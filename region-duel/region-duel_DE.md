@@ -56,7 +56,7 @@
 
 ## 6. Checkliste
 
-- [ ] Mo–Fr: World Boss täglich voll gespielt (größte Punktquelle)
+- [ ] Mo–Fr: World Boss täglich voll gespielt — **im SvS läuft er jeden Tag** (größte Punktquelle)
 - [ ] Alliance Duel & Arms Race auf Sieg gespielt
 - [ ] Gegnerische Trucks geplündert
 - [ ] Sa: 50.000 persönliche Punkte für die Win-Streak-Belohnung geholt

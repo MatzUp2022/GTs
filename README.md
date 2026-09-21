@@ -14,7 +14,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 | Manual | What matters | Languages |
 |--------|--------------|-----------|
-| **World Boss** | Mon/Thu/Sun at 0:00/6:00/12:00/18:00, 3 h each · solo from base Lv. 8 · 5 hits, only the strongest counts · stack all buffs on the max run | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
+| **World Boss** | Mon/Thu/Sun at 0:00/6:00/12:00/18:00 — **daily during SvS** — 3 h each · solo from base Lv. 8 · 5 hits, only the strongest counts · stack all buffs on the max run | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/world-boss/world-boss_ES.md) |
 | **Frenzied Boss** | 3 portal bosses (0:00/6:00/12:00), they flee at 24:00 · only your 3 strongest attempts count · weaknesses: Guardian/Ranger/Berserker | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/frenzied-boss/frenzied-boss_ES.md) |
 | **Arms Race** | 6 phases of 4 h, 7-day rotation · save speedups for the matching phase · **SvS-relevant** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/arms-race/arms-race_ES.md) |
 | **Storm Rescue** | 5 stages, exiting = restart from stage 1 · **3 stages are enough for all rewards** | [EN](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/events/storm-rescue/storm-rescue_ES.md) |
@@ -29,9 +29,9 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 
 | Day | Focus | Manual |
 |-----|-------|--------|
-| Mon–Fri | Play World Boss in full every day (up to +400,000/day) | World Boss · Region Duel |
+| Mon–Fri | Play World Boss in full every day — **in an SvS week it runs daily** (up to +400,000/day) | World Boss · Region Duel |
 | Mon–Fri | Hit the Arms Race phases, time radar storage & speedups | Arms Race · Radar |
-| Mon–Fri | Win the Alliance Duel (+30,000) | Region Duel · Research: Alliance Duel |
+| Mon–Sat | Win the Alliance Duel (+30,000, MVP +6,000) | Alliance Duel · Research: Alliance Duel |
 | Fri | Settlement: more points = invader | Region Duel |
 | From Sat | Central City Clash · kills at Central City/Giant Battery (+54) | Region Duel |
 
@@ -56,6 +56,7 @@ Repo: <https://github.com/MatzUp2022/GTs/tree/main>
 | Manual | What matters | Languages |
 |--------|--------------|-----------|
 | **Alliance Boss** | Min. 20 members, 30 min battle · rally attacks only · the MVP multiplies the rewards ×1–10 | [EN](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-boss/alliance-boss_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-boss/alliance-boss_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-boss/alliance-boss_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-boss/alliance-boss_ES.md) |
+| **Alliance Duel (VS)** | 6 themed days, **13 win points** — Saturday alone is worth 4 · 1 radar mission = 25,000 points · save low-level soldiers for Day 5 | [EN](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-duel/alliance-duel_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-duel/alliance-duel_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-duel/alliance-duel_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/alliance/alliance-duel/alliance-duel_ES.md) |
 | **Top Alliance** | Rating Temporary → Top · 3 stars = promotion · **claim the daily rewards or they reset** | [EN](https://github.com/MatzUp2022/GTs/blob/main/alliance/top-alliance/top-alliance_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/alliance/top-alliance/top-alliance_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/alliance/top-alliance/top-alliance_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/alliance/top-alliance/top-alliance_ES.md) |
 
 ## Leave None — **Leave None** button (bottom bar)
@@ -111,11 +112,12 @@ Keep both slots busy at all times. **Completions score +1 point per tech CP in t
 
 ---
 
-## Cross-game strategy
+## Strategy — no UI element
 
 | Manual | What matters | Languages |
 |--------|--------------|-----------|
-| **Transferred strategy** | No public Last Light guides exist — these are rules from **Last War: Survival**, whose event systems match ours almost one to one · timing beats spending · speedup stockpile targets · **unverified for Last Light** | [EN](https://github.com/MatzUp2022/GTs/blob/main/strategy/strategy_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/strategy/strategy_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/strategy/strategy_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/strategy/strategy_ES.md) |
+| **Weekly Plan** | Which day, which hour · two logins at **8:00 and 20:00** cover it · the double-scoring window Arms Race × Alliance Duel (Tue–Fri) · SvS handled as optional | [EN](https://github.com/MatzUp2022/GTs/blob/main/strategy/weekly-plan/weekly-plan_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/strategy/weekly-plan/weekly-plan_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/strategy/weekly-plan/weekly-plan_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/strategy/weekly-plan/weekly-plan_ES.md) |
+| **Transferred strategy** | No public Last Light guides exist — these are rules from **Last War: Survival**, whose event systems match ours almost one to one · timing beats spending · speedup stockpile targets · **unverified for Last Light** | [EN](https://github.com/MatzUp2022/GTs/blob/main/strategy/last-war-transfer/last-war-transfer_EN.md) · [DE](https://github.com/MatzUp2022/GTs/blob/main/strategy/last-war-transfer/last-war-transfer_DE.md) · [FR](https://github.com/MatzUp2022/GTs/blob/main/strategy/last-war-transfer/last-war-transfer_FR.md) · [ES](https://github.com/MatzUp2022/GTs/blob/main/strategy/last-war-transfer/last-war-transfer_ES.md) |
 
 ---
 
@@ -139,7 +141,8 @@ GTs/
 │   ├── alliance-boss/ └── top-alliance/
 ├── minigames/       # "Leave None" button
 ├── adventure/       # stage campaign & AFK income
-├── strategy/        # cross-game strategy, not tied to a UI element
+├── strategy/        # not tied to a UI element
+│   ├── weekly-plan/ └── last-war-transfer/
 ├── base/            # base & buildings
 │   ├── radar/  ├── tavern/  ├── vehicle/  ├── crafting/
 │   └── research/    # Research Lab

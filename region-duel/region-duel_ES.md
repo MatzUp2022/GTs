@@ -56,7 +56,7 @@
 
 ## 6. Lista de control
 
-- [ ] Lun–vie: World Boss jugado al completo cada día (mayor fuente de puntos)
+- [ ] Lun–vie: World Boss jugado al completo cada día — **durante el SvS aparece a diario** (mayor fuente de puntos)
 - [ ] Alliance Duel y Arms Race jugados para ganar
 - [ ] Camiones enemigos saqueados
 - [ ] Sáb: 50.000 puntos personales para la recompensa de racha

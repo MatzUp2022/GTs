@@ -8,7 +8,7 @@
 |---------|--------------------|-------------------------------|
 | Arms Race | 6 fases de 4 h, reinicio a las 0:00 (hora del servidor) | **idéntico** |
 | Temas de fase | Hero Advancement · City Building · Unit Progression · Tech Research · **Drone Boost** | Boost Heroes · Construct City · Expand Army · Research Tech · **Boost Vehicles** |
-| Duelo de alianza | 6 días temáticos lun–sáb | Region Duel lun–vie + incentivos del Alliance Duel (bajas, entrenamiento, construcción, investigación, radar, aceleración, reclutamiento) |
+| Duelo de alianza | 6 días temáticos lun–sáb | **Nuestro Alliance Duel — misma estructura, ya documentada** (lun–sáb, 13 puntos de victoria) |
 | Energía | guardarla para la fase de drones | autocompletar del radar, 10 por misión |
 
 → Salvo por los nombres, los sistemas se corresponden uno a uno — el dron equivale funcionalmente a nuestro **vehículo**.
@@ -46,7 +46,7 @@
 ## 5. Lo que **no** se transfiere
 
 - Valores de puntos, nombres de héroes, tier lists y tablas de recompensas — Last Light tiene su propia plantilla (26 héroes) y sus propias cifras, recogidas en la base de héroes y los manuales de evento.
-- La semana de duelo de Last War (lun–sáb, 12 puntos de victoria) difiere de nuestro Region Duel (puntos lun–vie, clash desde el sábado).
+- **Superado:** antes se comparaba con el Region Duel. La semana de duelo de Last War (lun–sáb, 12 puntos de victoria) es en realidad el equivalente de **nuestro propio Alliance Duel** (lun–sáb, 13 puntos de victoria), ya documentado a partir de datos del juego — usar ese manual, no esta transferencia.
 
 ## 6. Fuentes
 
