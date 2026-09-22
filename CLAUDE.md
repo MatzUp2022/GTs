@@ -54,6 +54,8 @@ Bereiche mit nur einem Manual (z. B. `region-duel/`, `minigames/`) enthalten die
 5. **Stil:** knapp, tabellarisch, keine Fülltexte. Konkrete Zahlen und Punktwerte statt allgemeiner Tipps. Zielumfang pro Manual: eine Bildschirmseite.
 6. **Aufbau eines Manuals:** Grundregeln → Ressourcen-/Versuchsökonomie → empfohlener Ablauf (Tabelle) → Kopplung an übergeordnete Events (SvS etc.) → Checkliste zum Abhaken.
 7. **Spielmechaniken nicht erfinden.** Werte, Boni und Punktzahlen nur übernehmen, wenn sie vom Nutzer genannt oder belegt sind. Unklares markieren statt schätzen.
+8. **Lizenz.** Der Text des Repos steht unter **CC BY 4.0** (`LICENSE`). Neue Inhalte werden unter derselben Lizenz beigesteuert.
+   Die Lizenz deckt **unseren Text**, nicht das Spiel: Name, Grafiken, Oberfläche und Inhalte von *Last Light* gehören ihren Eigentümern — hier wird nur darüber berichtet. Das Repo ist ein inoffizielles Fan-Projekt. Keine Spiel-Assets (Screenshots, Artwork, Icons) ins Repo einchecken.
 
 ## Typische Aufgaben
 

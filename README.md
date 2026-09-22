@@ -173,4 +173,33 @@ Video guides by [Happy Khoj](https://www.youtube.com/@happykhoj6786). They are l
 
 ## Contributing
 
-Corrections and new manuals via pull request. When changing a manual, please update **all four language versions** so they don't drift apart.
+Corrections and new manuals via pull request. When changing a manual, please update **all eight language versions** so they don't drift apart. By contributing you agree to publish your contribution under the same licence (CC BY 4.0).
+
+---
+
+## License
+
+The manuals in this repository are published under the
+**[Creative Commons Attribution 4.0 International licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)** —
+see [`LICENSE`](https://github.com/MatzUp2022/GTs/blob/main/LICENSE) for the full legal code.
+
+You may **copy, share, adapt and build on** this material, for any purpose including commercially,
+as long as you **give credit**. That is deliberate: these texts exist to be pasted into alliance
+chats and Discord servers.
+
+Suggested attribution:
+
+> GTs — *Last Light* Best Practise Manuals · https://github.com/MatzUp2022/GTs · CC BY 4.0
+
+*(The licence deed at the link above displays in your own language; the English legal code is the authoritative version.)*
+
+### What the licence covers — and what it does not
+
+It covers **our text**: the wording, structure, tables, checklists and conclusions written here.
+
+It does **not** cover *Last Light* itself. The game, its name, its artwork, its interface and its
+content belong to their respective owners. This is an **unofficial fan project**, not affiliated
+with or endorsed by the makers of the game. Game values quoted here — timings, point tables,
+hero data — are facts about the game reported for reference; they are not ours to license.
+
+© 2026 MatzUp2022 and contributors (alliance **GTs**)
