@@ -30,6 +30,8 @@
 
 ## 4. Central City Clash（土曜から）
 
+> **[Central City Battle](https://github.com/MatzUp2022/GTs/blob/main/events/central-city-battle/central-city-battle_JP.md) と混同しないこと** — こちらは週1回8時間の争奪で、Lv. 6 都市を持つ同盟が Central City を争い、勝った同盟のリーダーが Governor になる。下記の土曜の clash が SvS週における同じイベントなのかは**[推測]** — その手引きを参照。
+
 **個人ポイントの獲得源（抜粋）:**
 
 | 行動 | ポイント |

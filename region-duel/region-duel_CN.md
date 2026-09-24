@@ -30,6 +30,8 @@
 
 ## 4. Central City Clash（周六起）
 
+> **不要与 [Central City Battle](https://github.com/MatzUp2022/GTs/blob/main/events/central-city-battle/central-city-battle_CN.md) 混淆** — 后者是每周一次、持续 8 小时的争夺，由持有 6 级城市的联盟争抢 Central City，获胜方盟主成为 Governor。下面周六的 clash 是否就是 SvS 周里的同一个活动，属于**[推测]** — 详见该手册。
+
 **个人积分来源（节选）：**
 
 | 行为 | 积分 |
