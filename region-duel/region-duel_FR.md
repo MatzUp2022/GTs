@@ -30,6 +30,8 @@
 
 ## 4. Central City Clash (dès samedi)
 
+> **À ne pas confondre avec [Central City Battle](https://github.com/MatzUp2022/GTs/blob/main/events/central-city-battle/central-city-battle_FR.md)** — la lutte hebdomadaire de 8 heures où les alliances possédant une ville niv. 6 se disputent la Central City, le chef du vainqueur devenant Governor. Que le clash du samedi ci-dessous soit ce même événement pendant une semaine SvS reste une **[hypothèse]** — voir ce manuel.
+
 **Sources de points personnels (extrait) :**
 
 | Action | Points |

@@ -7,7 +7,7 @@
 - Entre los bloques de enhancement hay **tecnologías en %**: Premium Defense (PV de soldados), Offensive/Defensive Training (ATQ/DEF), moral, capacidad de hospital y velocidad de curación.
 - Desde **Super Soldier ≥ 40 %** (más laboratorio nv. 21) se abren las especializaciones Siege/Defense (ver el manual de Development).
 
-## 2. Valores (ejemplo nivel 1, 10 niveles cada uno)
+## 2. Valores (ejemplo nivel 1 — 10 niveles cada uno)
 
 | Tecnología | Efecto nv. 1 → 10 | CP nv. 1 → 10 |
 |------------|-------------------|---------------|

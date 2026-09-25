@@ -6,7 +6,7 @@
   **ATQ des soldats** (balles) + **DÉF des soldats** (bouclier) → **PV des soldats** (cœur) → **charge** (sac à dos) — puis le palier suivant avec les mêmes techs à coûts plus élevés.
 - Les premiers blocs ont 5 niveaux, les suivants **10 niveaux** par tech.
 
-## 2. Valeurs (exemple palier 8, 10 niveaux chacun)
+## 2. Valeurs (exemple palier 8 — 10 niveaux chacun)
 
 | Tech | Effet niv. 1 → 10 | CP niv. 1 → 10 |
 |------|-------------------|----------------|

@@ -6,7 +6,7 @@
   **soldier ATK** (bullets) + **soldier DEF** (shield) → **soldier HP** (heart) → **load** (backpack) — then the next tier with the same techs at higher costs.
 - Early blocks have 5, later ones **10 levels** per tech.
 
-## 2. Values (example tier 8, 10 levels each)
+## 2. Values (example tier 8 — 10 levels each)
 
 | Tech | Effect Lv. 1 → 10 | CP Lv. 1 → 10 |
 |------|-------------------|---------------|

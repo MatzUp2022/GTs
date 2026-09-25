@@ -69,10 +69,11 @@ Almost every manual says the same thing in its own words: value lies in the timi
 The Region Duel overlays the week without replacing it:
 
 - **Mon–Fri points contest.** World Boss is the whole game: up to **+400,000 region points per day**, against +30,000 for an Alliance Duel win and +2,000 for Arms Race rank 1. **In an SvS week the World Boss runs every day**, not just Mon/Thu/Sun — so it is a daily duty from Monday to Friday and everything else steps back.
+- **Energy Clash does not run in an SvS week** — the two never overlap, so the plan only ever serves one of them.
 - **Friday settlement** decides invader vs. defender.
 - **From Saturday Central City Clash** — same day as Alliance Duel "Defeat Enemies" and Alliance Raid. Every member needs **50,000 personal points** for the win-streak reward.
 
-→ In an SvS week the plan does not change. Only World Boss moves above everything else on Mon, Thu and Sun.
+→ In an SvS week the plan does not change — only the priority does: World Boss moves above everything else, **every day**.
 
 ## 7. Weekly Checklist
 

@@ -69,10 +69,11 @@ Casi todos los manuales dicen lo mismo con sus propias palabras: el valor está 
 El Region Duel se superpone a la semana sin sustituirla:
 
 - **Competición de puntos lun–vie.** El World Boss lo es todo: hasta **+400.000 puntos de región al día**, frente a +30.000 por una victoria en el Alliance Duel y +2.000 por el puesto 1 en Arms Race. **En una semana de SvS el World Boss aparece a diario**, no solo lun/jue/dom — es obligación diaria de lunes a viernes y todo lo demás pasa a segundo plano.
+- **En una semana de SvS no hay Energy Clash** — nunca se solapan, así que el plan solo atiende a uno de los dos.
 - **Liquidación el viernes** — decide invasor contra defensor.
 - **Desde el sábado, Central City Clash** — el mismo día que el Alliance Duel «Defeat Enemies» y el Alliance Raid. Cada miembro necesita **50.000 puntos personales** para la recompensa de racha de victorias.
 
-→ En una semana de SvS el plan no cambia. Solo el World Boss se coloca por encima de todo lo demás los lunes, jueves y domingos.
+→ En una semana de SvS el plan no cambia — solo cambia la prioridad: el World Boss se coloca por encima de todo lo demás, **a diario**.
 
 ## 7. Lista semanal
 
