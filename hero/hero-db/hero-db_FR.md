@@ -260,7 +260,7 @@ La rareté, la faction et le rôle figurent dans l'onglet *Hero* (lettre en haut
 | Fire Assault | 105 % de l'ATQ en physique, cible unique |
 | Infinite Firepower (éveil) | PV/ATQ/DÉF +5 % — dès 4★ |
 
-- Les héros A n'ont **que deux compétences de combat** et aucun bonus contre les monstres ; leur atout est la zone sur 2 cibles (3 dès la deuxième étoile).
+- Les héros A n'ont **que deux compétences de combat** et aucun bonus contre les monstres ; leur atout est la zone sur 2 cibles (3 dès la 2e étoile).
 
 ## Notes d'utilisation
 

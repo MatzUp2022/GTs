@@ -10,7 +10,7 @@
 - Les missions de promotion inachevées se réinitialisent à **0h00 (heure serveur)**.
 - **Toutes les missions faites = 1 étoile** ; à **3 étoiles**, le rating peut augmenter.
 - Après une étoile, les nouvelles missions ne se débloquent que **le lendemain**.
-- Une fois terminées, **tous les membres** peuvent réclamer les récompenses — après la promotion, elles **expirent** ; chaque personnage ne peut réclamer qu'**une seule** récompense de promotion.
+- Une fois terminées, **tous les membres** peuvent réclamer les récompenses — après la promotion, elles **expirent** ; chaque personnage ne peut réclamer qu'**1 seule** récompense de promotion.
 
 ## 3. Missions quotidiennes de Top Alliance (exemples)
 

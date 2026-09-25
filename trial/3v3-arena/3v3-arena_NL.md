@@ -32,7 +32,7 @@
 | 21–40 | 3 geschenken · 900 stamina · 13K · 3.000 diamanten |
 | 41–70 | 2 · 850 · 12K · 3.000 diamanten |
 
-- **Alliantiebeloningen:** allianties met commanders in de top 10 krijgen aan het eind extra beloningen (elke trede maar één keer; plaats 1 o.a. 1.000 stamina + een kist van 150).
+- **Alliantiebeloningen:** allianties met commanders in de top 10 krijgen aan het eind extra beloningen (elke trede maar 1×; plaats 1 o.a. 1.000 stamina + een kist van 150).
 
 ## 5. Checklist
 

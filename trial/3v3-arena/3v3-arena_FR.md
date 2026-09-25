@@ -32,7 +32,7 @@
 | 21–40 | 3 cadeaux · 900 endurance · 13K · 3 000 diamants |
 | 41–70 | 2 · 850 · 12K · 3 000 diamants |
 
-- **Récompenses d'alliance :** les alliances comptant des commandants du top 10 reçoivent des récompenses supplémentaires à la fin (chaque palier une seule fois ; rang 1 dont 1 000 endurance + un coffre 150).
+- **Récompenses d'alliance :** les alliances comptant des commandants du top 10 reçoivent des récompenses supplémentaires à la fin (chaque palier 1× seulement ; rang 1 dont 1 000 endurance + un coffre 150).
 
 ## 5. Checklist
 

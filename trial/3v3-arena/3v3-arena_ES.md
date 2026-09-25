@@ -32,7 +32,7 @@
 | 21–40 | 3 regalos · 900 energía · 13K · 3.000 diamantes |
 | 41–70 | 2 · 850 · 12K · 3.000 diamantes |
 
-- **Recompensas de alianza:** las alianzas con comandantes en el top 10 reciben recompensas extra al final (cada nivel solo una vez; el puesto 1 incl. 1.000 de energía + un cofre de 150).
+- **Recompensas de alianza:** las alianzas con comandantes en el top 10 reciben recompensas extra al final (cada nivel solo 1×; el puesto 1 incl. 1.000 de energía + un cofre de 150).
 
 ## 5. Lista de control
 

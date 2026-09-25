@@ -46,6 +46,8 @@ Bereiche mit nur einem Manual (z. B. `region-duel/`, `minigames/`) enthalten die
 
 1. **Acht Sprachen, immer synchron.** Jedes Manual existiert als EN, DE, FR, ES, NL, RU, JP, CN. Wird eine Fassung geändert, werden alle acht angepasst — keine inhaltlichen Abweichungen zwischen den Sprachen.
    Spiel-UI-Begriffe (Event-, Skill-, Helden- und Gebäudenamen) bleiben in allen Sprachen englisch, weil der Client englisch ist. Übersetzt wird der erklärende Text, nicht das, was im Spiel auf dem Button steht.
+   Prüfen mit `python3 tools/check-languages.py` — vergleicht Vollständigkeit, Struktur (Überschriften, Tabellenzeilen, Checkboxen) und alle Zahlenwerte über die acht Fassungen. Zahlen werden vorher normalisiert, `25,000` / `25.000` / `25 000` gelten als derselbe Wert. Exit-Code ≠ 0 bei Abweichung.
+   **Zahlen als Ziffer schreiben, nicht als Wort** — „1×/Tag", nicht „einmal täglich". Sonst meldet die Prüfung Unterschiede, die keine sind.
 2. **Namenskonvention:** `<slug>_<SPRACHCODE>.md`, Slug in Kleinbuchstaben mit Bindestrich (`world-boss`, `alliance-duel`). Sprachcodes: EN, DE, FR, ES, NL, RU, JP, CN (JP/CN statt ISO ja/zh — so vom Nutzer festgelegt; CN = vereinfachtes Chinesisch).
 3. **Einsortieren nach Spiel-UI.** Ein neues Manual kommt in den Bereich, über dessen Button oder Gebäude man das Thema im Spiel erreicht. Passt nichts, wird ein neuer Top-Level-Bereich mit dem Namen des UI-Elements angelegt.
    Ausnahme: Inhalte ohne UI-Entsprechung (z. B. aus anderen Spielen übertragene Strategien) gehören nach `strategy/` und müssen **als unverifiziert gekennzeichnet** sein.
@@ -61,5 +63,5 @@ Bereiche mit nur einem Manual (z. B. `region-duel/`, `minigames/`) enthalten die
 
 - Neues Manual anlegen (alle acht Sprachen + README-Zeile im passenden Bereich)
 - Bestehendes Manual nach Balance-Änderung aktualisieren (alle acht Sprachen)
-- Sprachfassungen auf Abweichungen prüfen
+- Sprachfassungen auf Abweichungen prüfen (`python3 tools/check-languages.py`, mit `-v` auch die einstelligen JP/CN-Notizen)
 - Helden-Datenbank (`hero/hero-db/`) um weitere Helden ergänzen

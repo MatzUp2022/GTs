@@ -260,7 +260,7 @@ La rareza, la facción y el rol aparecen en la pestaña *Hero* (letra arriba a l
 | Fire Assault | 105 % del ATQ físico, objetivo único |
 | Infinite Firepower (despertar) | PV/ATQ/DEF +5 % — desde 4★ |
 
-- Los héroes A tienen **solo dos habilidades de combate** y ningún bono contra monstruos; su fuerte es el área sobre 2 objetivos (3 desde la segunda estrella).
+- Los héroes A tienen **solo dos habilidades de combate** y ningún bono contra monstruos; su fuerte es el área sobre 2 objetivos (3 desde la 2.ª estrella).
 
 ## Notas de uso
 

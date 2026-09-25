@@ -32,7 +32,7 @@
 | 21–40 | 3 gifts · 900 stamina · 13K · 3,000 diamonds |
 | 41–70 | 2 · 850 · 12K · 3,000 diamonds |
 
-- **Alliance rewards:** alliances with top-10 commanders receive extra rewards at the end (each tier only once; rank 1 incl. 1,000 stamina + a 150 chest).
+- **Alliance rewards:** alliances with top-10 commanders receive extra rewards at the end (each tier only 1×; rank 1 incl. 1,000 stamina + a 150 chest).
 
 ## 5. Checklist
 

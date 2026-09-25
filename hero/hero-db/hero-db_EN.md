@@ -260,7 +260,7 @@ Rarity, faction and role show in the *Hero* tab (letter top left, two icons unde
 | Fire Assault | 105 % ATK physical, single target |
 | Infinite Firepower (awakening) | HP/ATK/DEF +5 % — from 4★ |
 
-- A heroes have **only two combat skills** and no monster bonus; their strength is the AoE on 2 (3 from the second star) targets.
+- A heroes have **only two combat skills** and no monster bonus; their strength is the AoE on 2 (3 from the 2nd star) targets.
 
 ## Usage Notes
 

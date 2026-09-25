@@ -24,7 +24,7 @@
 | Gather Resources | 19,95 % | Rare 9,98 · Epic 5,98 · Legendary 3,99 % |
 | Excavation Mission | 0,24 % | Legendary uniquement ; dès radar niv. 6 |
 
-**Une seule fois par jour :** Eliminate Elite Zombie · Defeat Elite Zombie (chacune Rare 60 / Epic 30 / Legendary 10 %) · Kill a Zombie Overlord (Epic 80 / Legendary 20 % ; radar niv. 7 + base niv. 15 requis) · Rescue a Resistance Force (60/30/10 %).
+**1×/jour uniquement :** Eliminate Elite Zombie · Defeat Elite Zombie (chacune Rare 60 / Epic 30 / Legendary 10 %) · Kill a Zombie Overlord (Epic 80 / Legendary 20 % ; radar niv. 7 + base niv. 15 requis) · Rescue a Resistance Force (60/30/10 %).
 
 ## 4. Stratégie SvS : accumuler jusqu'à l'événement
 

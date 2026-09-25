@@ -260,7 +260,7 @@ Zeldzaamheid, factie en rol staan in de *Hero*-tab (letter linksboven, twee icon
 | Fire Assault | 105 % ATK fysiek, enkel doel |
 | Infinite Firepower (awakening) | HP/ATK/DEF +5 % — vanaf 4★ |
 
-- A-helden hebben **maar twee gevechtsskills** en geen monsterbonus; hun kracht is de AoE op 2 (vanaf de tweede ster 3) doelen.
+- A-helden hebben **maar twee gevechtsskills** en geen monsterbonus; hun kracht is de AoE op 2 (vanaf de 2e ster 3) doelen.
 
 ## Gebruiksaanwijzingen
 

@@ -30,7 +30,7 @@
 
 ## 4. Central City Clash (с субботы)
 
-> **Не путать с [Central City Battle](https://github.com/MatzUp2022/GTs/blob/main/events/central-city-battle/central-city-battle_RU.md)** — еженедельной восьмичасовой борьбой, в которой альянсы с городом ур. 6 сражаются за Central City, а лидер победителя становится Governor. Является ли субботний clash ниже тем же событием в неделю SvS — **[предположение]**; см. то руководство.
+> **Не путать с [Central City Battle](https://github.com/MatzUp2022/GTs/blob/main/events/central-city-battle/central-city-battle_RU.md)** — еженедельной 8-часовой борьбой, в которой альянсы с городом ур. 6 сражаются за Central City, а лидер победителя становится Governor. Является ли субботний clash ниже тем же событием в неделю SvS — **[предположение]**; см. то руководство.
 
 **Источники личных очков (выдержка):**
 

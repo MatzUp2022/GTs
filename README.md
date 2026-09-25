@@ -177,6 +177,17 @@ Video guides by [Happy Khoj](https://www.youtube.com/@happykhoj6786). They are l
 
 Corrections and new manuals via pull request. When changing a manual, please update **all eight language versions** so they don't drift apart. By contributing you agree to publish your contribution under the same licence (CC BY 4.0).
 
+Before committing, run the consistency check:
+
+```
+python3 tools/check-languages.py
+```
+
+It verifies that every manual exists in all eight languages and that headings,
+table rows, checkboxes and **every number** match across them — the numbers are
+normalised first, so `25,000`, `25.000` and `25 000` count as the same value.
+It exits non-zero on a mismatch, so it also works as a pre-commit hook.
+
 ---
 
 ## License
