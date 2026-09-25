@@ -69,6 +69,7 @@ Arms Race 走固定的 7 天轮换，Alliance Duel 从周一到周六。**如果
 Region Duel 是叠加在这一周之上，而不是取代它：
 
 - **周一至周五的积分争夺。** World Boss 就是全部：每天最多 **+400,000 区域积分**，相比之下 Alliance Duel 获胜是 +30,000，Arms Race 第 1 名是 +2,000。**SvS 周里 World Boss 每天都出现**，不只是周一/周四/周日 — 也就是说周一到周五天天都是硬任务，其余一切都要让路。
+- **SvS 周里不会有 Energy Clash** — 两者从不重叠，所以计划任何时候只需照顾其中之一。
 - **周五结算**决定谁是进攻方、谁是防守方。
 - **周六起 Central City Clash** — 与 Alliance Duel 的「Defeat Enemies」和 Alliance Raid 同一天。每名成员都需要 **50,000 个人积分**才能拿连胜奖励。
 

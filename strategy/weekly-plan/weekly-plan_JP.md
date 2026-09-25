@@ -69,6 +69,7 @@ Arms Race は7日周期の固定ローテーション、Alliance Duel は月〜�
 Region Duel は週を置き換えるのではなく、上に重なる:
 
 - **月〜金のポイント争奪。** World Boss がすべてを決める: 1日あたり最大 **+400,000 リージョンポイント**。Alliance Duel の勝利は +30,000、Arms Race 1位は +2,000。**SvS週は World Boss が毎日出現する** — 月/木/日だけではない。つまり月曜から金曜まで毎日の義務であり、他のすべてが後回しになる。
+- **SvS週に Energy Clash は開催されない** — 両者は決して重ならないので、プランが同時に両方を抱えることはない。
 - **金曜の清算**で侵攻側と防衛側が決まる。
 - **土曜から Central City Clash** — Alliance Duel の「Defeat Enemies」と Alliance Raid と同じ日。連勝報酬には全員が**個人ポイント 50,000** を要する。
 

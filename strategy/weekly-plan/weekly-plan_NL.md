@@ -69,6 +69,7 @@ Bijna elk manual zegt hetzelfde in eigen woorden: de waarde zit in de timing, ni
 Het Region Duel legt zich over de week zonder haar te vervangen:
 
 - **Puntenstrijd ma–vr.** World Boss is het hele spel: tot **+400.000 regiopunten per dag**, tegenover +30.000 voor een Alliance Duel-overwinning en +2.000 voor Arms Race-plaats 1. **In een SvS-week loopt de World Boss elke dag**, niet alleen ma/do/zo — hij is dus van maandag tot vrijdag verplicht en al het andere wijkt.
+- **In een SvS-week loopt er geen Energy Clash** — de twee overlappen nooit, dus het plan bedient er altijd maar één van.
 - **Afrekening op vrijdag** beslist aanvaller tegen verdediger.
 - **Vanaf zaterdag Central City Clash** — dezelfde dag als Alliance Duel "Defeat Enemies" en Alliance Raid. Elk lid heeft **50.000 persoonlijke punten** nodig voor de winstreekbeloning.
 
