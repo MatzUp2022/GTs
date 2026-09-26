@@ -10,7 +10,7 @@
 | **S** (paars) | Doomsday Potential: HP/ATK/DEF +10 % | +20 → +150 % | 3 |
 | **A** (blauw) | eigen naam per held: HP/ATK/DEF +5 % | +15 → +100 % | 2 |
 
-## Selectieoverzicht (26 helden)
+## Selectieoverzicht (27 helden)
 
 | Held | Zeldzaamheid | Factie | Rol | Skills |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | Valkyra — Speedy Rider | S+ | Berserker | Verdediging | ✓ |
 | Sagitta — Bow of Tomorrow | S+ | Berserker | DMG | ✓ |
 | Sonic — Speed Queen | S+ | Berserker | DMG | ✓ |
+| Rosa — Rose Lady | S+ | Guardian | DMG | ✓ |
 | Clara — Frontline Medic | S | Guardian | Support | ✓ |
 | Cassidy — Western Hunter | S | Guardian | Verdediging | ✓ |
 | Irena — Federal Policewoman | S | Guardian | DMG | ✓ |
@@ -124,6 +125,19 @@ Zeldzaamheid, factie en rol staan in de *Hero*-tab (letter linksboven, twee icon
 | Lightning Drift (CS) | 246 % ATK als energie-DMG op een willekeurig doel (sterren: +30/70/120 %, 4★ +185 %, 5★ +270 %) |
 | Swift Shot | 209 % ATK energie, **richt zich op de achterste rij** |
 | Lightning Speed | Passief: eigen energie-DMG +20 % (+3 % per ster) |
+
+## Rosa — Rose Lady (S+ · Guardian · DMG · niet in bezit)
+
+| Skill | Effect |
+|-------|--------|
+| Killshot Lock (CS) | 614 % energie-DMG op een enkel doel; staat het doel in de voorste rij, dan **spat de schade over op één eenheid in de achterste rij** (sterren: +30/70/120 %, 4★ +185 %, 5★ +270 %) |
+| Twin-Gun Dance (CS) | **3 aanvallen** van 396 % energie op willekeurige vijanden (sterren: +30 %, **4 aanvallen**, +70 %, **5 aanvallen**, +120 %) |
+| Deadly Hunt | Passief: eigen crit +30 % (+3 % per ster) |
+
+- **De enige hier gedocumenteerde held met twee CS-skills** — Killshot Lock en Twin-Gun Dance dragen allebei het CS-embleem; elke andere vermelding heeft er één.
+- **Hoogste critpassief van de selectie:** +30 %, vóór Jessica (+26 %) en Sagitta (+20 %).
+- Voorbeeldwaarden bij Lv. 150 / 5★: **ATK 44,0K · HP 388,0K · DEF 5,2K · soldier capacity 433 · CP 788.715**. Het Hero-tabblad toont die vier waarden ook voor helden die je niet bezit — zo valt de rest van deze database aan te vullen.
+- Factie afgelezen van het torenicoon onder de naam; de Faction Trial, die op factie sorteert, geeft uitsluitsel.
 
 ## Clara — Frontline Medic (S · Guardian · Support)
 
@@ -270,4 +284,5 @@ Zeldzaamheid, factie en rol staan in de *Hero*-tab (letter linksboven, twee icon
 - Meer rollen: **Loki** buft team-ATK (+crit), **Valkyra** tankt via taunt en verlaagt vijandelijke ATK, **Grace** snipet de achterste rij (stun), **Sagitta** maakt doelen met weinig HP af.
 - **Monsterjacht-opstelling:** Cassidy, Eileen en Strike verlagen de ontvangen monsterschade (−21 tot −25 %), Irena en Clara verhogen de uitgedeelde schade — samen het team voor zombierally's, radar-elitemissies en bossfarmen.
 - **S+ en S verdeeld naar doel:** geen enkele S+-held draagt een monsterbonus — 9 van de 12 S-helden wel. De drie uitzonderingen (Noctina, Valkyrie, Leora) hebben in plaats daarvan een vlakke ATK-buff van ruwweg +15 %. S+ zijn de arenakits, S de jachtkits voor World Boss, Frenzied Boss en radar.
-- **Factieverdeling voor de Faction Trial:** Guardian heeft met 12 helden de helft van de selectie, Ranger en Berserker elk 7 — ruim genoeg voor drie trialteams (zie het Faction Trial-manual).
+- **Factieverdeling voor de Faction Trial:** Guardian heeft 13 van de 27 helden, Ranger en Berserker elk 7 — ruim genoeg voor drie trialteams (zie het Faction Trial-manual).
+- **Over alle helden gesorteerd** — wie het hardst slaat, wie het langst standhoudt, wie het meest buft — staat in het manual Heldenranglijst.

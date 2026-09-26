@@ -10,7 +10,7 @@
 | **S**（紫） | Doomsday Potential: HP/ATK/DEF +10 % | +20 → +150 % | 3 |
 | **A**（青） | ヒーローごとに固有名: HP/ATK/DEF +5 % | +15 → +100 % | 2 |
 
-## 手持ち一覧（26体）
+## 手持ち一覧（27体）
 
 | ヒーロー | レアリティ | 陣営 | 役割 | スキル |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | Valkyra — Speedy Rider | S+ | Berserker | 防御 | ✓ |
 | Sagitta — Bow of Tomorrow | S+ | Berserker | DMG | ✓ |
 | Sonic — Speed Queen | S+ | Berserker | DMG | ✓ |
+| Rosa — Rose Lady | S+ | Guardian | DMG | ✓ |
 | Clara — Frontline Medic | S | Guardian | サポート | ✓ |
 | Cassidy — Western Hunter | S | Guardian | 防御 | ✓ |
 | Irena — Federal Policewoman | S | Guardian | DMG | ✓ |
@@ -124,6 +125,19 @@
 | Lightning Drift (CS) | ランダム1体に 246 % ATK のエネルギーDMG（星: +30/70/120 %、4★ +185 %、5★ +270 %） |
 | Swift Shot | 209 % ATK エネルギー、**後列を優先** |
 | Lightning Speed | パッシブ: 自身のエネルギーDMG +20 %（星ごとに +3 %） |
+
+## Rosa — Rose Lady (S+ · Guardian · DMG · 未所持)
+
+| スキル | 効果 |
+|--------|------|
+| Killshot Lock (CS) | 単体に 614 % のエネルギーDMG。対象が前列にいる場合、DMGは**後列1体にも飛び散る**（星: +30/70/120 %、4★ +185 %、5★ +270 %） |
+| Twin-Gun Dance (CS) | ランダムな敵に 396 % エネルギーの**攻撃3回**（星: +30 %、**4回**、+70 %、**5回**、+120 %） |
+| Deadly Hunt | パッシブ: 自身のクリティカル +30 %（星ごとに +3 %） |
+
+- **ここに記録された中で唯一、CSスキルを2つ持つヒーロー** — Killshot Lock と Twin-Gun Dance の両方にCSの印がある。ほかの項目はいずれも1つ。
+- **手持ちで最も高いクリティカルのパッシブ:** +30 %。Jessica（+26 %）と Sagitta（+20 %）を上回る。
+- Lv. 150 / 5★ でのプレビュー値: **ATK 44.0K · HP 388.0K · DEF 5.2K · Soldier Capacity 433 · CP 788,715**。Hero タブは未所持のヒーローでもこの4つの値を表示する — このデータベースの残りはそうやって埋められる。
+- 陣営は名前の下の塔アイコンから読み取ったもの。陣営ごとに並ぶ Faction Trial で確定できる。
 
 ## Clara — Frontline Medic (S · Guardian · サポート)
 
@@ -270,4 +284,5 @@
 - その他の役割: **Loki** はチームATKを上げる（+クリティカル）、**Valkyra** はタウントで受け止めつつ敵ATKを下げる、**Grace** は後列を狙撃（スタン）、**Sagitta** はHPの低い敵を仕留める。
 - **モンスター狩り編成:** Cassidy、Eileen、Strike が被モンスターダメージを下げ（−21〜−25 %）、Irena と Clara が与ダメージを上げる — 合わせてゾンビラリー、レーダーのエリート任務、ボス周回向けの編成になる。
 - **S+ と S は用途で分かれる:** S+ のヒーローは1体もモンスターボーナスを持たず、S は12体中9体が持つ。例外の3体（Noctina、Valkyrie、Leora）は代わりにおよそ +15 % の固定ATKバフを持つ。S+ はアリーナ向けの一式、S は World Boss・Frenzied Boss・レーダー向けの狩猟一式。
-- **Faction Trial 用の陣営配分:** Guardian が12体で手持ちの半分を占め、Ranger と Berserker が各7体 — 3つのトライアル編成には十分足りる（Faction Trial の手引き参照）。
+- **Faction Trial 用の陣営配分:** Guardian が27体中13体を占め、Ranger と Berserker が各7体 — 3つのトライアル編成には十分足りる（Faction Trial の手引き参照）。
+- **全ヒーローを横断して並べたもの** — 誰が一番強く殴り、誰が一番長く耐え、誰が一番バフを盛るか — はヒーロー序列の手引きにある。

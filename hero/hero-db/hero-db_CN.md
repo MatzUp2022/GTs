@@ -10,7 +10,7 @@
 | **S**（紫） | Doomsday Potential：HP/ATK/DEF +10 % | +20 → +150 % | 3 |
 | **A**（蓝） | 每位英雄各有专名：HP/ATK/DEF +5 % | +15 → +100 % | 2 |
 
-## 阵容总览（26 名英雄）
+## 阵容总览（27 名英雄）
 
 | 英雄 | 稀有度 | 阵营 | 定位 | 技能 |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | Valkyra — Speedy Rider | S+ | Berserker | 防御 | ✓ |
 | Sagitta — Bow of Tomorrow | S+ | Berserker | 输出 | ✓ |
 | Sonic — Speed Queen | S+ | Berserker | 输出 | ✓ |
+| Rosa — Rose Lady | S+ | Guardian | 输出 | ✓ |
 | Clara — Frontline Medic | S | Guardian | 辅助 | ✓ |
 | Cassidy — Western Hunter | S | Guardian | 防御 | ✓ |
 | Irena — Federal Policewoman | S | Guardian | 输出 | ✓ |
@@ -124,6 +125,19 @@
 | Lightning Drift (CS) | 对随机 1 个目标造成 246 % ATK 的能量伤害（星级：+30/70/120 %，4★ +185 %，5★ +270 %） |
 | Swift Shot | 209 % ATK 能量伤害，**优先攻击后排** |
 | Lightning Speed | 被动：自身能量伤害 +20 %（每星 +3 %） |
+
+## Rosa — Rose Lady (S+ · Guardian · 输出 · 未获得)
+
+| 技能 | 效果 |
+|------|------|
+| Killshot Lock (CS) | 对单体造成 614 % 的能量伤害；若目标位于前排，伤害会**溅射到后排1个单位**（星级：+30/70/120 %，4★ +185 %，5★ +270 %） |
+| Twin-Gun Dance (CS) | 对随机敌人发动 396 % 能量的**3次攻击**（星级：+30 %，**4次**，+70 %，**5次**，+120 %） |
+| Deadly Hunt | 被动：自身暴击 +30 %（每星 +3 %） |
+
+- **本库中唯一拥有两个 CS 技能的英雄** — Killshot Lock 与 Twin-Gun Dance 都带 CS 标记；其他条目都只有一个。
+- **阵容中最高的暴击被动：** +30 %，高于 Jessica（+26 %）与 Sagitta（+20 %）。
+- Lv. 150 / 5★ 的预览数值：**ATK 44.0K · HP 388.0K · DEF 5.2K · Soldier Capacity 433 · CP 788,715**。Hero 标签页对未获得的英雄同样显示这四个数值 — 本数据库的其余部分正是这样补齐的。
+- 阵营是从名字下方的塔形图标读出的；按阵营分组的 Faction Trial 可以最终确认。
 
 ## Clara — Frontline Medic (S · Guardian · 辅助)
 
@@ -270,4 +284,5 @@
 - 其他定位：**Loki** 提升全队 ATK（+暴击），**Valkyra** 靠嘲讽扛伤并降低敌方 ATK，**Grace** 狙击后排（眩晕），**Sagitta** 收掉残血目标。
 - **猎怪配置：** Cassidy、Eileen 和 Strike 降低受到的怪物伤害（−21 至 −25 %），Irena 和 Clara 提高打出的伤害 — 合起来就是丧尸集结、雷达精英任务和刷 Boss 的队伍。
 - **S+ 与 S 按用途分工：** 没有任何一名 S+ 英雄带对怪加成，而 12 名 S 英雄里有 9 名带。三个例外（Noctina、Valkyrie、Leora）改为带约 +15 % 的固定 ATK 增益。S+ 是竞技场那套，S 是 World Boss、Frenzied Boss 和雷达的猎怪那套。
-- **Faction Trial 的阵营分布：** Guardian 以 12 名占了阵容的一半，Ranger 和 Berserker 各 7 名 — 组三支试炼队伍绰绰有余（见 Faction Trial 手册）。
+- **Faction Trial 的阵营分布：** Guardian 占 27 名中的 13 名，Ranger 和 Berserker 各 7 名 — 组三支试炼队伍绰绰有余（见 Faction Trial 手册）。
+- **横跨全部英雄的排序** — 谁打得最疼、谁扛得最久、谁增益最多 — 见英雄排行手册。

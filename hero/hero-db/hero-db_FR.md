@@ -10,7 +10,7 @@
 | **S** (violet) | Doomsday Potential : PV/ATQ/DÉF +10 % | +20 → +150 % | 3 |
 | **A** (bleu) | nom propre à chaque héros : PV/ATQ/DÉF +5 % | +15 → +100 % | 2 |
 
-## Aperçu du roster (26 héros)
+## Aperçu du roster (27 héros)
 
 | Héros | Rareté | Faction | Rôle | Compétences |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | Valkyra — Speedy Rider | S+ | Berserker | Défense | ✓ |
 | Sagitta — Bow of Tomorrow | S+ | Berserker | Dégâts | ✓ |
 | Sonic — Speed Queen | S+ | Berserker | Dégâts | ✓ |
+| Rosa — Rose Lady | S+ | Guardian | Dégâts | ✓ |
 | Clara — Frontline Medic | S | Guardian | Soutien | ✓ |
 | Cassidy — Western Hunter | S | Guardian | Défense | ✓ |
 | Irena — Federal Policewoman | S | Guardian | Dégâts | ✓ |
@@ -124,6 +125,19 @@ La rareté, la faction et le rôle figurent dans l'onglet *Hero* (lettre en haut
 | Lightning Drift (CS) | 246 % de l'ATQ en dégâts d'énergie sur une cible aléatoire (étoiles : +30/70/120 %, 4★ +185 %, 5★ +270 %) |
 | Swift Shot | 209 % de l'ATQ en énergie, **priorise la ligne arrière** |
 | Lightning Speed | Passif : ses dégâts d'énergie +20 % (+3 % par étoile) |
+
+## Rosa — Rose Lady (S+ · Guardian · Dégâts · non obtenue)
+
+| Compétence | Effet |
+|------------|-------|
+| Killshot Lock (CS) | 614 % de dégâts d'énergie sur une cible unique ; si la cible est en ligne avant, les dégâts **éclaboussent une unité de la ligne arrière** (étoiles : +30/70/120 %, 4★ +185 %, 5★ +270 %) |
+| Twin-Gun Dance (CS) | **3 attaques** à 396 % d'énergie sur des ennemis aléatoires (étoiles : +30 %, **4 attaques**, +70 %, **5 attaques**, +120 %) |
+| Deadly Hunt | Passif : critique propre +30 % (+3 % par étoile) |
+
+- **La seule héroïne documentée ici avec deux compétences CS** — Killshot Lock et Twin-Gun Dance portent toutes deux le badge CS ; toutes les autres entrées n'en ont qu'une.
+- **Meilleur passif de critique du roster :** +30 %, devant Jessica (+26 %) et Sagitta (+20 %).
+- Valeurs d'aperçu au Lv. 150 / 5★ : **ATQ 44,0K · PV 388,0K · DÉF 5,2K · capacité de soldats 433 · CP 788 715**. L'onglet Hero affiche ces quatre valeurs même pour les héros que l'on ne possède pas — c'est ainsi que le reste de cette base se remplit.
+- Faction lue sur l'icône de tour sous le nom ; le Faction Trial, qui trie par faction, tranche définitivement.
 
 ## Clara — Frontline Medic (S · Guardian · Soutien)
 
@@ -270,4 +284,5 @@ La rareté, la faction et le rôle figurent dans l'onglet *Hero* (lettre en haut
 - Autres rôles : **Loki** buffe l'ATQ d'équipe (+crit), **Valkyra** tanke par provocation et baisse l'ATQ ennemie, **Grace** snipe la ligne arrière (étourdissement), **Sagitta** achève les cibles à bas PV.
 - **Configuration chasse aux monstres :** Cassidy, Eileen et Strike réduisent les dégâts subis des monstres (−21 à −25 %), Irena et Clara augmentent ceux infligés — l'équipe pour les rallys zombies, les missions élite du radar et le farm de boss.
 - **S+ et S se séparent par usage :** aucun héros S+ ne porte de bonus contre les monstres — 9 des 12 héros S en ont un. Les trois exceptions (Noctina, Valkyrie, Leora) portent à la place un bonus d'ATQ fixe d'environ +15 %. Les S+ sont les kits d'arène, les S les kits de chasse pour le World Boss, le Frenzied Boss et le radar.
-- **Répartition des factions pour le Faction Trial :** Guardian représente la moitié du roster avec 12 héros, Ranger et Berserker 7 chacun — largement de quoi monter trois équipes (voir le manuel Faction Trial).
+- **Répartition des factions pour le Faction Trial :** Guardian représente 13 des 27 héros, Ranger et Berserker 7 chacun — largement de quoi monter trois équipes (voir le manuel Faction Trial).
+- **Classé sur l'ensemble des héros** — qui frappe le plus fort, qui tient le plus longtemps, qui buff le plus — se trouve dans le manuel Classement des héros.
